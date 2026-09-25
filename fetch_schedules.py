@@ -19,12 +19,13 @@ import sys
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 from xml.etree import ElementTree
 
 import requests
 from bs4 import BeautifulSoup
 
+from tls_fix import _BUNDLES, bundle_with_intermediates
 from parse import (Slot, find_date, mentions_load_shedding, slots_from_table,
                    slots_from_text)
 
@@ -66,11 +67,28 @@ class Fetcher:
                 return p.read_bytes(), ctype
             raise FileNotFoundError(f"no fixture for {url} ({h})")
         last = None
+        host = urlparse(url).hostname or ""
         for attempt in range(3):
+            verify = False if insecure else _BUNDLES.get(host, True)
             try:
-                r = self.session.get(url, timeout=30, verify=not insecure)
+                r = self.session.get(url, timeout=30, verify=verify)
                 r.raise_for_status()
                 return r.content, r.headers.get("content-type", "")
+            except requests.exceptions.SSLError as e:
+                last = e
+                if host in _BUNDLES:
+                    break
+                try:
+                    bundle_with_intermediates(host)
+                    continue  # retry at once with the completed chain
+                except Exception as e2:
+                    last = requests.exceptions.SSLError(f"{e} / chain repair failed: {e2}")
+                    break
+            except requests.exceptions.ConnectionError as e:
+                last = e
+                if "NameResolutionError" in str(e) or "Name or service not known" in str(e):
+                    break  # domain doesn't exist: retrying won't help
+                time.sleep(2 * (attempt + 1))
             except requests.RequestException as e:
                 last = e
                 time.sleep(2 * (attempt + 1))
