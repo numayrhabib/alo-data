@@ -1,30 +1,8 @@
 {
- "generated_at": "2026-09-25T21:40:50+06:00",
+ "generated_at": "2026-09-25T22:51:12+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
- "notices": [
-  {
-   "utility": "BPDB",
-   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
-   "url": "https://bpdb.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "BPDB",
-   "title": "চাহিদা ও লোডশেডিং",
-   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "NESCO",
-   "title": "লোড শেডিং শিডিউল",
-   "url": "https://nesco.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 0
-  }
- ],
+ "notices": [],
  "news": [
   {
    "title": "লোডশেডিংয়ের তালিকায় বারবার শীর্ষে ময়মনসিংহ, কারণ কী? - citizensvoicebd.com",
@@ -32,7 +10,7 @@
    "published": "Tue, 22 Sep 2026 10:45:32 GMT"
   },
   {
-   "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - SAMAKAL",
+   "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - samakal.com",
    "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPejFSRWVVV0pheklVbENOUldYaVpIWWNRTTgyRjlyTlBZZkZTZW9DTllybWVVY0NVRDlQM2pRV251b1RxWDVjbzBILXJHdlJwT3M1MV92dTBJWEpBU1lUTEE0c0czN010YlhDZ3JNdHgyMmg3ZWpKZ1I1R1RiOVgwTEhFQ3BBY0NZbjZ1YnFwWEtHd2hZZTBaaUZaU2FSVEVQUGktUThoYUpNejFaYXRiMU5XdjViTzRxdTY5c3pmMm1La0JVT2hRd1NSZk5yYlFHbVQycEhFZ3FvZERfSzZIWE9hYVd2WmptV3piSTc3X0FaRFk0RzhNd0JJVUpsQXVVU19oMkhQbjFGNHVTOEtkRlJmU1FWZGg2QmtGUzJEVkUtSkl2QmRvT0d5V0t2ZkRQMDdKM3l0b1F5Q2Y4bHExTkMyUWxBTU5Qc3NWcnJKZXN3emVIcEswamxma2NIbUt3Ny1BTW5IQkRJRnZOSjhHUWpBNUZnX2YwMkpvUHRUY01uNThFRWJ1UU9mSkJkbm5OVU5xVnFkODA3SzBxeHA1eHJvbTBPNGktcElUa3dZY25PYW5OSE5QeElTMnp4VGdzdnlpalBlOWRkaXJJSkhySjVjWHdOOUViUHFfZlpuZw?oc=5",
    "published": "Sun, 23 Aug 2026 07:00:00 GMT"
   },
@@ -67,22 +45,30 @@
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
   }
  ],
+ "planned": [
+  {
+   "title": "আজ সকাল থেকে ৮ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
+   "url": "https://www.bhorerkagoj.net/chittagong/800690",
+   "published": "2026-09-21T20:24:00+00:00",
+   "date": "2026-09-25",
+   "start": "08:00",
+   "end": "16:00",
+   "ambiguous": false,
+   "places": "প্রিন্ট: ২৫ সেপ্টেম্বর ২০২৬, ১০:৫১ পিএম\nবিদ্যুৎ সরবরাহ বন্ধ থাকার সম্ভাব্য এলাকাগুলো হলো—চুরাখালি ব্রিজ এলাকা, অয়াহেদ আলী পুকুরপাড়, হংস মহাজনের বাড়ি, শেফু চেয়ারম্যানের বাড়ি, বাংলাপাড়া, পাক্কির পোল, আফজাল তালুকদার বাড়ি, হারুন চেয়ারম্যানের বাড়ি, গাবতল, বেইজ্জা পুকুরপাড়, আরব টেন্ডলের বাড়ি, জিন্নাত আলীর বাড়ি, দে না পুকুরপাড়, লালারদিঘি পাড়, কদুরখীল ইউনিয়ন পরিষদ, কদুরখীল মুসলিম হাইস্কুল, আল কোরআন একাডেমি, বুড্ডুম ফকিরের মাজার, করিম শাহের মাজার ও আশপাশের এলাকা।"
+  }
+ ],
  "sources": [
   {
    "id": "desco-n",
    "utility": "DESCO",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 4.4
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='desco.gov.bd', port=443) at 0x7f04626dab40>, 'Co"
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.4
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='dpdc.gov.bd', port=443) at 0x7f04626d91c0>, 'Conn"
   },
   {
    "id": "dpdc-o",
@@ -95,34 +81,26 @@
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.9
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='reb.gov.bd', port=443) at 0x7f04626e8e60>, 'Co"
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 2,
-   "seconds": 30.5
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='bpdb.gov.bd', port=443) at 0x7f04626e9eb0>, '"
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 1,
-   "seconds": 7.8
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='nesco.gov.bd', port=443) at 0x7f04626eab70>,"
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 4.2
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='wzpdcl.gov.bd', port=443) at 0x7f04626dbf20"
   }
  ]
 }
