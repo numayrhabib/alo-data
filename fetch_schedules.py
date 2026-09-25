@@ -26,6 +26,7 @@ import requests
 from bs4 import BeautifulSoup
 
 import ocr
+from planned import fetch_planned
 from tls_fix import _BUNDLES, bundle_with_intermediates
 from parse import (Slot, find_date, mentions_load_shedding, slots_from_table,
                    slots_from_text)
@@ -38,7 +39,7 @@ except ImportError:  # PDFs are skipped (and reported) if pdfplumber isn't insta
 HERE = Path(__file__).parent
 OUT = HERE / "data" / "schedule.json"
 DHAKA = timezone(timedelta(hours=6))
-HEADERS = {"User-Agent": "AloScheduleBot/1.0 (+public load shedding schedule reader)",
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; AloScheduleBot/1.0; +public load shedding schedule reader)",
            "Accept-Language": "bn,en;q=0.8"}
 MAX_NOTICES_PER_SOURCE = 4
 IMAGE_EXT = (".jpg", ".jpeg", ".png", ".webp", ".gif")
@@ -297,6 +298,8 @@ def main(argv=None):
         "slots": merge(new_by_source, ok, old, today),
         "notices": notices,
         "news": fetch_news(cfg.get("news_feeds", []), f) if not args.offline else old.get("news", []),
+        "planned": fetch_planned(cfg.get("planned_feeds", []), f, today, log) if not args.offline
+        else [p for p in old.get("planned", []) if p.get("date", "") >= today],
         "sources": status,
     }
     changed = content_hash(doc) != content_hash(old) if old else True
