@@ -1,8 +1,44 @@
 {
- "generated_at": "2026-09-25T21:27:02+06:00",
+ "generated_at": "2026-09-25T21:30:18+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
- "notices": [],
+ "notices": [
+  {
+   "utility": "BPDB",
+   "title": "চাহিদা ও লোডশেডিং",
+   "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpdb/2026/7/33f3cedc-b258-4c12-a21a-ca7ab814a31c.pdf",
+   "type": "pdf",
+   "error": "PDF has no text layer (scanned image)"
+  },
+  {
+   "utility": "BPDB",
+   "title": "চাহিদা ও লোডশেডিং",
+   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
+   "type": "page",
+   "slots": 0
+  },
+  {
+   "utility": "BPDB",
+   "title": "লোড শেডিং শিডিউল",
+   "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bpdb/2026/7/33f3cedc-b258-4c12-a21a-ca7ab814a31c.pdf",
+   "type": "pdf",
+   "error": "PDF has no text layer (scanned image)"
+  },
+  {
+   "utility": "BPDB",
+   "title": "লোড শেডিং শিডিউল",
+   "url": "https://bpdb.gov.bd/site/view/notices",
+   "type": "page",
+   "slots": 0
+  },
+  {
+   "utility": "NESCO",
+   "title": "লোড শেডিং শিডিউল",
+   "url": "https://nesco.gov.bd/site/view/notices",
+   "type": "page",
+   "slots": 0
+  }
+ ],
  "news": [
   {
    "title": "লোডশেডিংয়ের তালিকায় বারবার শীর্ষে ময়মনসিংহ, কারণ কী? - citizensvoicebd.com",
@@ -25,12 +61,12 @@
    "published": "Sun, 30 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "বুয়েটের লোডশেডিং সূচিতে বড় পরিবর্তন, বাতিল আগের বিজ্ঞপ্তি - newsnow24.com",
+   "title": "বুয়েটের লোডশেডিং সূচিতে বড় পরিবর্তন, বাতিল আগের বিজ্ঞপ্তি - NewsNow24",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNNGxGX2tZQ2pOWlo1M3ZUWUp6RGpiV1I4MVJGVlBXY3ZIQjdCMVFWQk9FV0lxMy1abThRdFFUSFd6RWJ0Q0htRUpYQklZcE1N?oc=5",
    "published": "Mon, 24 Aug 2026 16:37:00 GMT"
   },
   {
-   "title": "বুয়েটে দিনে ও রাতে পাঁচবার লোডশেডিং - Bangla Tribune",
+   "title": "বুয়েটে দিনে ও রাতে পাঁচবার লোডশেডিং - banglatribune.com",
    "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNTkNLdXA3ejBWUXlRdi1YQ3Fob0FLNzhHU2pfOUg3UXg2NnNQQ2FZc1E2dmFDdDVrVU8zWS0wV0FKakhFa1N5M3AzLTd6anotWm5iUnVlRU52dEJNSF93VzBUb0hSeUt5VkdDTWR2dFBpYjFUMjk4Wm93MGdoQXlLYmRQR0VYQV9WaUwyZmlUWHgzWTRKNC1tSkZFMnBQdHg1MC1TSG5penZjVUlpblF2QWZsSUVLcW5qTWZ2SklVeFBaYWhQc2xrWDJQVmVBeXpzVExnZ0xsYkwyYjRRV1FGODNoaWQyOGJvMUd0QUdMLUxteTVQdC1TVlBiOXVsaElpVXNIUVV5cHJuNjcxTGV5SEZGd3RPVkhfN2g3eWJqRXp1YmZhY3NlS0ZYUkZRUk5nWHRYaVRZR0l2d2JKZU5lMGczXzdSdFRNZ2hNdURYLWpNZ2lXYkpDc200cDl4RDJWRUhZUUpCTFJYd2ZGOVZlY1Z0ZGxjMlhDRGpxWVNVMUV3RExZSFRJM3h6Y1gxN3BRYWFQMG5xQlRpNDdvbE5GZWFNWmdjZW14bVRtQTdxNlMydng1bEtkYVVTTURyXzI2ZWpTNVdtb0Q1QdIBzwNBVV95cUxPMEVhWDdJaUtFSHJDcmc4QTZxQUVWT3NUVkNaVDkySFVtSTN1WE5yWUhOemNSTjJ4WmUwZlV4bUFyVGR1UjJoaVhRQkJfYmNNaXczN1BTVDlMbHNWcm1mWHp1Zm5oTzBndmcwaGNOb3hENXUydEhrbl9EdXJUUE83RmNVaWRFb1NEbEplTjNQVVNIWmRRNnlBQ2pyejB0WVpUdDY0NVRJQ0hsWnY4OVFSSUxSeFcxMU9vWlRoaDd2WG1UUnE4QkVZUloxWE9kX1gyRUkyVmNadUN5amN5VWVsU09ETFF5UWk2d0hxY3JuZ0Z3c3NBc09oWGhVc2haMW5POF9HUUpPbHNYS2d0M3R1Q3Z6OVRsQThUcVpQa1o1WDgyaGc4SVZJWUtFbEJEajNNUm00Rl9tZTZYNTkwb05sRTVTVFdzdDBjdERCSm9PbDB2YUpSQU9IZVpWZzdpblg1S0oxeGVDN2lybFp4N1ZiYkt2MTFzVU1sVGkzbDhJV04wdVdNM0cwLTNpV3VTLWJ6SXdfR1F2TU1MU3JLbE5RNDBjNDRVWnhUY1JVRkxya0FIUlZpczM2eDh4cWZwN2ZmVHhvbGtvQW54TDh0ekxv?oc=5",
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
   },
@@ -53,40 +89,62 @@
    "error": "HTTPSConnectionPool(host='www.desco.org.bd', port=443): Max retries exceeded with url: /bangla/loadshed_b.php (Caused by NameResolutionError(\"HTTPSConnection(host='www.desco.org.bd', port=443): Failed"
   },
   {
+   "id": "desco-p",
+   "utility": "DESCO",
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='desco.portal.gov.bd', port=443): Max retries exceeded with url: /site/page/659bb373-82c2-4282-a4f1-cdafbefe0378 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFI"
+  },
+  {
+   "id": "desco-n",
+   "utility": "DESCO",
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='desco.portal.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certifica"
+  },
+  {
    "id": "dpdc",
    "utility": "DPDC",
    "ok": false,
-   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /site/page/73eb4722-b49c-4a44-bd6e-923c06c4a169 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VER"
+   "error": "404 Client Error: Not Found for url: https://dpdc.gov.bd/pages/static-pages/6922dcb9933eb65569e11ab8"
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verif"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 1.7
   },
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 3.4
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verif"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 4,
+   "seconds": 18.4
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate veri"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 1,
+   "seconds": 12.6
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate ver"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 3.2
   }
  ]
 }
