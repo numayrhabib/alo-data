@@ -2,34 +2,22 @@
   "_note": "Pages the fetcher checks. 'page' = a page that shows the schedule itself (table or PDF links). 'notices' = a notice board; the fetcher follows links whose title mentions load shedding. URLs are from the utilities' public sites; if one moves, update it here. No code change needed.",
   "sources": [
     {
-      "id": "desco",
-      "utility": "DESCO",
-      "kind": "page",
-      "url": "https://www.desco.org.bd/bangla/loadshed_b.php"
-    },
-    {
-      "id": "desco-p",
-      "utility": "DESCO",
-      "kind": "page",
-      "url": "https://desco.portal.gov.bd/site/page/659bb373-82c2-4282-a4f1-cdafbefe0378"
-    },
-    {
       "id": "desco-n",
       "utility": "DESCO",
       "kind": "notices",
-      "url": "https://desco.portal.gov.bd/site/view/notices"
-    },
-    {
-      "id": "dpdc",
-      "utility": "DPDC",
-      "kind": "page",
-      "url": "https://dpdc.gov.bd/site/page/73eb4722-b49c-4a44-bd6e-923c06c4a169"
+      "url": "https://desco.gov.bd/pages/notices"
     },
     {
       "id": "dpdc-n",
       "utility": "DPDC",
       "kind": "notices",
-      "url": "https://dpdc.gov.bd/site/view/notices"
+      "url": "https://dpdc.gov.bd/pages/notices"
+    },
+    {
+      "id": "dpdc-o",
+      "utility": "DPDC",
+      "kind": "notices",
+      "url": "https://dpdc.org.bd/site/page/view_gov/27"
     },
     {
       "id": "breb-n",
