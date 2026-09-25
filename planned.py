@@ -18,6 +18,8 @@ from parse import BN_MONTHS, find_date, find_ranges, normalize
 
 TITLE_HINTS = ["বিদ্যুৎ থাকবে না", "থাকবে না বিদ্যুৎ", "বিদ্যুৎ বন্ধ থাকবে", "বিদ্যুৎ সরবরাহ বন্ধ", "বিদ্যুৎহীন থাকবে", "power outage", "power supply will remain"]
 DHAKA_OFFSET = timedelta(hours=6)
+# "প্রিন্ট: ২৫ সেপ্টেম্বর…", "প্রকাশিত: …", "আপডেট: …" lines are page timestamps, not the shutdown date
+STAMP_RE = re.compile(r"^\s*(প্রিন্ট|প্রকাশ|আপডেট|সর্বশেষ|Print|Published|Updated)", re.IGNORECASE)
 
 
 def is_shutdown_title(title: str) -> bool:
@@ -62,7 +64,7 @@ def article_text(html: bytes) -> str:
         tag.decompose()
     body = soup.find("article") or soup.find(attrs={"itemprop": "articleBody"}) or soup.body or soup
     paras = [p.get_text(" ", strip=True) for p in body.find_all("p")]
-    paras = [p for p in paras if len(p) > 25]
+    paras = [p for p in paras if len(p) > 25 and not STAMP_RE.match(p)]
     return "\n".join(paras) if paras else body.get_text("\n", strip=True)
 
 
@@ -75,6 +77,8 @@ def parse_article(text: str, published: datetime | None, title: str = "") -> dic
         return None
     start, end, amb, _ = ranges[0]
     day = find_date(full) or _date_without_year(full, pub_day.year)
+    if day and published and not (pub_day - timedelta(days=1) <= date.fromisoformat(day) <= pub_day + timedelta(days=7)):
+        day = None  # a date far from the publish date is some other date in the page
     if not day:
         if re.search(r"আগামীকাল|কাল\s", full):
             day = (pub_day + timedelta(days=1)).isoformat()
