@@ -1,0 +1,29 @@
+name: Fetch load shedding schedules
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes (GitHub may delay runs a few minutes)
+  workflow_dispatch: {}        # "Run workflow" button for a manual check
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python fetch_schedules.py
+      - name: Save changes
+        run: |
+          git config user.name "alo-bot"
+          git config user.email "alo-bot@users.noreply.github.com"
+          git add data/schedule.json
+          git diff --cached --quiet || git commit -m "Update schedules $(date -u +%FT%TZ)"
+          git push
