@@ -25,6 +25,7 @@ from xml.etree import ElementTree
 import requests
 from bs4 import BeautifulSoup
 
+import ocr
 from tls_fix import _BUNDLES, bundle_with_intermediates
 from parse import (Slot, find_date, mentions_load_shedding, slots_from_table,
                    slots_from_text)
@@ -113,7 +114,11 @@ def extract_html(body: bytes, utility: str, url: str, day_default: str):
         slots = slots_from_text(main.get_text("\n"), utility, day, url)
     links = []
     for a in soup.find_all("a", href=True):
-        links.append((a.get_text(" ", strip=True), urljoin(url, a["href"])))
+        title = a.get_text(" ", strip=True)
+        row = a.find_parent(["tr", "li"])
+        if row is not None and (len(title) < 12 or not mentions_load_shedding(title)):
+            title = (title + " " + row.get_text(" ", strip=True))[:300]  # new portals: link says "দেখুন", title is in the row
+        links.append((title, urljoin(url, a["href"])))
     for img in soup.find_all("img", src=True):
         alt = (img.get("alt") or "") + " " + (img.get("title") or "")
         links.append((alt.strip(), urljoin(url, img["src"])))
@@ -132,10 +137,14 @@ def extract_pdf(body: bytes, utility: str, url: str, day_default: str):
         for page in pdf.pages:
             for tbl in page.extract_tables() or []:
                 slots += slots_from_table(tbl, utility, day, url)
+    if not "".join(all_text).strip():  # scanned PDF: read it with OCR
+        text = ocr.ocr_pdf(body)
+        if not text.strip():
+            raise RuntimeError("PDF has no text layer (scanned image) and OCR found nothing")
+        log(f"       OCR read {len(text)} characters from {url}")
+        return slots_from_text(text, utility, find_date(text) or day_default, url)
     if not slots:
         slots = slots_from_text("\n".join(all_text), utility, day, url)
-    if not "".join(all_text).strip():
-        raise RuntimeError("PDF has no text layer (scanned image)")
     return slots
 
 
@@ -172,7 +181,15 @@ def process_source(src: dict, f: Fetcher, day_default: str):
         seen.add(link)
         try:
             if is_image(link):
-                notices.append({"utility": utility, "title": title or "Load shedding notice", "url": link, "type": "image"})
+                got = []
+                try:
+                    b, _ = f.get(link, insecure)
+                    text = ocr.ocr_image(b, "." + link.lower().split("?")[0].rsplit(".", 1)[-1])
+                    got = slots_from_text(text, utility, find_date(text) or day_default, link)
+                except Exception as e:
+                    log(f"       image OCR failed for {link}: {e}")
+                slots += got
+                notices.append({"utility": utility, "title": title or "Load shedding notice", "url": link, "type": "image", "slots": len(got)})
                 continue
             b, ct = f.get(link, insecure)
             if is_pdf(link, ct):
@@ -182,11 +199,15 @@ def process_source(src: dict, f: Fetcher, day_default: str):
             else:
                 got, sub_links, _ = extract_html(b, utility, link, day_default)
                 slots += got
-                pdfs = [u for _, u in sub_links if is_pdf(u, "")][:2]
+                pdfs = [u for _, u in sub_links if is_pdf(u, "") or (is_image(u) and "objectstorage" in u)][:3]
                 for p in pdfs:  # notice detail page usually just wraps a PDF
                     try:
                         pb, pct = f.get(p, insecure)
-                        more = extract_pdf(pb, utility, p, day_default)
+                        if is_image(p):
+                            t = ocr.ocr_image(pb, "." + p.lower().split("?")[0].rsplit(".", 1)[-1])
+                            more = slots_from_text(t, utility, find_date(t) or day_default, p)
+                        else:
+                            more = extract_pdf(pb, utility, p, day_default)
                         slots += more
                         got += more
                     except Exception as e:  # keep going
