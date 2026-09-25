@@ -57,6 +57,7 @@ def log(*a):
 class Fetcher:
     def __init__(self, offline_dir: Path | None = None):
         self.offline_dir = offline_dir
+        self.dead_hosts = set()
         self.session = requests.Session()
         self.session.headers.update(HEADERS)
 
@@ -70,10 +71,12 @@ class Fetcher:
             raise FileNotFoundError(f"no fixture for {url} ({h})")
         last = None
         host = urlparse(url).hostname or ""
-        for attempt in range(3):
+        if host in self.dead_hosts:
+            raise requests.exceptions.ConnectTimeout(f"{host} did not answer earlier in this run")
+        for attempt in range(2):
             verify = False if insecure else _BUNDLES.get(host, True)
             try:
-                r = self.session.get(url, timeout=30, verify=verify)
+                r = self.session.get(url, timeout=(12, 40), verify=verify)
                 r.raise_for_status()
                 return r.content, r.headers.get("content-type", "")
             except requests.exceptions.SSLError as e:
@@ -90,6 +93,8 @@ class Fetcher:
                 last = e
                 if "NameResolutionError" in str(e) or "Name or service not known" in str(e):
                     break  # domain doesn't exist: retrying won't help
+                if isinstance(e, requests.exceptions.ConnectTimeout) and attempt == 1:
+                    self.dead_hosts.add(host)  # don't wait on this host again this run
                 time.sleep(2 * (attempt + 1))
             except requests.RequestException as e:
                 last = e
