@@ -1,13 +1,60 @@
 {
   "_note": "Pages the fetcher checks. 'page' = a page that shows the schedule itself (table or PDF links). 'notices' = a notice board; the fetcher follows links whose title mentions load shedding. URLs are from the utilities' public sites; if one moves, update it here. No code change needed.",
   "sources": [
-    {"id": "desco",  "utility": "DESCO",  "kind": "page",    "url": "https://www.desco.org.bd/bangla/loadshed_b.php"},
-    {"id": "dpdc",   "utility": "DPDC",   "kind": "page",    "url": "https://dpdc.gov.bd/site/page/73eb4722-b49c-4a44-bd6e-923c06c4a169"},
-    {"id": "dpdc-n", "utility": "DPDC",   "kind": "notices", "url": "https://dpdc.gov.bd/site/view/notices"},
-    {"id": "breb-n", "utility": "BREB",   "kind": "notices", "url": "https://reb.gov.bd/site/view/notices"},
-    {"id": "bpdb-n", "utility": "BPDB",   "kind": "notices", "url": "https://bpdb.gov.bd/site/view/notices"},
-    {"id": "nesco-n","utility": "NESCO",  "kind": "notices", "url": "https://nesco.gov.bd/site/view/notices"},
-    {"id": "wzpdcl-n","utility": "WZPDCL","kind": "notices", "url": "https://wzpdcl.gov.bd/site/view/notices"}
+    {
+      "id": "desco",
+      "utility": "DESCO",
+      "kind": "page",
+      "url": "https://www.desco.org.bd/bangla/loadshed_b.php"
+    },
+    {
+      "id": "desco-p",
+      "utility": "DESCO",
+      "kind": "page",
+      "url": "https://desco.portal.gov.bd/site/page/659bb373-82c2-4282-a4f1-cdafbefe0378"
+    },
+    {
+      "id": "desco-n",
+      "utility": "DESCO",
+      "kind": "notices",
+      "url": "https://desco.portal.gov.bd/site/view/notices"
+    },
+    {
+      "id": "dpdc",
+      "utility": "DPDC",
+      "kind": "page",
+      "url": "https://dpdc.gov.bd/site/page/73eb4722-b49c-4a44-bd6e-923c06c4a169"
+    },
+    {
+      "id": "dpdc-n",
+      "utility": "DPDC",
+      "kind": "notices",
+      "url": "https://dpdc.gov.bd/site/view/notices"
+    },
+    {
+      "id": "breb-n",
+      "utility": "BREB",
+      "kind": "notices",
+      "url": "https://reb.gov.bd/site/view/notices"
+    },
+    {
+      "id": "bpdb-n",
+      "utility": "BPDB",
+      "kind": "notices",
+      "url": "https://bpdb.gov.bd/site/view/notices"
+    },
+    {
+      "id": "nesco-n",
+      "utility": "NESCO",
+      "kind": "notices",
+      "url": "https://nesco.gov.bd/site/view/notices"
+    },
+    {
+      "id": "wzpdcl-n",
+      "utility": "WZPDCL",
+      "kind": "notices",
+      "url": "https://wzpdcl.gov.bd/site/view/notices"
+    }
   ],
   "news_feeds": [
     "https://news.google.com/rss/search?q=%E0%A6%B2%E0%A7%8B%E0%A6%A1%E0%A6%B6%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%82+%E0%A6%B8%E0%A7%82%E0%A6%9A%E0%A6%BF&hl=bn&gl=BD&ceid=BD:bn",
