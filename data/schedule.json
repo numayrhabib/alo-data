@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T11:30:56+06:00",
+ "generated_at": "2026-09-27T16:42:19+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
  "notices": [
@@ -27,7 +27,7 @@
  ],
  "news": [
   {
-   "title": "লোডশেডিং সূচি চাই - দৈনিক ইনকিলাব",
+   "title": "লোডশেডিং সূচি চাই - dailyinqilab.com",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtSDRFSTVkNmVZaG1iRVcwODJNQU5zOUZTRzN1RkJiYU5vVHU0SHhYQlUxU3hLcFAzUDlYX2R3NjVnVm5pUXIzTUNSblZCLUVCMEpCMlQyTVNXS3hkSHc?oc=5",
    "published": "Fri, 11 Sep 2026 07:00:00 GMT"
   },
@@ -42,12 +42,12 @@
    "published": "Sun, 30 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "আগাম লোডশেডিং সূচি চান শিল্পোদ্যোক্তারা - কালের কণ্ঠ",
+   "title": "আগাম লোডশেডিং সূচি চান শিল্পোদ্যোক্তারা - kalerkantho.com",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUZkTEZMTnZXQ2NxUHFaQjJvSWxjQ0dvVG5RQWVCcGVValp2dGo3Q25QMU9ic2F2OXFsbnNZUEJwejFfR21nbGR4N3J5ZENZQjRlNGI0SVVIMEZVaWV2cG1nSktTQk5PandwTkVoTjhvcGVTeUEyQklrWVVuT0pENVQ2cUQ?oc=5",
    "published": "Mon, 31 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - dainikshiksha.com",
+   "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - Dainik Shiksha",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHFhaHVfdkxPU083NDUxN081V1pFLS00VlBiZ3ltM2FuSnhxU1hfRXIxNG9NWHJWeHJ2Tm1FdV8wNmNlRmNYOHZFR2lqTnJDQVhzX3BaWUJESUk1UHp0a1RhRHR0SDRfOXVPRmJ6Z2VpbWpwVmExclJUVy1PcG5md3VXdE16NnVCRHM3Q202Rlhydw?oc=5",
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
   },
@@ -83,7 +83,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 5.4
+   "seconds": 5.3
   },
   {
    "id": "dpdc-o",
@@ -99,7 +99,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.7
+   "seconds": 3.9
   },
   {
    "id": "bpdb-n",
@@ -107,7 +107,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 30.8
+   "seconds": 30.1
   },
   {
    "id": "nesco-n",
@@ -115,7 +115,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 1,
-   "seconds": 7.3
+   "seconds": 8.0
   },
   {
    "id": "wzpdcl-n",
