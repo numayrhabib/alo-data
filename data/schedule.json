@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-09-27T16:42:19+06:00",
+ "generated_at": "2026-09-27T21:29:40+06:00",
  "timezone": "Asia/Dhaka",
- "slots": [],
+ "slots": [
+  {
+   "utility": "NESCO",
+   "area": "এবং সার্ভে কলেজ থেকে খড়খড়ি পর্যন্ত এলাকাসমূহে",
+   "date": "2026-09-27",
+   "start": "10:00",
+   "end": "14:00",
+   "ambiguous": false,
+   "source_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nesco/2026/8/1dd4fd0d-79d6-4164-8a27-5292706edd45.pdf",
+   "source_id": "nesco-n"
+  }
+ ],
  "notices": [
   {
    "utility": "BPDB",
@@ -22,12 +33,12 @@
    "title": "লোড শেডিং শিডিউল",
    "url": "https://nesco.gov.bd/site/view/notices",
    "type": "page",
-   "slots": 0
+   "slots": 1
   }
  ],
  "news": [
   {
-   "title": "লোডশেডিং সূচি চাই - dailyinqilab.com",
+   "title": "লোডশেডিং সূচি চাই - দৈনিক ইনকিলাব",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtSDRFSTVkNmVZaG1iRVcwODJNQU5zOUZTRzN1RkJiYU5vVHU0SHhYQlUxU3hLcFAzUDlYX2R3NjVnVm5pUXIzTUNSblZCLUVCMEpCMlQyTVNXS3hkSHc?oc=5",
    "published": "Fri, 11 Sep 2026 07:00:00 GMT"
   },
@@ -42,14 +53,14 @@
    "published": "Sun, 30 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "আগাম লোডশেডিং সূচি চান শিল্পোদ্যোক্তারা - kalerkantho.com",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUZkTEZMTnZXQ2NxUHFaQjJvSWxjQ0dvVG5RQWVCcGVValp2dGo3Q25QMU9ic2F2OXFsbnNZUEJwejFfR21nbGR4N3J5ZENZQjRlNGI0SVVIMEZVaWV2cG1nSktTQk5PandwTkVoTjhvcGVTeUEyQklrWVVuT0pENVQ2cUQ?oc=5",
-   "published": "Mon, 31 Aug 2026 07:00:00 GMT"
-  },
-  {
    "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - Dainik Shiksha",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHFhaHVfdkxPU083NDUxN081V1pFLS00VlBiZ3ltM2FuSnhxU1hfRXIxNG9NWHJWeHJ2Tm1FdV8wNmNlRmNYOHZFR2lqTnJDQVhzX3BaWUJESUk1UHp0a1RhRHR0SDRfOXVPRmJ6Z2VpbWpwVmExclJUVy1PcG5md3VXdE16NnVCRHM3Q202Rlhydw?oc=5",
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
+  },
+  {
+   "title": "আগাম লোডশেডিং সূচি চান শিল্পোদ্যোক্তারা - কালের কণ্ঠ",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUZkTEZMTnZXQ2NxUHFaQjJvSWxjQ0dvVG5RQWVCcGVValp2dGo3Q25QMU9ic2F2OXFsbnNZUEJwejFfR21nbGR4N3J5ZENZQjRlNGI0SVVIMEZVaWV2cG1nSktTQk5PandwTkVoTjhvcGVTeUEyQklrWVVuT0pENVQ2cUQ?oc=5",
+   "published": "Mon, 31 Aug 2026 07:00:00 GMT"
   },
   {
    "title": "বুয়েটের লোডশেডিং সূচিতে বড় পরিবর্তন, বাতিল আগের বিজ্ঞপ্তি - NewsNow24",
@@ -57,13 +68,13 @@
    "published": "Mon, 24 Aug 2026 16:37:00 GMT"
   },
   {
-   "title": "বুয়েটে দিনে ও রাতে পাঁচবার লোডশেডিং - Bangla Tribune",
-   "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNTkNLdXA3ejBWUXlRdi1YQ3Fob0FLNzhHU2pfOUg3UXg2NnNQQ2FZc1E2dmFDdDVrVU8zWS0wV0FKakhFa1N5M3AzLTd6anotWm5iUnVlRU52dEJNSF93VzBUb0hSeUt5VkdDTWR2dFBpYjFUMjk4Wm93MGdoQXlLYmRQR0VYQV9WaUwyZmlUWHgzWTRKNC1tSkZFMnBQdHg1MC1TSG5penZjVUlpblF2QWZsSUVLcW5qTWZ2SklVeFBaYWhQc2xrWDJQVmVBeXpzVExnZ0xsYkwyYjRRV1FGODNoaWQyOGJvMUd0QUdMLUxteTVQdC1TVlBiOXVsaElpVXNIUVV5cHJuNjcxTGV5SEZGd3RPVkhfN2g3eWJqRXp1YmZhY3NlS0ZYUkZRUk5nWHRYaVRZR0l2d2JKZU5lMGczXzdSdFRNZ2hNdURYLWpNZ2lXYkpDc200cDl4RDJWRUhZUUpCTFJYd2ZGOVZlY1Z0ZGxjMlhDRGpxWVNVMUV3RExZSFRJM3h6Y1gxN3BRYWFQMG5xQlRpNDdvbE5GZWFNWmdjZW14bVRtQTdxNlMydng1bEtkYVVTTURyXzI2ZWpTNVdtb0Q1QdIBzwNBVV95cUxPMEVhWDdJaUtFSHJDcmc4QTZxQUVWT3NUVkNaVDkySFVtSTN1WE5yWUhOemNSTjJ4WmUwZlV4bUFyVGR1UjJoaVhRQkJfYmNNaXczN1BTVDlMbHNWcm1mWHp1Zm5oTzBndmcwaGNOb3hENXUydEhrbl9EdXJUUE83RmNVaWRFb1NEbEplTjNQVVNIWmRRNnlBQ2pyejB0WVpUdDY0NVRJQ0hsWnY4OVFSSUxSeFcxMU9vWlRoaDd2WG1UUnE4QkVZUloxWE9kX1gyRUkyVmNadUN5amN5VWVsU09ETFF5UWk2d0hxY3JuZ0Z3c3NBc09oWGhVc2haMW5POF9HUUpPbHNYS2d0M3R1Q3Z6OVRsQThUcVpQa1o1WDgyaGc4SVZJWUtFbEJEajNNUm00Rl9tZTZYNTkwb05sRTVTVFdzdDBjdERCSm9PbDB2YUpSQU9IZVpWZzdpblg1S0oxeGVDN2lybFp4N1ZiYkt2MTFzVU1sVGkzbDhJV04wdVdNM0cwLTNpV3VTLWJ6SXdfR1F2TU1MU3JLbE5RNDBjNDRVWnhUY1JVRkxya0FIUlZpczM2eDh4cWZwN2ZmVHhvbGtvQW54TDh0ekxv?oc=5",
+   "title": "প্রতিদিন পাঁচ ঘণ্টা করে লোডশেডিং থাকবে বুয়েটে - ittefaq.com.bd",
+   "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxQVWtzdzJieFc0c0RoRkpiVjNod1h6RDBMV0VsYnEyWmN3SHozU0ZmRkZsZ1BpaThGaTFpeWFGOG5tM2NyeXc0aG5yZGQzTzUwYzBVM2tUYjVad0k4alFMM21JcXlXZmNUdzRfNHJUWWRRZGdwZEYzNHRhblBfRmFRVXpHaDM2eHphVEE3WGNKNmFLajFyTzFyX01IaERXYUxyVmJLa3lOT2dJZWRlQ0ZFRklzdWJQMnQ1OGJlTnMzcDNab0RMVkx4amRHQVI2YzA5bXN0TmF0cXNYZGp3WXg4V0FudFJ1SGFtc21nejM4N1NqTXROZU5MeDJwNGctQ3JfSDgzWGFWaXpaZVF1dE80aVFLaWRpb3dKSUxfWnV0MF9PaE9xUFNJSkttZDVpejNEem14NHRsV0p1R3pzdWZ0QVZKNV9VZU0xVHMwRUxVTm9PWWk1dm9VMEZJazlDUjVCWmY0OG5KTnpnbHMtMmt4eGh6ZUpfOGdKNXJTNjVjME0tTG9vMlMxTWJjUHZRTHFOUkpZaG5tYVNGS0NESElIZk5EaEcxLTVHcGtxV3lGbGJfU0prR2hoT01neC1KVjJHa2RlbmNaOHJxVVo2TXZNdkR5cWdjWnJyVDNYTVFIa29yMFlTRjNKSC1LZjZtTHVxSkxsS2tjaHd2eVh3cWwwNW5Za2R2eTVPSTIwdGFfYV9Na1NmSGM2Zjd6QThmUGJ6Z3plYXJn0gGrBEFVX3lxTFB5VW9IMGk2MjdSdmtRQ2FpaTMyYi1kc29tMGY3R1J2cllrbzl4VnIycTZseFNYNlk1OHdjeU84V29HcjhqSWlQamQwa18xV2VzVFpXZDZiSkNWS1lYd1JuM09kdmxWNzJiblpjNk5FMEpRZEN0RzBLeFdDZUJtV0Jlc1dxVFMybW4wck9qZnZUMGJxQTQ3LTAwMFRPRi1Cc3pPYWhFWkxycXR6QjJyQkV4Ykw2ejBNUlhYS2hub1hQUWl4TXlwSm9PYTZ3Zkdic3pXckhYQjVxd1JmeE5lUWt0N0Q4bk5Od2t3Um11dEcxTFlUa0Z6VXljZk9Nc3hyQTJSV3pWSHYwTGhBenFURl9XMnVyOHhtN080NjdrLVJwdzNudmpvSmFEMnRkblZKNjBWTXVqYmxSQVpLdkhyV1kySGJiSjFBZ3hheUlaU0RXUERFbUQ4WUJZTk9lME5BZlBLeUw0VUpOazFkU0F4RHRKNmw0QUgzendRMUZFTzRfSUdhV0Nwalc5QS0zWVdZcENrVWdyVktnTkdUQmFMaDFNWjZSTmhxSkpXbERPVUFyWnRzS3dSaDc3WHI4bjNVOTZ3eXZKYWdQZllpWXRLdjU1RGk2VmlmdHIwMVBMNUdOR2dWWkR6UGJkS29ZMW9VVEJ5SUg5MWIxUHNaVHhveTlMamlNYk1iTTJ5ODRZSmQzNGltaHhlTFFGcnBpcG8xY2JjT2VtOUR4Q2ZHRQ?oc=5",
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "প্রতিদিন পাঁচ ঘণ্টা করে লোডশেডিং থাকবে বুয়েটে - The Daily Ittefaq",
-   "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxQVWtzdzJieFc0c0RoRkpiVjNod1h6RDBMV0VsYnEyWmN3SHozU0ZmRkZsZ1BpaThGaTFpeWFGOG5tM2NyeXc0aG5yZGQzTzUwYzBVM2tUYjVad0k4alFMM21JcXlXZmNUdzRfNHJUWWRRZGdwZEYzNHRhblBfRmFRVXpHaDM2eHphVEE3WGNKNmFLajFyTzFyX01IaERXYUxyVmJLa3lOT2dJZWRlQ0ZFRklzdWJQMnQ1OGJlTnMzcDNab0RMVkx4amRHQVI2YzA5bXN0TmF0cXNYZGp3WXg4V0FudFJ1SGFtc21nejM4N1NqTXROZU5MeDJwNGctQ3JfSDgzWGFWaXpaZVF1dE80aVFLaWRpb3dKSUxfWnV0MF9PaE9xUFNJSkttZDVpejNEem14NHRsV0p1R3pzdWZ0QVZKNV9VZU0xVHMwRUxVTm9PWWk1dm9VMEZJazlDUjVCWmY0OG5KTnpnbHMtMmt4eGh6ZUpfOGdKNXJTNjVjME0tTG9vMlMxTWJjUHZRTHFOUkpZaG5tYVNGS0NESElIZk5EaEcxLTVHcGtxV3lGbGJfU0prR2hoT01neC1KVjJHa2RlbmNaOHJxVVo2TXZNdkR5cWdjWnJyVDNYTVFIa29yMFlTRjNKSC1LZjZtTHVxSkxsS2tjaHd2eVh3cWwwNW5Za2R2eTVPSTIwdGFfYV9Na1NmSGM2Zjd6QThmUGJ6Z3plYXJn0gGrBEFVX3lxTFB5VW9IMGk2MjdSdmtRQ2FpaTMyYi1kc29tMGY3R1J2cllrbzl4VnIycTZseFNYNlk1OHdjeU84V29HcjhqSWlQamQwa18xV2VzVFpXZDZiSkNWS1lYd1JuM09kdmxWNzJiblpjNk5FMEpRZEN0RzBLeFdDZUJtV0Jlc1dxVFMybW4wck9qZnZUMGJxQTQ3LTAwMFRPRi1Cc3pPYWhFWkxycXR6QjJyQkV4Ykw2ejBNUlhYS2hub1hQUWl4TXlwSm9PYTZ3Zkdic3pXckhYQjVxd1JmeE5lUWt0N0Q4bk5Od2t3Um11dEcxTFlUa0Z6VXljZk9Nc3hyQTJSV3pWSHYwTGhBenFURl9XMnVyOHhtN080NjdrLVJwdzNudmpvSmFEMnRkblZKNjBWTXVqYmxSQVpLdkhyV1kySGJiSjFBZ3hheUlaU0RXUERFbUQ4WUJZTk9lME5BZlBLeUw0VUpOazFkU0F4RHRKNmw0QUgzendRMUZFTzRfSUdhV0Nwalc5QS0zWVdZcENrVWdyVktnTkdUQmFMaDFNWjZSTmhxSkpXbERPVUFyWnRzS3dSaDc3WHI4bjNVOTZ3eXZKYWdQZllpWXRLdjU1RGk2VmlmdHIwMVBMNUdOR2dWWkR6UGJkS29ZMW9VVEJ5SUg5MWIxUHNaVHhveTlMamlNYk1iTTJ5ODRZSmQzNGltaHhlTFFGcnBpcG8xY2JjT2VtOUR4Q2ZHRQ?oc=5",
+   "title": "বিদ্যুৎ সংকটে বুয়েটে ৫ ঘণ্টা লোডশেডিংয়ের নোটিশ - Risingbd.com",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFYWNGRVBVTkJzcnpKelVXQXZ6Z0RZVnIwdG91bEhHM29TQ3VTMVFrckRnNUpIM2tacjhhcEZXdWNJaTdaWmdLREx2Z3NMa3ZEWmJZMk1n0gFSQVVfeXFMT3B6aFpucUFVQzUyTGdLZ2hVakZpcmNLLWp1ek5mckdyalZlX2ZacUJPdDB5ejNOM0lYczNZbWQtUXhtRmtVdHgxLVJKM2VNOVZkQQ?oc=5",
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
   }
  ],
@@ -83,7 +94,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 5.3
+   "seconds": 4.1
   },
   {
    "id": "dpdc-o",
@@ -99,7 +110,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.9
+   "seconds": 3.7
   },
   {
    "id": "bpdb-n",
@@ -107,15 +118,15 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 30.1
+   "seconds": 25.0
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
    "ok": true,
-   "slots_found": 0,
+   "slots_found": 1,
    "notices_found": 1,
-   "seconds": 8.0
+   "seconds": 7.5
   },
   {
    "id": "wzpdcl-n",
@@ -123,7 +134,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.9
+   "seconds": 3.7
   }
  ]
 }
