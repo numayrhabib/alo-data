@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T02:40:08+06:00",
+ "generated_at": "2026-09-29T06:47:28+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [
   {
@@ -38,11 +38,6 @@
  ],
  "news": [
   {
-   "title": "লোডশেডিং সূচি চাই - দৈনিক ইনকিলাব",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtSDRFSTVkNmVZaG1iRVcwODJNQU5zOUZTRzN1RkJiYU5vVHU0SHhYQlUxU3hLcFAzUDlYX2R3NjVnVm5pUXIzTUNSblZCLUVCMEpCMlQyTVNXS3hkSHc?oc=5",
-   "published": "Fri, 11 Sep 2026 07:00:00 GMT"
-  },
-  {
    "title": "লোডশেডিংয়ের তালিকায় বারবার শীর্ষে ময়মনসিংহ, কারণ কী? - citizensvoicebd.com",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qbU03WDFMSE5JT0dCTm9HY0NmTU9zcDhhV1YxLW4tNURCc0xCeWdIcVZ1cEpQVmlqeE1YRnB3V2pKd19zNkNuRVpMV0ZGWWtYdm5uajU3cTZCUQ?oc=5",
    "published": "Tue, 22 Sep 2026 10:45:32 GMT"
@@ -58,14 +53,14 @@
    "published": "Mon, 31 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "কখন লোডশেডিং হবে, জানানোর দাবি শিল্প উদ্যোক্তাদের - Jagonews24",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqY3FWcmRWVTN1bmloNnpDSjlRY05ZOHFBdWRJYmNheGtURWNyLXZxQWdFMmdjZnRiSy1yc3pNRE9qNmdESndxNXpGdVpnYTYzSTQwOXVYSHdhRFk?oc=5",
-   "published": "Sun, 30 Aug 2026 07:00:00 GMT"
-  },
-  {
    "title": "বুয়েটের লোডশেডিং সূচিতে বড় পরিবর্তন, বাতিল আগের বিজ্ঞপ্তি - NewsNow24",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNNGxGX2tZQ2pOWlo1M3ZUWUp6RGpiV1I4MVJGVlBXY3ZIQjdCMVFWQk9FV0lxMy1abThRdFFUSFd6RWJ0Q0htRUpYQklZcE1N?oc=5",
    "published": "Mon, 24 Aug 2026 16:37:00 GMT"
+  },
+  {
+   "title": "কখন লোডশেডিং হবে, জানানোর দাবি শিল্প উদ্যোক্তাদের - Jagonews24",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqY3FWcmRWVTN1bmloNnpDSjlRY05ZOHFBdWRJYmNheGtURWNyLXZxQWdFMmdjZnRiSy1yc3pNRE9qNmdESndxNXpGdVpnYTYzSTQwOXVYSHdhRFk?oc=5",
+   "published": "Sun, 30 Aug 2026 07:00:00 GMT"
   },
   {
    "title": "প্রতিদিন পাঁচ ঘণ্টা করে লোডশেডিং থাকবে বুয়েটে - The Daily Ittefaq",
@@ -76,6 +71,11 @@
    "title": "বিদ্যুৎ সংকটে বুয়েটে ৫ ঘণ্টা লোডশেডিংয়ের নোটিশ - Risingbd.com",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFYWNGRVBVTkJzcnpKelVXQXZ6Z0RZVnIwdG91bEhHM29TQ3VTMVFrckRnNUpIM2tacjhhcEZXdWNJaTdaWmdLREx2Z3NMa3ZEWmJZMk1n0gFSQVVfeXFMT3B6aFpucUFVQzUyTGdLZ2hVakZpcmNLLWp1ek5mckdyalZlX2ZacUJPdDB5ejNOM0lYczNZbWQtUXhtRmtVdHgxLVJKM2VNOVZkQQ?oc=5",
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
+  },
+  {
+   "title": "ফেনীতে অনিয়ন্ত্রিত লোডশেডিংয়ে বিপর্যস্ত জনজীবন - Jagonews24",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5N3ozQlVnMWl6emdVOFRheGRQdDVSWXBKbWJYeHZKSUtJbUI0Z3lRWHlrR2NZejljR0RiTUVtSWlUQllNMGxsakR0MkZyYXhnYlpoZ21aU240OHM?oc=5",
+   "published": "Tue, 04 Aug 2026 07:00:00 GMT"
   }
  ],
  "planned": [],
@@ -86,7 +86,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.8
+   "seconds": 4.3
   },
   {
    "id": "dpdc-n",
@@ -94,7 +94,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 5.2
+   "seconds": 4.0
   },
   {
    "id": "dpdc-o",
@@ -110,7 +110,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.8
+   "seconds": 4.2
   },
   {
    "id": "bpdb-n",
@@ -118,7 +118,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 30.9
+   "seconds": 24.7
   },
   {
    "id": "nesco-n",
@@ -126,7 +126,7 @@
    "ok": true,
    "slots_found": 1,
    "notices_found": 1,
-   "seconds": 14.7
+   "seconds": 11.7
   },
   {
    "id": "wzpdcl-n",
@@ -134,7 +134,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.0
+   "seconds": 3.7
   }
  ]
 }
