@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T07:47:35+06:00",
+ "generated_at": "2026-09-30T13:48:23+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
  "notices": [
@@ -27,19 +27,19 @@
  ],
  "news": [
   {
+   "title": "লোডশেডিংয়ের তালিকায় বারবার শীর্ষে ময়মনসিংহ, কারণ কী? - citizensvoicebd.com",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qbU03WDFMSE5JT0dCTm9HY0NmTU9zcDhhV1YxLW4tNURCc0xCeWdIcVZ1cEpQVmlqeE1YRnB3V2pKd19zNkNuRVpMV0ZGWWtYdm5uajU3cTZCUQ?oc=5",
+   "published": "Tue, 22 Sep 2026 10:45:32 GMT"
+  },
+  {
    "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - Dainik Shiksha",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHFhaHVfdkxPU083NDUxN081V1pFLS00VlBiZ3ltM2FuSnhxU1hfRXIxNG9NWHJWeHJ2Tm1FdV8wNmNlRmNYOHZFR2lqTnJDQVhzX3BaWUJESUk1UHp0a1RhRHR0SDRfOXVPRmJ6Z2VpbWpwVmExclJUVy1PcG5md3VXdE16NnVCRHM3Q202Rlhydw?oc=5",
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "বুয়েটের লোডশেডিং সূচিতে বড় পরিবর্তন, বাতিল আগের বিজ্ঞপ্তি - NewsNow24",
+   "title": "বুয়েটের লোডশেডিং সূচিতে বড় পরিবর্তন, বাতিল আগের বিজ্ঞপ্তি - newsnow24.com",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNNGxGX2tZQ2pOWlo1M3ZUWUp6RGpiV1I4MVJGVlBXY3ZIQjdCMVFWQk9FV0lxMy1abThRdFFUSFd6RWJ0Q0htRUpYQklZcE1N?oc=5",
    "published": "Mon, 24 Aug 2026 16:37:00 GMT"
-  },
-  {
-   "title": "লোডশেডিংয়ের তালিকায় বারবার শীর্ষে ময়মনসিংহ, কারণ কী? - citizensvoicebd.com",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qbU03WDFMSE5JT0dCTm9HY0NmTU9zcDhhV1YxLW4tNURCc0xCeWdIcVZ1cEpQVmlqeE1YRnB3V2pKd19zNkNuRVpMV0ZGWWtYdm5uajU3cTZCUQ?oc=5",
-   "published": "Tue, 22 Sep 2026 10:45:32 GMT"
   },
   {
    "title": "কখন লোডশেডিং হবে, জানানোর দাবি শিল্প উদ্যোক্তাদের - Jagonews24",
@@ -75,7 +75,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.5
+   "seconds": 5.4
   },
   {
    "id": "dpdc-n",
@@ -83,7 +83,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.1
+   "seconds": 4.2
   },
   {
    "id": "dpdc-o",
@@ -91,7 +91,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.2
+   "seconds": 1.4
   },
   {
    "id": "breb-n",
@@ -99,7 +99,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 2.9
+   "seconds": 4.4
   },
   {
    "id": "bpdb-n",
@@ -107,7 +107,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 21.1
+   "seconds": 33.3
   },
   {
    "id": "nesco-n",
@@ -115,7 +115,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 1,
-   "seconds": 10.2
+   "seconds": 15.5
   },
   {
    "id": "wzpdcl-n",
@@ -123,7 +123,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.1
+   "seconds": 4.1
   }
  ]
 }
