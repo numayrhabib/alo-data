@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T20:32:50+06:00",
+ "generated_at": "2026-10-01T01:35:38+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [
   {
@@ -63,6 +63,11 @@
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
   },
   {
+   "title": "বুয়েটে দিনে ৫ ঘণ্টা লোডশেডিংয়ের নোটিশ - কালবেলা",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ESm1LREFYcF9QWndwUTF1Q2pBMFJrQm5oXzdtd0UtZThfcW5ZeVVPWUxibGdGdXVNZFdpcnhnYWt6V2hKZV9HXzVZUTctQmt1TVlqTm9nYUlFb1p4R0FUdg?oc=5",
+   "published": "Sun, 23 Aug 2026 07:00:00 GMT"
+  },
+  {
    "title": "বিদ্যুৎ সংকটে বুয়েটে ৫ ঘণ্টা লোডশেডিংয়ের নোটিশ - Risingbd.com",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFYWNGRVBVTkJzcnpKelVXQXZ6Z0RZVnIwdG91bEhHM29TQ3VTMVFrckRnNUpIM2tacjhhcEZXdWNJaTdaWmdLREx2Z3NMa3ZEWmJZMk1n0gFSQVVfeXFMT3B6aFpucUFVQzUyTGdLZ2hVakZpcmNLLWp1ek5mckdyalZlX2ZacUJPdDB5ejNOM0lYczNZbWQtUXhtRmtVdHgxLVJKM2VNOVZkQQ?oc=5",
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
@@ -71,11 +76,6 @@
    "title": "লোডশেডিংয়ে দুর্ভোগে এসএসসি পরীক্ষার্থীরা - Dainik Shiksha",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVXdjb0drMW83NHJDM3BRZjV5U0N0ZUFWZkF0WUw1THNzQ2RSUVY4QVZETTJEM0s2ZkhrMmdLSFNqRVRMSjdybE9QNnZ0YVNUX2hwYjNPZG9zalJNYVJ2eHVyVU9NQmM2V0hlVmJ6THNqZTI1RndWTWRaeGx4bzBzV2xCTnljejZCYzdvQXdJSHM?oc=5",
    "published": "Mon, 20 Apr 2026 07:00:00 GMT"
-  },
-  {
-   "title": "প্রথম দিনেই রুটিন ভেঙে লোডশেডিং - প্রথম আলো",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zNElMcUVkZ2JZQnM4Nkp1VGpMUTc0YWlPR0Q5RWtna2xjeWlEdU5WaVphWTFEeGNjSVNFU3BuSm5wSDVINkJxTktsbExVOGVRcjJ0dlk0XzRRVUlj0gFqQVVfeXFMTlhwVE94UXkxZG1CbnB5blBaQUFPbDlvRlRjNTZGWnJsZXV3alhVSG5pVHJIYWloczU3NFYtcVZ5bTZZdU9IQ3ZaU1lnQkhGYUR2cXg3MmJWTHJuRVZwbENXM3RnZE41ZU00dw?oc=5",
-   "published": "Wed, 20 Jul 2022 07:00:00 GMT"
   }
  ],
  "planned": [],
@@ -86,7 +86,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.6
+   "seconds": 4.0
   },
   {
    "id": "dpdc-n",
@@ -94,7 +94,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.1
+   "seconds": 3.7
   },
   {
    "id": "dpdc-o",
@@ -102,7 +102,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.2
+   "seconds": 1.1
   },
   {
    "id": "breb-n",
@@ -110,7 +110,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.7
+   "seconds": 3.4
   },
   {
    "id": "bpdb-n",
@@ -118,7 +118,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 31.3
+   "seconds": 30.9
   },
   {
    "id": "nesco-n",
@@ -126,7 +126,7 @@
    "ok": true,
    "slots_found": 1,
    "notices_found": 1,
-   "seconds": 12.4
+   "seconds": 14.1
   },
   {
    "id": "wzpdcl-n",
@@ -134,7 +134,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.6
+   "seconds": 3.9
   }
  ]
 }
