@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T01:35:38+06:00",
+ "generated_at": "2026-10-01T05:22:57+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [
   {
@@ -48,7 +48,7 @@
    "published": "Mon, 24 Aug 2026 16:37:00 GMT"
   },
   {
-   "title": "কখন লোডশেডিং হবে, জানানোর দাবি শিল্প উদ্যোক্তাদের - Jagonews24",
+   "title": "কখন লোডশেডিং হবে, জানানোর দাবি শিল্প উদ্যোক্তাদের - jagonews24.com",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqY3FWcmRWVTN1bmloNnpDSjlRY05ZOHFBdWRJYmNheGtURWNyLXZxQWdFMmdjZnRiSy1yc3pNRE9qNmdESndxNXpGdVpnYTYzSTQwOXVYSHdhRFk?oc=5",
    "published": "Sun, 30 Aug 2026 07:00:00 GMT"
   },
@@ -78,7 +78,18 @@
    "published": "Mon, 20 Apr 2026 07:00:00 GMT"
   }
  ],
- "planned": [],
+ "planned": [
+  {
+   "title": "বৃহস্পতিবার যেসব এলাকায় দীর্ঘ সময় বিদ্যুৎ থাকবে না",
+   "url": "https://rtvonline.com/country/406851",
+   "published": "2026-09-30T12:48:00+00:00",
+   "date": "2026-10-01",
+   "start": "11:00",
+   "end": "14:00",
+   "ambiguous": false,
+   "places": "প্রধান সম্পাদক : সৈয়দ আশিক রহমান বেঙ্গল মিডিয়া করপোরেশন লিমিটেড,১০২ কাজী নজরুল ইসলাম এভিনিউ কারওয়ান বাজার, ঢাকা-১২১৫\r\nজরুরি রক্ষণাবেক্ষণ কাজের জন্য রাজশাহীর বেশকিছু এলাকায় বৃহস্পতিবার (১ অক্টোবর) পর্যায়ক্রমে সাড়ে ৬ ঘণ্টা বিদ্যুৎ থাকবে না। বুধবার (৩০ সেপ্টেম্বর) নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসি রাজশাহীর বিক্রয় ও বিতরণ বিভাগ (বিবিবি) বিমানবন্দরের নির্বাহী প্রকৌশলীর দপ্তর থেকে প্রকাশিত এক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়ে। বিজ্ঞপ্তিতে বলা হয়, বিদ্যুৎ লাইনের নিকটবর্তী গাছের শাখা-প্রশাখা কর্তনের জন্য ১১ কেভি বাগধানী ফিডারের আওতাধীন বৃহস্পতিবার সকাল সাড়ে ৭টা থেকে বেলা ১১টা পর্যন্ত মোট সাড়ে ৩ ঘণ্টা রাজশাহীর দৌলতপুর, দুয়ারি, কুমড়াপুকুর ও বাগসারা ও এর আশপাশের এলাকায় বিদ্যুৎ সরবরাহ বন্ধ থাকবে। এ ছাড়া একই কাজের জন্য বৃহস্পতিবার নেসকো রাজশাহীর বিক্রয় ও বিতরণ বিভাগ-বিমানবন্দরের আওতাধীন ১১ কেভি বাগধানী ফিডারের আওতাধীন তেঘর থেকে বাগধানী এলাকাসমূহে সকাল ১১টা থেকে দুপুর ২টা পর্যন্ত মোট ৩ ঘণ্টা বিদ্যু"
+  }
+ ],
  "sources": [
   {
    "id": "desco-n",
@@ -86,7 +97,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.0
+   "seconds": 4.5
   },
   {
    "id": "dpdc-n",
@@ -94,7 +105,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.7
+   "seconds": 4.2
   },
   {
    "id": "dpdc-o",
@@ -102,7 +113,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.1
+   "seconds": 1.2
   },
   {
    "id": "breb-n",
@@ -110,7 +121,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.4
+   "seconds": 3.5
   },
   {
    "id": "bpdb-n",
@@ -118,7 +129,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 30.9
+   "seconds": 29.8
   },
   {
    "id": "nesco-n",
@@ -126,7 +137,7 @@
    "ok": true,
    "slots_found": 1,
    "notices_found": 1,
-   "seconds": 14.1
+   "seconds": 14.4
   },
   {
    "id": "wzpdcl-n",
@@ -134,7 +145,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.9
+   "seconds": 3.5
   }
  ]
 }
