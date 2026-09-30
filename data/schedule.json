@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-09-30T13:48:23+06:00",
+ "generated_at": "2026-09-30T20:32:50+06:00",
  "timezone": "Asia/Dhaka",
- "slots": [],
+ "slots": [
+  {
+   "utility": "NESCO",
+   "area": "বিক্রয় ও বিতরণ বিভাগ-বিমানবন্দর, রাজশাহীর 11 কেভি বাগধানী ফিডারের গ্রাহকদের জানানো যাচ্ছে যে, গাছপালার শাখা-প্রশাখা কর্তনের জন্য 01/10/2026 বৃহস্পতিবার নিম্নোক্ত শিডিউল অনুযায়ী বিদ্যুৎ সরবরাহ বন্ধ থাকবে / 30-09-2026 / দেখুন",
+   "date": "2026-10-01",
+   "start": "07:30",
+   "end": "14:00",
+   "ambiguous": false,
+   "source_url": "https://nesco.gov.bd/site/view/notices",
+   "source_id": "nesco-n"
+  }
+ ],
  "notices": [
   {
    "utility": "BPDB",
@@ -22,22 +33,17 @@
    "title": "লোড শেডিং শিডিউল",
    "url": "https://nesco.gov.bd/site/view/notices",
    "type": "page",
-   "slots": 0
+   "slots": 1
   }
  ],
  "news": [
-  {
-   "title": "লোডশেডিংয়ের তালিকায় বারবার শীর্ষে ময়মনসিংহ, কারণ কী? - citizensvoicebd.com",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qbU03WDFMSE5JT0dCTm9HY0NmTU9zcDhhV1YxLW4tNURCc0xCeWdIcVZ1cEpQVmlqeE1YRnB3V2pKd19zNkNuRVpMV0ZGWWtYdm5uajU3cTZCUQ?oc=5",
-   "published": "Tue, 22 Sep 2026 10:45:32 GMT"
-  },
   {
    "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - Dainik Shiksha",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHFhaHVfdkxPU083NDUxN081V1pFLS00VlBiZ3ltM2FuSnhxU1hfRXIxNG9NWHJWeHJ2Tm1FdV8wNmNlRmNYOHZFR2lqTnJDQVhzX3BaWUJESUk1UHp0a1RhRHR0SDRfOXVPRmJ6Z2VpbWpwVmExclJUVy1PcG5md3VXdE16NnVCRHM3Q202Rlhydw?oc=5",
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "বুয়েটের লোডশেডিং সূচিতে বড় পরিবর্তন, বাতিল আগের বিজ্ঞপ্তি - newsnow24.com",
+   "title": "বুয়েটের লোডশেডিং সূচিতে বড় পরিবর্তন, বাতিল আগের বিজ্ঞপ্তি - NewsNow24",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNNGxGX2tZQ2pOWlo1M3ZUWUp6RGpiV1I4MVJGVlBXY3ZIQjdCMVFWQk9FV0lxMy1abThRdFFUSFd6RWJ0Q0htRUpYQklZcE1N?oc=5",
    "published": "Mon, 24 Aug 2026 16:37:00 GMT"
   },
@@ -65,6 +71,11 @@
    "title": "লোডশেডিংয়ে দুর্ভোগে এসএসসি পরীক্ষার্থীরা - Dainik Shiksha",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVXdjb0drMW83NHJDM3BRZjV5U0N0ZUFWZkF0WUw1THNzQ2RSUVY4QVZETTJEM0s2ZkhrMmdLSFNqRVRMSjdybE9QNnZ0YVNUX2hwYjNPZG9zalJNYVJ2eHVyVU9NQmM2V0hlVmJ6THNqZTI1RndWTWRaeGx4bzBzV2xCTnljejZCYzdvQXdJSHM?oc=5",
    "published": "Mon, 20 Apr 2026 07:00:00 GMT"
+  },
+  {
+   "title": "প্রথম দিনেই রুটিন ভেঙে লোডশেডিং - প্রথম আলো",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zNElMcUVkZ2JZQnM4Nkp1VGpMUTc0YWlPR0Q5RWtna2xjeWlEdU5WaVphWTFEeGNjSVNFU3BuSm5wSDVINkJxTktsbExVOGVRcjJ0dlk0XzRRVUlj0gFqQVVfeXFMTlhwVE94UXkxZG1CbnB5blBaQUFPbDlvRlRjNTZGWnJsZXV3alhVSG5pVHJIYWloczU3NFYtcVZ5bTZZdU9IQ3ZaU1lnQkhGYUR2cXg3MmJWTHJuRVZwbENXM3RnZE41ZU00dw?oc=5",
+   "published": "Wed, 20 Jul 2022 07:00:00 GMT"
   }
  ],
  "planned": [],
@@ -75,7 +86,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 5.4
+   "seconds": 4.6
   },
   {
    "id": "dpdc-n",
@@ -83,7 +94,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.2
+   "seconds": 4.1
   },
   {
    "id": "dpdc-o",
@@ -91,7 +102,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.4
+   "seconds": 1.2
   },
   {
    "id": "breb-n",
@@ -99,7 +110,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.4
+   "seconds": 3.7
   },
   {
    "id": "bpdb-n",
@@ -107,15 +118,15 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 33.3
+   "seconds": 31.3
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
    "ok": true,
-   "slots_found": 0,
+   "slots_found": 1,
    "notices_found": 1,
-   "seconds": 15.5
+   "seconds": 12.4
   },
   {
    "id": "wzpdcl-n",
@@ -123,7 +134,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.1
+   "seconds": 3.6
   }
  ]
 }
