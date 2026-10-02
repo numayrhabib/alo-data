@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T13:15:11+06:00",
+ "generated_at": "2026-10-02T20:00:36+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [
   {
@@ -13,7 +13,29 @@
    "source_id": "nesco-n"
   }
  ],
- "notices": [],
+ "notices": [
+  {
+   "utility": "BPDB",
+   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
+   "url": "https://bpdb.gov.bd/site/view/notices",
+   "type": "page",
+   "slots": 0
+  },
+  {
+   "utility": "BPDB",
+   "title": "চাহিদা ও লোডশেডিং",
+   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
+   "type": "page",
+   "slots": 0
+  },
+  {
+   "utility": "NESCO",
+   "title": "লোড শেডিং শিডিউল",
+   "url": "https://nesco.gov.bd/site/view/notices",
+   "type": "page",
+   "slots": 2
+  }
+ ],
  "news": [
   {
    "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - Dainik Shiksha",
@@ -60,7 +82,7 @@
   {
    "title": "যেসব এলাকায় আজ আজ টানা ৯ ঘণ্টা বিদ্যুৎ থাকবে না",
    "url": "https://bn.mtnews24.com/Rangpur/579465/%E0%A6%AF%E0%A7%87%E0%A6%B8%E0%A6%AC-%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%9C-%E0%A6%86%E0%A6%9C-%E0%A6%9F%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A7%AF-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%BE",
-   "published": "2026-10-02T00:15:00+00:00",
+   "published": "2026-10-02T03:57:00+00:00",
    "date": "2026-10-02",
    "start": "08:00",
    "end": "17:00",
@@ -92,14 +114,18 @@
   {
    "id": "desco-n",
    "utility": "DESCO",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='desco.gov.bd', port=443) at 0x7fc19aa7ef90>, 'Co"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 4.4
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='dpdc.gov.bd', port=443) at 0x7fc19aa7f470>, 'Conn"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 3.4
   },
   {
    "id": "dpdc-o",
@@ -112,26 +138,34 @@
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='reb.gov.bd', port=443) at 0x7fc19aa81250>, 'Co"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 3.8
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='bpdb.gov.bd', port=443) at 0x7fc19aa81c40>, '"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 2,
+   "seconds": 29.6
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='nesco.gov.bd', port=443) at 0x7fc19aa824e0>,"
+   "ok": true,
+   "slots_found": 2,
+   "notices_found": 1,
+   "seconds": 11.5
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='wzpdcl.gov.bd', port=443) at 0x7fc19aa82ea0"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 3.7
   }
  ]
 }
