@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T07:14:30+06:00",
+ "generated_at": "2026-10-02T13:15:11+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [
   {
@@ -13,29 +13,7 @@
    "source_id": "nesco-n"
   }
  ],
- "notices": [
-  {
-   "utility": "BPDB",
-   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
-   "url": "https://bpdb.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "BPDB",
-   "title": "চাহিদা ও লোডশেডিং",
-   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "NESCO",
-   "title": "লোড শেডিং শিডিউল",
-   "url": "https://nesco.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 2
-  }
- ],
+ "notices": [],
  "news": [
   {
    "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - Dainik Shiksha",
@@ -43,7 +21,7 @@
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "বুয়েটে দিনে ৫ ঘণ্টা লোডশেডিংয়ের সূচি - timestodaybd.com",
+   "title": "বুয়েটে দিনে ৫ ঘণ্টা লোডশেডিংয়ের সূচি - Times Today",
    "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxNMDMyRFpiUFdOdEFXc29LLTRfZ0lEMExlQ285SnZ4MjlnRmpxUWdCZmZxNzFwSllTRk5qeUlKeV9kamNSNGZrYkluWm1EMHBSWFlqYVFFR0t6Y0RTZDNSR3B1Y0diRTlpZ0ZtUXM4Tzd2WVRFOHM5eXdkZUtmZXNPbWpwelZZNEN2ZzFFSVd2ODZsZllHdWZTYzVNQUtJQm1YVjZzUWgyYTlJNVMwY1NXY3ZhZTVFdlJTLU9rUjJ4cFg5UmhjWXdTNlU3eWJVZm9QdURRd0JwVGJxamJIS1M4TEUyTUJ1Z1p0NU4xQ29UY1BUeGdIakxiZUR5aHdCVW1GSkJLUU50MWlPdGY3MDFLVVYxdnczNnc4NnJ0Y3B3dEFsWENxQ0VxS3JyNzMwRFVMcUNWQzllM3RHSlBWckJ1ZWJncGlEU1lUSFdCdnBEZlk2YTdMZngyRkdHeFdoV0kwT2YxSjNZT0QyWGpITHNwdEZXQU9KQTB3bkpoaHZvX0JidDdlSlZQYWFMRDlqRHBCNFhDNld5U29vSjhvaHg1ekM4TnB2MU1aaG9oMUNXelNaUnNGQUk5Z0xZMWF6eGdrM21F?oc=5",
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
   },
@@ -78,23 +56,50 @@
    "published": "Wed, 20 Jul 2022 07:00:00 GMT"
   }
  ],
- "planned": [],
+ "planned": [
+  {
+   "title": "যেসব এলাকায় আজ আজ টানা ৯ ঘণ্টা বিদ্যুৎ থাকবে না",
+   "url": "https://bn.mtnews24.com/Rangpur/579465/%E0%A6%AF%E0%A7%87%E0%A6%B8%E0%A6%AC-%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%9C-%E0%A6%86%E0%A6%9C-%E0%A6%9F%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A7%AF-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%BE",
+   "published": "2026-10-02T00:15:00+00:00",
+   "date": "2026-10-02",
+   "start": "08:00",
+   "end": "17:00",
+   "ambiguous": false,
+   "places": "এমটিনিউজ২৪ ডেস্ক : জরুরি রক্ষণাবেক্ষণ কাজের জন্য শুক্রবার (২ অক্টোবর) টানা ৯ ঘণ্টা রংপুরের বেশকিছু এলাকায় বিদ্যুৎ থাকবে না। বৃহস্পতিবার (১ অক্টোবর) নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসি রংপুরের বিক্রয় ও বিতরণ বিভাগ-২ এর নির্বাহী প্রকৌশলীর দপ্তর থেকে এক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়েছে।"
+  },
+  {
+   "title": "টানা ৯ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
+   "url": "https://www.bhorerkagoj.net/national/801299",
+   "published": "2026-10-01T22:19:00+00:00",
+   "date": "2026-10-02",
+   "start": "08:00",
+   "end": "17:00",
+   "ambiguous": false,
+   "places": "জরুরি রক্ষণাবেক্ষণ কাজের জন্য শুক্রবার (২ অক্টোবর) রংপুরের বেশ কিছু এলাকায় টানা ৯ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে।"
+  },
+  {
+   "title": "আজ টানা ৯ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
+   "url": "https://rtvonline.com/country/407065",
+   "published": "2026-10-01T20:40:00+00:00",
+   "date": "2026-10-02",
+   "start": "08:00",
+   "end": "17:00",
+   "ambiguous": false,
+   "places": "প্রধান সম্পাদক : সৈয়দ আশিক রহমান বেঙ্গল মিডিয়া করপোরেশন লিমিটেড,১০২ কাজী নজরুল ইসলাম এভিনিউ কারওয়ান বাজার, ঢাকা-১২১৫\r"
+  }
+ ],
  "sources": [
   {
    "id": "desco-n",
    "utility": "DESCO",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 4.2
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='desco.gov.bd', port=443) at 0x7fc19aa7ef90>, 'Co"
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 4.0
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='dpdc.gov.bd', port=443) at 0x7fc19aa7f470>, 'Conn"
   },
   {
    "id": "dpdc-o",
@@ -107,34 +112,26 @@
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.5
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='reb.gov.bd', port=443) at 0x7fc19aa81250>, 'Co"
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 2,
-   "seconds": 26.2
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='bpdb.gov.bd', port=443) at 0x7fc19aa81c40>, '"
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
-   "ok": true,
-   "slots_found": 2,
-   "notices_found": 1,
-   "seconds": 10.1
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='nesco.gov.bd', port=443) at 0x7fc19aa824e0>,"
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.7
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='wzpdcl.gov.bd', port=443) at 0x7fc19aa82ea0"
   }
  ]
 }
