@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T19:35:32+06:00",
+ "generated_at": "2026-10-03T23:43:15+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [
   {
@@ -53,7 +53,7 @@
    "published": "Mon, 31 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "কখন লোডশেডিং হবে, জানানোর দাবি শিল্প উদ্যোক্তাদের - jagonews24.com",
+   "title": "কখন লোডশেডিং হবে, জানানোর দাবি শিল্প উদ্যোক্তাদের - Jagonews24",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqY3FWcmRWVTN1bmloNnpDSjlRY05ZOHFBdWRJYmNheGtURWNyLXZxQWdFMmdjZnRiSy1yc3pNRE9qNmdESndxNXpGdVpnYTYzSTQwOXVYSHdhRFk?oc=5",
    "published": "Sun, 30 Aug 2026 07:00:00 GMT"
   },
@@ -107,7 +107,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.2
+   "seconds": 3.6
   },
   {
    "id": "dpdc-n",
@@ -115,7 +115,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.6
+   "seconds": 3.9
   },
   {
    "id": "dpdc-o",
@@ -131,7 +131,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.5
+   "seconds": 3.7
   },
   {
    "id": "bpdb-n",
@@ -139,7 +139,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 26.8
+   "seconds": 22.7
   },
   {
    "id": "nesco-n",
@@ -147,7 +147,7 @@
    "ok": true,
    "slots_found": 1,
    "notices_found": 1,
-   "seconds": 8.1
+   "seconds": 7.4
   },
   {
    "id": "wzpdcl-n",
@@ -155,7 +155,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.7
+   "seconds": 3.3
   }
  ]
 }
