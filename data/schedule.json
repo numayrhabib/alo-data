@@ -1,33 +1,11 @@
 {
- "generated_at": "2026-10-06T08:01:08+06:00",
+ "generated_at": "2026-10-06T14:51:20+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
- "notices": [
-  {
-   "utility": "BPDB",
-   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
-   "url": "https://bpdb.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "BPDB",
-   "title": "চাহিদা ও লোডশেডিং",
-   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "NESCO",
-   "title": "লোড শেডিং শিডিউল",
-   "url": "https://nesco.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 0
-  }
- ],
+ "notices": [],
  "news": [
   {
-   "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - samakal.com",
+   "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - SAMAKAL",
    "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPejFSRWVVV0pheklVbENOUldYaVpIWWNRTTgyRjlyTlBZZkZTZW9DTllybWVVY0NVRDlQM2pRV251b1RxWDVjbzBILXJHdlJwT3M1MV92dTBJWEpBU1lUTEE0c0czN010YlhDZ3JNdHgyMmg3ZWpKZ1I1R1RiOVgwTEhFQ3BBY0NZbjZ1YnFwWEtHd2hZZTBaaUZaU2FSVEVQUGktUThoYUpNejFaYXRiMU5XdjViTzRxdTY5c3pmMm1La0JVT2hRd1NSZk5yYlFHbVQycEhFZ3FvZERfSzZIWE9hYVd2WmptV3piSTc3X0FaRFk0RzhNd0JJVUpsQXVVU19oMkhQbjFGNHVTOEtkRlJmU1FWZGg2QmtGUzJEVkUtSkl2QmRvT0d5V0t2ZkRQMDdKM3l0b1F5Q2Y4bHExTkMyUWxBTU5Qc3NWcnJKZXN3emVIcEswamxma2NIbUt3Ny1BTW5IQkRJRnZOSjhHUWpBNUZnX2YwMkpvUHRUY01uNThFRWJ1UU9mSkJkbm5OVU5xVnFkODA3SzBxeHA1eHJvbTBPNGktcElUa3dZY25PYW5OSE5QeElTMnp4VGdzdnlpalBlOWRkaXJJSkhySjVjWHdOOUViUHFfZlpuZw?oc=5",
    "published": "Sun, 23 Aug 2026 07:00:00 GMT"
   },
@@ -37,12 +15,12 @@
    "published": "Sun, 23 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - Dainik Shiksha",
+   "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - dainikshiksha.com",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHFhaHVfdkxPU083NDUxN081V1pFLS00VlBiZ3ltM2FuSnhxU1hfRXIxNG9NWHJWeHJ2Tm1FdV8wNmNlRmNYOHZFR2lqTnJDQVhzX3BaWUJESUk1UHp0a1RhRHR0SDRfOXVPRmJ6Z2VpbWpwVmExclJUVy1PcG5md3VXdE16NnVCRHM3Q202Rlhydw?oc=5",
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "বুয়েটে দৈনিক পাঁচ ঘণ্টা লোডশেডিংয়ের সূচি - Channel 24",
+   "title": "বুয়েটে দৈনিক পাঁচ ঘণ্টা লোডশেডিংয়ের সূচি - channel24bd.tv",
    "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxQeUZ3U1BhQUt3TEV5X2d5dGNCMExDNmRteURHaWVKT0ZqNnUybnNFOXNYZWwzZmFzcmNoSkZHWXNLbVZoa3pveTJ2NWdJNkRhYnR4Ry16Y2Q5cDRmTHZKZndyNVJ5eFZsUW13UkVvWk1WMFFLdHloUTNPVzY0SE4yb09OTHZMeEdaQ2FBRmdHUXV6U1FhS2tKSWVsUHFtV3VleEpiY2tadFRzY2lyWHNKSExXQXFWNEU2NUFLOGt0b194U01IWjkwVjR1S0wyamJmamFKaEx2VGJrSDB2QzBQMk9xQkwwMWZoUFlOcFRoWEdCWHJhLU1RaGpfeGxnRWlKcC1zOFdzVWZldUdsVWozNVdiUnZ0WGJTWVh5OHktOVRjc1pya0s2QWNCZTJxQ1JRWGZiLW5iNHBpVGR0WjdkVFJ6REMwSXdXcFRrY3dQaEhrTVFOSmd0NlNGLWhxUlEtS3lyZzI3VUJkNmNHU3BZbjY1Rm16ZkhmaEFMM0xjSjhmN0xzYkNLemRGLXpSQnZmUFdmLVNyUFhrUTlXUnhubnR5UEdTdlBPcE9sOGJWMGVHTm01QVNDVVFmM1BfZktvM0M4eGxFR2NJSE9nMEF6MmIwa3hmUEp3eWxqLWdzclNoZkVmbUZRYk5iMFlXMjB2VkxGVjh1SWMzejBzS1Q4aTZKSVJfVDAxb3MtVDJHRmJCSzFybGE4?oc=5",
    "published": "Sun, 23 Aug 2026 07:00:00 GMT"
   },
@@ -52,7 +30,7 @@
    "published": "Sun, 30 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "বুয়েটে দিনে ও রাতে পাঁচবার লোডশেডিং - Bangla Tribune",
+   "title": "বুয়েটে দিনে ও রাতে পাঁচবার লোডশেডিং - banglatribune.com",
    "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNTkNLdXA3ejBWUXlRdi1YQ3Fob0FLNzhHU2pfOUg3UXg2NnNQQ2FZc1E2dmFDdDVrVU8zWS0wV0FKakhFa1N5M3AzLTd6anotWm5iUnVlRU52dEJNSF93VzBUb0hSeUt5VkdDTWR2dFBpYjFUMjk4Wm93MGdoQXlLYmRQR0VYQV9WaUwyZmlUWHgzWTRKNC1tSkZFMnBQdHg1MC1TSG5penZjVUlpblF2QWZsSUVLcW5qTWZ2SklVeFBaYWhQc2xrWDJQVmVBeXpzVExnZ0xsYkwyYjRRV1FGODNoaWQyOGJvMUd0QUdMLUxteTVQdC1TVlBiOXVsaElpVXNIUVV5cHJuNjcxTGV5SEZGd3RPVkhfN2g3eWJqRXp1YmZhY3NlS0ZYUkZRUk5nWHRYaVRZR0l2d2JKZU5lMGczXzdSdFRNZ2hNdURYLWpNZ2lXYkpDc200cDl4RDJWRUhZUUpCTFJYd2ZGOVZlY1Z0ZGxjMlhDRGpxWVNVMUV3RExZSFRJM3h6Y1gxN3BRYWFQMG5xQlRpNDdvbE5GZWFNWmdjZW14bVRtQTdxNlMydng1bEtkYVVTTURyXzI2ZWpTNVdtb0Q1QdIBzwNBVV95cUxPMEVhWDdJaUtFSHJDcmc4QTZxQUVWT3NUVkNaVDkySFVtSTN1WE5yWUhOemNSTjJ4WmUwZlV4bUFyVGR1UjJoaVhRQkJfYmNNaXczN1BTVDlMbHNWcm1mWHp1Zm5oTzBndmcwaGNOb3hENXUydEhrbl9EdXJUUE83RmNVaWRFb1NEbEplTjNQVVNIWmRRNnlBQ2pyejB0WVpUdDY0NVRJQ0hsWnY4OVFSSUxSeFcxMU9vWlRoaDd2WG1UUnE4QkVZUloxWE9kX1gyRUkyVmNadUN5amN5VWVsU09ETFF5UWk2d0hxY3JuZ0Z3c3NBc09oWGhVc2haMW5POF9HUUpPbHNYS2d0M3R1Q3Z6OVRsQThUcVpQa1o1WDgyaGc4SVZJWUtFbEJEajNNUm00Rl9tZTZYNTkwb05sRTVTVFdzdDBjdERCSm9PbDB2YUpSQU9IZVpWZzdpblg1S0oxeGVDN2lybFp4N1ZiYkt2MTFzVU1sVGkzbDhJV04wdVdNM0cwLTNpV3VTLWJ6SXdfR1F2TU1MU3JLbE5RNDBjNDRVWnhUY1JVRkxya0FIUlZpczM2eDh4cWZwN2ZmVHhvbGtvQW54TDh0ekxv?oc=5",
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
   },
@@ -62,39 +40,35 @@
    "published": "Sun, 23 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "লোডশেডিংয়ে দুর্ভোগে এসএসসি পরীক্ষার্থীরা - Dainik Shiksha",
+   "title": "লোডশেডিংয়ে দুর্ভোগে এসএসসি পরীক্ষার্থীরা - dainikshiksha.com",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVXdjb0drMW83NHJDM3BRZjV5U0N0ZUFWZkF0WUw1THNzQ2RSUVY4QVZETTJEM0s2ZkhrMmdLSFNqRVRMSjdybE9QNnZ0YVNUX2hwYjNPZG9zalJNYVJ2eHVyVU9NQmM2V0hlVmJ6THNqZTI1RndWTWRaeGx4bzBzV2xCTnljejZCYzdvQXdJSHM?oc=5",
    "published": "Mon, 20 Apr 2026 07:00:00 GMT"
   }
  ],
  "planned": [
   {
-   "title": "মঙ্গলবার ৮ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
-   "url": "https://www.dhakapost.com/country/488288",
-   "published": "2026-10-05T17:00:00+00:00",
+   "title": "আজ টানা ৮ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
+   "url": "https://rtvonline.com/country/407783",
+   "published": "2026-10-05T19:06:00+00:00",
    "date": "2026-10-06",
    "start": "08:00",
    "end": "16:00",
    "ambiguous": false,
-   "places": "গাছের ডালপালা কর্তনের জন্য নাটোরের বড়াইগ্রাম উপজেলার কয়েকটি এলাকায় মঙ্গলবার (৬ অক্টোবর) টানা ৮ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে।\nএ সময় কুমরুল, কামারদহ, কায়েমকোলা, রামাগাড়ি, রামাগাড়ি ঘোষপাড়া, আটঘরিয়াসহ আশপাশের এলাকার গ্রাহকরা বিদ্যুৎবিহীন থাকবেন। ফলে এসব এলাকার গ্রাহকদের সাময়িক ভোগান্তির মুখে পড়তে হতে পারে।"
+   "places": "প্রধান সম্পাদক : সৈয়দ আশিক রহমান বেঙ্গল মিডিয়া করপোরেশন লিমিটেড,১০২ কাজী নজরুল ইসলাম এভিনিউ কারওয়ান বাজার, ঢাকা-১২১৫\r\nনাটোরের বড়াইগ্রাম উপজেলার কয়েকটি এলাকায় মঙ্গলবার (৬ অক্টোবর) টানা আট ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে। গাছের ডালপালা কর্তনের কাজের জন্য এ সিদ্ধান্ত নেওয়া হয়েছে। সোমবার (৫ অক্টোবর) নাটোর পল্লী বিদ্যুৎ সমিতি-২ এক বিজ্ঞপ্তিতে এ তথ্য জানিয়েছে। বিজ্ঞপ্তিতে বলা হয়, বড়াইগ্রাম-১ (বনপাড়া) উপকেন্দ্রের ৬ নম্বর ফিডারে সকাল ৮টা থেকে বিকেল ৪টা পর্যন্ত বিদ্যুৎ সরবরাহ বন্ধ রাখা হবে। এ সময় কুমরুল, কামারদহ, কায়েমকোলা, রামাগাড়ি, রামাগাড়ি ঘোষপাড়া, আটঘরিয়াসহ আশপাশের এলাকার গ্রাহকরা বিদ্যুৎবিহীন থাকবেন। এতে এসব এলাকার বাসিন্দাদের সাময়িক ভোগান্তিতে পড়তে হতে পারে। নাটোর পল্লী বিদ্যুৎ সমিতি-২ জানিয়েছে, নির্ধারিত কাজের অগ্রগতির ওপর ভিত্তি করে বিদ্যুৎ সরবরাহ বন্ধ রাখার সময়সূচিতে কিছুটা পরিবর্তন হতে পারে। কাজ শেষ হওয়ার সঙ্গে সঙ্গে যেকোনো সময় বিদ্যুৎ সরবরাহ পুনরায় চালু করা হবে। সাময়িক বিদ্যুৎ সরবরা"
   }
  ],
  "sources": [
   {
    "id": "desco-n",
    "utility": "DESCO",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 5.3
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='desco.gov.bd', port=443) at 0x7f42922cac60>, 'Co"
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.7
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='dpdc.gov.bd', port=443) at 0x7f42922ca510>, 'Conn"
   },
   {
    "id": "dpdc-o",
@@ -102,39 +76,31 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.4
+   "seconds": 1.7
   },
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.8
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='reb.gov.bd', port=443) at 0x7f42922d9130>, 'Co"
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 2,
-   "seconds": 31.0
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='bpdb.gov.bd', port=443) at 0x7f42922d9a00>, '"
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 1,
-   "seconds": 7.5
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='nesco.gov.bd', port=443) at 0x7f42922da2a0>,"
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 4.1
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='wzpdcl.gov.bd', port=443) at 0x7f42922dac60"
   }
  ]
 }
