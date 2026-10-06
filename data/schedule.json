@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T03:36:35+06:00",
+ "generated_at": "2026-10-06T08:01:08+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
  "notices": [
@@ -27,7 +27,7 @@
  ],
  "news": [
   {
-   "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - SAMAKAL",
+   "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - samakal.com",
    "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPejFSRWVVV0pheklVbENOUldYaVpIWWNRTTgyRjlyTlBZZkZTZW9DTllybWVVY0NVRDlQM2pRV251b1RxWDVjbzBILXJHdlJwT3M1MV92dTBJWEpBU1lUTEE0c0czN010YlhDZ3JNdHgyMmg3ZWpKZ1I1R1RiOVgwTEhFQ3BBY0NZbjZ1YnFwWEtHd2hZZTBaaUZaU2FSVEVQUGktUThoYUpNejFaYXRiMU5XdjViTzRxdTY5c3pmMm1La0JVT2hRd1NSZk5yYlFHbVQycEhFZ3FvZERfSzZIWE9hYVd2WmptV3piSTc3X0FaRFk0RzhNd0JJVUpsQXVVU19oMkhQbjFGNHVTOEtkRlJmU1FWZGg2QmtGUzJEVkUtSkl2QmRvT0d5V0t2ZkRQMDdKM3l0b1F5Q2Y4bHExTkMyUWxBTU5Qc3NWcnJKZXN3emVIcEswamxma2NIbUt3Ny1BTW5IQkRJRnZOSjhHUWpBNUZnX2YwMkpvUHRUY01uNThFRWJ1UU9mSkJkbm5OVU5xVnFkODA3SzBxeHA1eHJvbTBPNGktcElUa3dZY25PYW5OSE5QeElTMnp4VGdzdnlpalBlOWRkaXJJSkhySjVjWHdOOUViUHFfZlpuZw?oc=5",
    "published": "Sun, 23 Aug 2026 07:00:00 GMT"
   },
@@ -67,7 +67,18 @@
    "published": "Mon, 20 Apr 2026 07:00:00 GMT"
   }
  ],
- "planned": [],
+ "planned": [
+  {
+   "title": "মঙ্গলবার ৮ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
+   "url": "https://www.dhakapost.com/country/488288",
+   "published": "2026-10-05T17:00:00+00:00",
+   "date": "2026-10-06",
+   "start": "08:00",
+   "end": "16:00",
+   "ambiguous": false,
+   "places": "গাছের ডালপালা কর্তনের জন্য নাটোরের বড়াইগ্রাম উপজেলার কয়েকটি এলাকায় মঙ্গলবার (৬ অক্টোবর) টানা ৮ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে।\nএ সময় কুমরুল, কামারদহ, কায়েমকোলা, রামাগাড়ি, রামাগাড়ি ঘোষপাড়া, আটঘরিয়াসহ আশপাশের এলাকার গ্রাহকরা বিদ্যুৎবিহীন থাকবেন। ফলে এসব এলাকার গ্রাহকদের সাময়িক ভোগান্তির মুখে পড়তে হতে পারে।"
+  }
+ ],
  "sources": [
   {
    "id": "desco-n",
@@ -75,7 +86,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.8
+   "seconds": 5.3
   },
   {
    "id": "dpdc-n",
@@ -83,7 +94,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 5.3
+   "seconds": 3.7
   },
   {
    "id": "dpdc-o",
@@ -91,7 +102,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.3
+   "seconds": 1.4
   },
   {
    "id": "breb-n",
@@ -99,7 +110,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.6
+   "seconds": 3.8
   },
   {
    "id": "bpdb-n",
@@ -107,7 +118,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 127.9
+   "seconds": 31.0
   },
   {
    "id": "nesco-n",
@@ -115,7 +126,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 1,
-   "seconds": 54.7
+   "seconds": 7.5
   },
   {
    "id": "wzpdcl-n",
@@ -123,7 +134,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.0
+   "seconds": 4.1
   }
  ]
 }
