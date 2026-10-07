@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T06:18:25+06:00",
+ "generated_at": "2026-10-07T12:16:32+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [
   {
@@ -58,6 +58,11 @@
    "published": "Sun, 23 Aug 2026 07:00:00 GMT"
   },
   {
+   "title": "বুয়েটের লোডশেডিং সূচিতে বড় পরিবর্তন, বাতিল আগের বিজ্ঞপ্তি - NewsNow24",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNNGxGX2tZQ2pOWlo1M3ZUWUp6RGpiV1I4MVJGVlBXY3ZIQjdCMVFWQk9FV0lxMy1abThRdFFUSFd6RWJ0Q0htRUpYQklZcE1N?oc=5",
+   "published": "Mon, 24 Aug 2026 07:00:00 GMT"
+  },
+  {
    "title": "কখন লোডশেডিং হবে, জানানোর দাবি শিল্প উদ্যোক্তাদের - Jagonews24",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqY3FWcmRWVTN1bmloNnpDSjlRY05ZOHFBdWRJYmNheGtURWNyLXZxQWdFMmdjZnRiSy1yc3pNRE9qNmdESndxNXpGdVpnYTYzSTQwOXVYSHdhRFk?oc=5",
    "published": "Sun, 30 Aug 2026 07:00:00 GMT"
@@ -71,11 +76,6 @@
    "title": "বুয়েটে দিনে ৫ ঘণ্টা লোডশেডিংয়ের নোটিশ - কালবেলা",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ESm1LREFYcF9QWndwUTF1Q2pBMFJrQm5oXzdtd0UtZThfcW5ZeVVPWUxibGdGdXVNZFdpcnhnYWt6V2hKZV9HXzVZUTctQmt1TVlqTm9nYUlFb1p4R0FUdg?oc=5",
    "published": "Sun, 23 Aug 2026 07:00:00 GMT"
-  },
-  {
-   "title": "লোডশেডিংয়ে দুর্ভোগে এসএসসি পরীক্ষার্থীরা - Dainik Shiksha",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVXdjb0drMW83NHJDM3BRZjV5U0N0ZUFWZkF0WUw1THNzQ2RSUVY4QVZETTJEM0s2ZkhrMmdLSFNqRVRMSjdybE9QNnZ0YVNUX2hwYjNPZG9zalJNYVJ2eHVyVU9NQmM2V0hlVmJ6THNqZTI1RndWTWRaeGx4bzBzV2xCTnljejZCYzdvQXdJSHM?oc=5",
-   "published": "Mon, 20 Apr 2026 07:00:00 GMT"
   }
  ],
  "planned": [],
@@ -86,7 +86,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.3
+   "seconds": 3.6
   },
   {
    "id": "dpdc-n",
@@ -94,7 +94,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.5
+   "seconds": 4.4
   },
   {
    "id": "dpdc-o",
@@ -110,7 +110,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.5
+   "seconds": 3.6
   },
   {
    "id": "bpdb-n",
@@ -118,7 +118,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 27.4
+   "seconds": 30.5
   },
   {
    "id": "nesco-n",
@@ -126,7 +126,7 @@
    "ok": true,
    "slots_found": 1,
    "notices_found": 1,
-   "seconds": 11.8
+   "seconds": 13.4
   },
   {
    "id": "wzpdcl-n",
@@ -134,7 +134,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.8
+   "seconds": 3.7
   }
  ]
 }
