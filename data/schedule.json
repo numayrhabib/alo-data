@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T12:16:32+06:00",
+ "generated_at": "2026-10-07T19:41:54+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [
   {
@@ -10,6 +10,26 @@
    "end": "11:00",
    "ambiguous": false,
    "source_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nesco/2026/9/f76ccaa4-0627-4e6b-98bb-cfd73cea3ca1.pdf",
+   "source_id": "nesco-n"
+  },
+  {
+   "utility": "NESCO",
+   "area": "বাঘহাটা, পিল্লাপাড়া, মথুরা, সাহাপাড়া এর পার্শ্ববর্তী এলাকাসমূহে",
+   "date": "2026-10-07",
+   "start": "09:00",
+   "end": "10:30",
+   "ambiguous": false,
+   "source_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nesco/2026/9/381bc252-f30b-464f-9f89-61b547fb398e.pdf",
+   "source_id": "nesco-n"
+  },
+  {
+   "utility": "NESCO",
+   "area": "বিক্রয় ও বিতরণ বিভাগ-বিমানবন্দর,নেসকো, রাজশাহী দপ্তরের গ্রাহকদের জানানো যাচ্ছে যে, বিদ্যুৎ লাইনের নিকটবর্তী গাছপালার শাখা-প্রশাখা কর্তনের জন্য 08/10/2026 (বৃহস্পতিবার) নিম্নোক্ত শিডিউল অনুযায়ী বিদ্যুৎ সরবরাহ বন্ধ থাকবে / 07-10-2026 / দেখুন",
+   "date": "2026-10-08",
+   "start": "07:30",
+   "end": "14:00",
+   "ambiguous": false,
+   "source_url": "https://nesco.gov.bd/site/view/notices",
    "source_id": "nesco-n"
   }
  ],
@@ -33,7 +53,7 @@
    "title": "লোড শেডিং শিডিউল",
    "url": "https://nesco.gov.bd/site/view/notices",
    "type": "page",
-   "slots": 1
+   "slots": 3
   }
  ],
  "news": [
@@ -86,7 +106,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.6
+   "seconds": 3.3
   },
   {
    "id": "dpdc-n",
@@ -94,7 +114,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.4
+   "seconds": 3.2
   },
   {
    "id": "dpdc-o",
@@ -102,7 +122,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.2
+   "seconds": 1.1
   },
   {
    "id": "breb-n",
@@ -110,7 +130,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.6
+   "seconds": 3.3
   },
   {
    "id": "bpdb-n",
@@ -118,15 +138,15 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 30.5
+   "seconds": 29.5
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
    "ok": true,
-   "slots_found": 1,
+   "slots_found": 3,
    "notices_found": 1,
-   "seconds": 13.4
+   "seconds": 11.5
   },
   {
    "id": "wzpdcl-n",
@@ -134,7 +154,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.7
+   "seconds": 3.3
   }
  ]
 }
