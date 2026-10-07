@@ -1,21 +1,11 @@
 {
- "generated_at": "2026-10-07T19:41:54+06:00",
+ "generated_at": "2026-10-08T01:41:08+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [
   {
    "utility": "NESCO",
-   "area": "পুঠিয়াপাড়া, নওহাটা বাজার, সাহাপাড়া ও এর পার্শ্ববর্তী এলাকাসমূহে",
-   "date": "2026-10-07",
-   "start": "07:30",
-   "end": "11:00",
-   "ambiguous": false,
-   "source_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nesco/2026/9/f76ccaa4-0627-4e6b-98bb-cfd73cea3ca1.pdf",
-   "source_id": "nesco-n"
-  },
-  {
-   "utility": "NESCO",
    "area": "বাঘহাটা, পিল্লাপাড়া, মথুরা, সাহাপাড়া এর পার্শ্ববর্তী এলাকাসমূহে",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "start": "09:00",
    "end": "10:30",
    "ambiguous": false,
@@ -53,7 +43,7 @@
    "title": "লোড শেডিং শিডিউল",
    "url": "https://nesco.gov.bd/site/view/notices",
    "type": "page",
-   "slots": 3
+   "slots": 2
   }
  ],
  "news": [
@@ -93,12 +83,23 @@
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "বুয়েটে দিনে ৫ ঘণ্টা লোডশেডিংয়ের নোটিশ - কালবেলা",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ESm1LREFYcF9QWndwUTF1Q2pBMFJrQm5oXzdtd0UtZThfcW5ZeVVPWUxibGdGdXVNZFdpcnhnYWt6V2hKZV9HXzVZUTctQmt1TVlqTm9nYUlFb1p4R0FUdg?oc=5",
-   "published": "Sun, 23 Aug 2026 07:00:00 GMT"
+   "title": "প্রতিদিন পাঁচ ঘণ্টা করে লোডশেডিং থাকবে বুয়েটে - Daily Observer",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zNkpYVnVYWE1SSC1VamNnWGRFSmtxblVvS3RRUmlJOFhxU2dwUzBldUk4dFBVb0tPWjduU09aZ1pZcUg3M0VQaGpHdTJ0Zw?oc=5",
+   "published": "Mon, 24 Aug 2026 02:41:00 GMT"
   }
  ],
- "planned": [],
+ "planned": [
+  {
+   "title": "বৃহস্পতিবার টানা সাড়ে ৬ ঘণ্টাবিদ্যুৎ থাকবে না যেসব এলাকায়",
+   "url": "https://zoombangla.com/%e0%a6%ac%e0%a7%83%e0%a6%b9%e0%a6%b8%e0%a7%8d%e0%a6%aa%e0%a6%a4%e0%a6%bf%e0%a6%ac%e0%a6%be%e0%a6%b0-%e0%a6%9f%e0%a6%be%e0%a6%a8%e0%a6%be-%e0%a6%b8%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a7%87-%e0%a7%ac/",
+   "published": "2026-10-07T04:04:00+00:00",
+   "date": "2026-10-08",
+   "start": "10:00",
+   "end": "14:00",
+   "ambiguous": true,
+   "places": "জরুরি রক্ষণাবেক্ষণ কাজের জন্য বৃহস্পতিবার (৮ অক্টোবর) পর্যায়ক্রমে সাড়ে ৬ ঘণ্টা রাজশাহীর বেশকিছু এলাকায় বিদ্যুৎ থাকবে না। বুধবার (৭ অক্টোবর) নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসি (নেসকো) রাজশাহীর বিমানবন্দর বিক্রয় ও বিতরণ বিভাগের নির্বাহী প্রকৌশলীর দপ্তর থেকে এক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়েছে।\nএর মধ্যে বৃহস্পতিবার সকাল সাড়ে ৭টা থেকে সকাল সাড়ে ১০টা পর্যন্ত মোট ৩ ঘণ্টা ১১ কেভি সূর্যপুর ফিডারের আওতাধীন পূর্ব বাঘহাটা, পিল্লাপাড়া, মথুরা ও সাহাপাড়া এবং এর পার্শ্ববর্তী এলাকাগুলোয় বিদ্যুৎ সরবরাহ বন্ধ থাকবে। পাশাপাশি একই দিন সকাল সাড়ে ১০টা থেকে দুপুর ২টা পর্যন্ত মোট সাড়ে ৩ ঘণ্টা মথুরা, সাহাপাড়া, সূর্যপুর, বড়গাছি ও ইটাঘাটি ইত্যাদি এলাকাসমূহে বিদ্যুৎ থাকবে না।"
+  }
+ ],
  "sources": [
   {
    "id": "desco-n",
@@ -106,7 +107,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.3
+   "seconds": 5.2
   },
   {
    "id": "dpdc-n",
@@ -114,7 +115,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.2
+   "seconds": 4.1
   },
   {
    "id": "dpdc-o",
@@ -122,7 +123,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.1
+   "seconds": 1.3
   },
   {
    "id": "breb-n",
@@ -130,7 +131,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.3
+   "seconds": 3.7
   },
   {
    "id": "bpdb-n",
@@ -138,15 +139,15 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 29.5
+   "seconds": 28.3
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
    "ok": true,
-   "slots_found": 3,
+   "slots_found": 2,
    "notices_found": 1,
-   "seconds": 11.5
+   "seconds": 9.1
   },
   {
    "id": "wzpdcl-n",
@@ -154,7 +155,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.3
+   "seconds": 4.0
   }
  ]
 }
