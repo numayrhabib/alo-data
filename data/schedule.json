@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T00:16:32+06:00",
+ "generated_at": "2026-10-09T05:30:20+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [
   {
@@ -118,19 +118,34 @@
    "published": "Mon, 24 Aug 2026 02:41:00 GMT"
   }
  ],
- "planned": [],
+ "planned": [
+  {
+   "title": "যেসব এলাকায় শনিবার টানা ১০ ঘণ্টা বিদ্যুৎ থাকবে না",
+   "url": "https://zoombangla.com/%e0%a6%ac%e0%a6%bf%e0%a6%a6%e0%a7%8d%e0%a6%af%e0%a7%81%e0%a7%8e-%e0%a6%a5%e0%a6%be%e0%a6%95%e0%a6%ac%e0%a7%87-%e0%a6%a8%e0%a6%be-4/",
+   "published": "2026-10-08T02:58:00+00:00",
+   "date": "2026-10-10",
+   "start": "07:00",
+   "end": "17:00",
+   "ambiguous": false,
+   "places": "জরুরি নির্মাণকাজের জন্য আগামী শনিবার (১০ অক্টোবর) টানা ১০ ঘণ্টা বগুড়ার বেশকিছু এলাকায় বিদ্যুৎ থাকবে না। নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসি বগুড়ার বিক্রয় ও বিতরণ বিভাগ-১ এর নির্বাহী প্রকৌশলীর দপ্তর থেকে এক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়েছে।"
+  }
+ ],
  "sources": [
   {
    "id": "desco-n",
    "utility": "DESCO",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by NameResolutionError(\"HTTPSConnection(host='desco.gov.bd', port=443): Failed to resolve 'des"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 4.4
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by NameResolutionError(\"HTTPSConnection(host='dpdc.gov.bd', port=443): Failed to resolve 'dpdc."
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 4.5
   },
   {
    "id": "dpdc-o",
@@ -138,13 +153,15 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.3
+   "seconds": 1.2
   },
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by NameResolutionError(\"HTTPSConnection(host='reb.gov.bd', port=443): Failed to resolve 'reb"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 4.1
   },
   {
    "id": "bpdb-n",
@@ -152,7 +169,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 24.4
+   "seconds": 30.6
   },
   {
    "id": "nesco-n",
@@ -160,13 +177,15 @@
    "ok": true,
    "slots_found": 5,
    "notices_found": 1,
-   "seconds": 8.9
+   "seconds": 11.6
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by NameResolutionError(\"HTTPSConnection(host='wzpdcl.gov.bd', port=443): Failed to resolv"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 4.0
   }
  ]
 }
