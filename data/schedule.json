@@ -1,23 +1,53 @@
 {
- "generated_at": "2026-10-08T10:32:03+06:00",
+ "generated_at": "2026-10-08T17:51:25+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [
   {
    "utility": "NESCO",
-   "area": "বাঘহাটা, পিল্লাপাড়া, মথুরা, সাহাপাড়া এর পার্শ্ববর্তী এলাকাসমূহে",
-   "date": "2026-10-08",
-   "start": "09:00",
-   "end": "10:30",
+   "area": "বিক্রয় ও বিতরণ বিভাগ-বিমানবন্দর,নেসকো, রাজশাহী দপ্তরের গ্রাহকদের জানানো যাচ্ছে যে, বিদ্যুৎ লাইনের নিকটবর্তী গাছপালার শাখা-প্রশাখা কর্তনের জন্য 08/10/2026 (বৃহস্পতিবার) নিম্নোক্ত শিডিউল অনুযায়ী বিদ্যুৎ সরবরাহ বন্ধ থাকবে / 07-10-2026 / দেখুন",
+   "date": "2026-10-09",
+   "start": "07:30",
+   "end": "14:00",
    "ambiguous": false,
-   "source_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nesco/2026/9/381bc252-f30b-464f-9f89-61b547fb398e.pdf",
+   "source_url": "https://nesco.gov.bd/site/view/notices",
    "source_id": "nesco-n"
   },
   {
    "utility": "NESCO",
-   "area": "বিক্রয় ও বিতরণ বিভাগ-বিমানবন্দর,নেসকো, রাজশাহী দপ্তরের গ্রাহকদের জানানো যাচ্ছে যে, বিদ্যুৎ লাইনের নিকটবর্তী গাছপালার শাখা-প্রশাখা কর্তনের জন্য 08/10/2026 (বৃহস্পতিবার) নিম্নোক্ত শিডিউল অনুযায়ী বিদ্যুৎ সরবরাহ বন্ধ থাকবে / 07-10-2026 / দেখুন",
-   "date": "2026-10-08",
+   "area": "বিদ্যুৎ বন্ধের বিজ্ঞপ্তিঃ বিক্রয় ও বিতরণ বিভাগ-1,নেসকো,বগুড়া দপ্তরের 33 কেভি ফিডারের মেরামত ও সংরক্ষণ কাজের জন্য আগামী 10/10/2026 ইং তারিখ (রোজ শনিবার) নিম্নোক্ত শিডিউল অনুযায়ী বিদ্যুৎ সরবরাহ বন্ধ থাকবে / 08-10-2026 / দেখুন",
+   "date": "2026-10-09",
+   "start": "07:00",
+   "end": "17:00",
+   "ambiguous": false,
+   "source_url": "https://nesco.gov.bd/site/view/notices",
+   "source_id": "nesco-n"
+  },
+  {
+   "utility": "NESCO",
+   "area": "বিবিবি,নেসকো, জয়পুরহাট দপ্তরের গ্রাহকদের জানানো যাচ্ছে, 11কেভি হাসপাতাল ফিডারের লাইনের পার্শ্ববর্তী গাছের ডালপালা কর্তনের জন্য নিম্নোক্ত সংযুক্তি মোতাবেক আগামী 09/10/2026 খ্রি. বিদ্যুৎ সরবরাহ বন্ধ থাকবে / 08-10-2026 / দেখুন",
+   "date": "2026-10-09",
+   "start": "08:00",
+   "end": "15:00",
+   "ambiguous": false,
+   "source_url": "https://nesco.gov.bd/site/view/notices",
+   "source_id": "nesco-n"
+  },
+  {
+   "utility": "NESCO",
+   "area": "বিবিবি-1,নেসকো, রাজশাহী দপ্তরের গ্রাহকদের জানানো যাচ্ছে, 33/11কেভি লাইনের পার্শ্ববর্তী গাছের ডালপালা কর্তনের জন্য নিম্নোক্ত সংযুক্তি মোতাবেক আগামী 09/10/2026 খ্রি. রোজ শুক্রবার বিদ্যুৎ সরবরাহ বন্ধ থাকবে / 08-10-2026 / দেখুন",
+   "date": "2026-10-09",
    "start": "07:30",
-   "end": "14:00",
+   "end": "24:00",
+   "ambiguous": false,
+   "source_url": "https://nesco.gov.bd/site/view/notices",
+   "source_id": "nesco-n"
+  },
+  {
+   "utility": "NESCO",
+   "area": "বিবিবি-সান্তাহার, নেসকো, বগুড়া দপ্তরের গ্রাহকদের জানানো যাচ্ছে, শারদীয় দুর্গাপূজা উপলক্ষ্যে 33,11ও0.4 কেভি লাইনের পার্শ্ববর্তী গাছের ডালপালা কর্তনের জন্য আগামী 10/10/2026 খ্রি. রোজ শনিবার বিদ্যুৎ সরবরাহ বন্ধ থাকবে / 08-10-2026 / দেখুন",
+   "date": "2026-10-09",
+   "start": "08:00",
+   "end": "16:00",
    "ambiguous": false,
    "source_url": "https://nesco.gov.bd/site/view/notices",
    "source_id": "nesco-n"
@@ -25,25 +55,18 @@
  ],
  "notices": [
   {
-   "utility": "BPDB",
-   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
-   "url": "https://bpdb.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "BPDB",
-   "title": "চাহিদা ও লোডশেডিং",
-   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
-   "type": "page",
-   "slots": 0
+   "utility": "NESCO",
+   "title": "লোড শেডিং শিডিউল",
+   "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nesco/2024/12/7e5471b757be4fb9b50342ba1d80386a.pdf",
+   "type": "pdf",
+   "error": "HTTPSConnectionPool(host='objectstorage.ap-dcc-gazipur-1.oraclecloud15.com', port=443): Read timed out."
   },
   {
    "utility": "NESCO",
    "title": "লোড শেডিং শিডিউল",
    "url": "https://nesco.gov.bd/site/view/notices",
    "type": "page",
-   "slots": 2
+   "slots": 5
   }
  ],
  "news": [
@@ -117,15 +140,13 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.9
+   "seconds": 45.9
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.8
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify fa"
   },
   {
    "id": "dpdc-o",
@@ -133,7 +154,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.5
+   "seconds": 1.3
   },
   {
    "id": "breb-n",
@@ -141,31 +162,27 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.7
+   "seconds": 67.1
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 2,
-   "seconds": 32.8
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Read timed out. (read timeout=12)"
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
    "ok": true,
-   "slots_found": 2,
-   "notices_found": 1,
-   "seconds": 9.9
+   "slots_found": 5,
+   "notices_found": 2,
+   "seconds": 317.0
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 4.5
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Read timed out. (read timeout=12)"
   }
  ]
 }
