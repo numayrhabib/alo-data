@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-08T17:51:25+06:00",
+ "generated_at": "2026-10-09T00:16:32+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [
   {
    "utility": "NESCO",
    "area": "বিক্রয় ও বিতরণ বিভাগ-বিমানবন্দর,নেসকো, রাজশাহী দপ্তরের গ্রাহকদের জানানো যাচ্ছে যে, বিদ্যুৎ লাইনের নিকটবর্তী গাছপালার শাখা-প্রশাখা কর্তনের জন্য 08/10/2026 (বৃহস্পতিবার) নিম্নোক্ত শিডিউল অনুযায়ী বিদ্যুৎ সরবরাহ বন্ধ থাকবে / 07-10-2026 / দেখুন",
-   "date": "2026-10-09",
+   "date": "2026-10-10",
    "start": "07:30",
    "end": "14:00",
    "ambiguous": false,
@@ -15,7 +15,7 @@
   {
    "utility": "NESCO",
    "area": "বিদ্যুৎ বন্ধের বিজ্ঞপ্তিঃ বিক্রয় ও বিতরণ বিভাগ-1,নেসকো,বগুড়া দপ্তরের 33 কেভি ফিডারের মেরামত ও সংরক্ষণ কাজের জন্য আগামী 10/10/2026 ইং তারিখ (রোজ শনিবার) নিম্নোক্ত শিডিউল অনুযায়ী বিদ্যুৎ সরবরাহ বন্ধ থাকবে / 08-10-2026 / দেখুন",
-   "date": "2026-10-09",
+   "date": "2026-10-10",
    "start": "07:00",
    "end": "17:00",
    "ambiguous": false,
@@ -25,7 +25,7 @@
   {
    "utility": "NESCO",
    "area": "বিবিবি,নেসকো, জয়পুরহাট দপ্তরের গ্রাহকদের জানানো যাচ্ছে, 11কেভি হাসপাতাল ফিডারের লাইনের পার্শ্ববর্তী গাছের ডালপালা কর্তনের জন্য নিম্নোক্ত সংযুক্তি মোতাবেক আগামী 09/10/2026 খ্রি. বিদ্যুৎ সরবরাহ বন্ধ থাকবে / 08-10-2026 / দেখুন",
-   "date": "2026-10-09",
+   "date": "2026-10-10",
    "start": "08:00",
    "end": "15:00",
    "ambiguous": false,
@@ -35,7 +35,7 @@
   {
    "utility": "NESCO",
    "area": "বিবিবি-1,নেসকো, রাজশাহী দপ্তরের গ্রাহকদের জানানো যাচ্ছে, 33/11কেভি লাইনের পার্শ্ববর্তী গাছের ডালপালা কর্তনের জন্য নিম্নোক্ত সংযুক্তি মোতাবেক আগামী 09/10/2026 খ্রি. রোজ শুক্রবার বিদ্যুৎ সরবরাহ বন্ধ থাকবে / 08-10-2026 / দেখুন",
-   "date": "2026-10-09",
+   "date": "2026-10-10",
    "start": "07:30",
    "end": "24:00",
    "ambiguous": false,
@@ -45,7 +45,7 @@
   {
    "utility": "NESCO",
    "area": "বিবিবি-সান্তাহার, নেসকো, বগুড়া দপ্তরের গ্রাহকদের জানানো যাচ্ছে, শারদীয় দুর্গাপূজা উপলক্ষ্যে 33,11ও0.4 কেভি লাইনের পার্শ্ববর্তী গাছের ডালপালা কর্তনের জন্য আগামী 10/10/2026 খ্রি. রোজ শনিবার বিদ্যুৎ সরবরাহ বন্ধ থাকবে / 08-10-2026 / দেখুন",
-   "date": "2026-10-09",
+   "date": "2026-10-10",
    "start": "08:00",
    "end": "16:00",
    "ambiguous": false,
@@ -55,11 +55,18 @@
  ],
  "notices": [
   {
-   "utility": "NESCO",
-   "title": "লোড শেডিং শিডিউল",
-   "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nesco/2024/12/7e5471b757be4fb9b50342ba1d80386a.pdf",
-   "type": "pdf",
-   "error": "HTTPSConnectionPool(host='objectstorage.ap-dcc-gazipur-1.oraclecloud15.com', port=443): Read timed out."
+   "utility": "BPDB",
+   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
+   "url": "https://bpdb.gov.bd/site/view/notices",
+   "type": "page",
+   "slots": 0
+  },
+  {
+   "utility": "BPDB",
+   "title": "চাহিদা ও লোডশেডিং",
+   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
+   "type": "page",
+   "slots": 0
   },
   {
    "utility": "NESCO",
@@ -111,42 +118,19 @@
    "published": "Mon, 24 Aug 2026 02:41:00 GMT"
   }
  ],
- "planned": [
-  {
-   "title": "আজ সাড়ে ৬ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
-   "url": "https://www.bhorerkagoj.net/national/801585",
-   "published": "2026-10-07T20:56:00+00:00",
-   "date": "2026-10-08",
-   "start": "10:00",
-   "end": "14:00",
-   "ambiguous": true,
-   "places": "জরুরি রক্ষণাবেক্ষণ কাজের কারণে বৃহস্পতিবার (৮ অক্টোবর) রাজশাহীর বিভিন্ন এলাকায় পর্যায়ক্রমে মোট সাড়ে ৬ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে। নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসি (নেসকো) রাজশাহীর বিমানবন্দর বিক্রয় ও বিতরণ বিভাগ বুধবার (৭ অক্টোবর) এক বিজ্ঞপ্তিতে এ তথ্য জানিয়েছে।\nবিজ্ঞপ্তি অনুযায়ী, বৃহস্পতিবার সকাল সাড়ে ৭টা থেকে সাড়ে ১০টা পর্যন্ত ৩ ঘণ্টা ১১ কেভি সূর্যপুর ফিডারের আওতাধীন পূর্ব বাঘহাটা, পিল্লাপাড়া, মথুরা, সাহাপাড়া ও আশপাশের এলাকায় বিদ্যুৎ সরবরাহ বন্ধ থাকবে।"
-  },
-  {
-   "title": "বৃহস্পতিবার টানা সাড়ে ৬ ঘণ্টাবিদ্যুৎ থাকবে না যেসব এলাকায়",
-   "url": "https://zoombangla.com/%e0%a6%ac%e0%a7%83%e0%a6%b9%e0%a6%b8%e0%a7%8d%e0%a6%aa%e0%a6%a4%e0%a6%bf%e0%a6%ac%e0%a6%be%e0%a6%b0-%e0%a6%9f%e0%a6%be%e0%a6%a8%e0%a6%be-%e0%a6%b8%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a7%87-%e0%a7%ac/",
-   "published": "2026-10-07T18:06:00+00:00",
-   "date": "2026-10-08",
-   "start": "10:00",
-   "end": "14:00",
-   "ambiguous": true,
-   "places": "জরুরি রক্ষণাবেক্ষণ কাজের জন্য বৃহস্পতিবার (৮ অক্টোবর) পর্যায়ক্রমে সাড়ে ৬ ঘণ্টা রাজশাহীর বেশকিছু এলাকায় বিদ্যুৎ থাকবে না। বুধবার (৭ অক্টোবর) নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসি (নেসকো) রাজশাহীর বিমানবন্দর বিক্রয় ও বিতরণ বিভাগের নির্বাহী প্রকৌশলীর দপ্তর থেকে এক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়েছে।\nএর মধ্যে বৃহস্পতিবার সকাল সাড়ে ৭টা থেকে সকাল সাড়ে ১০টা পর্যন্ত মোট ৩ ঘণ্টা ১১ কেভি সূর্যপুর ফিডারের আওতাধীন পূর্ব বাঘহাটা, পিল্লাপাড়া, মথুরা ও সাহাপাড়া এবং এর পার্শ্ববর্তী এলাকাগুলোয় বিদ্যুৎ সরবরাহ বন্ধ থাকবে। পাশাপাশি একই দিন সকাল সাড়ে ১০টা থেকে দুপুর ২টা পর্যন্ত মোট সাড়ে ৩ ঘণ্টা মথুরা, সাহাপাড়া, সূর্যপুর, বড়গাছি ও ইটাঘাটি ইত্যাদি এলাকাসমূহে বিদ্যুৎ থাকবে না।"
-  }
- ],
+ "planned": [],
  "sources": [
   {
    "id": "desco-n",
    "utility": "DESCO",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 45.9
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by NameResolutionError(\"HTTPSConnection(host='desco.gov.bd', port=443): Failed to resolve 'des"
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
    "ok": false,
-   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify fa"
+   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by NameResolutionError(\"HTTPSConnection(host='dpdc.gov.bd', port=443): Failed to resolve 'dpdc."
   },
   {
    "id": "dpdc-o",
@@ -159,30 +143,30 @@
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 67.1
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by NameResolutionError(\"HTTPSConnection(host='reb.gov.bd', port=443): Failed to resolve 'reb"
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Read timed out. (read timeout=12)"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 2,
+   "seconds": 24.4
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
    "ok": true,
    "slots_found": 5,
-   "notices_found": 2,
-   "seconds": 317.0
+   "notices_found": 1,
+   "seconds": 8.9
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
    "ok": false,
-   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Read timed out. (read timeout=12)"
+   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by NameResolutionError(\"HTTPSConnection(host='wzpdcl.gov.bd', port=443): Failed to resolv"
   }
  ]
 }
