@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T05:30:20+06:00",
+ "generated_at": "2026-10-09T09:03:24+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [
   {
@@ -122,7 +122,7 @@
   {
    "title": "যেসব এলাকায় শনিবার টানা ১০ ঘণ্টা বিদ্যুৎ থাকবে না",
    "url": "https://zoombangla.com/%e0%a6%ac%e0%a6%bf%e0%a6%a6%e0%a7%8d%e0%a6%af%e0%a7%81%e0%a7%8e-%e0%a6%a5%e0%a6%be%e0%a6%95%e0%a6%ac%e0%a7%87-%e0%a6%a8%e0%a6%be-4/",
-   "published": "2026-10-08T02:58:00+00:00",
+   "published": "2026-10-08T16:58:00+00:00",
    "date": "2026-10-10",
    "start": "07:00",
    "end": "17:00",
@@ -137,7 +137,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.4
+   "seconds": 4.6
   },
   {
    "id": "dpdc-n",
@@ -145,7 +145,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.5
+   "seconds": 4.0
   },
   {
    "id": "dpdc-o",
@@ -161,7 +161,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.1
+   "seconds": 3.7
   },
   {
    "id": "bpdb-n",
@@ -169,7 +169,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 30.6
+   "seconds": 31.8
   },
   {
    "id": "nesco-n",
@@ -177,7 +177,7 @@
    "ok": true,
    "slots_found": 5,
    "notices_found": 1,
-   "seconds": 11.6
+   "seconds": 11.8
   },
   {
    "id": "wzpdcl-n",
@@ -185,7 +185,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.0
+   "seconds": 3.8
   }
  ]
 }
