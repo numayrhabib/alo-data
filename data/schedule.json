@@ -1,41 +1,8 @@
 {
- "generated_at": "2026-10-10T19:55:29+06:00",
+ "generated_at": "2026-10-11T00:11:44+06:00",
  "timezone": "Asia/Dhaka",
- "slots": [
-  {
-   "utility": "NESCO",
-   "area": "বিদ্যুৎ বন্ধের বিজ্ঞপ্তিঃ বিক্রয় ও বিতরণ বিভাগ-1,নেসকো,বগুড়া দপ্তরের 33 কেভি ফিডারের মেরামত ও সংরক্ষণ কাজের জন্য আগামী 10/10/2026 ইং তারিখ (রোজ শনিবার) নিম্নোক্ত শিডিউল অনুযায়ী বিদ্যুৎ সরবরাহ বন্ধ থাকবে / 08-10-2026 / দেখুন",
-   "date": "2026-10-10",
-   "start": "07:00",
-   "end": "17:00",
-   "ambiguous": false,
-   "source_url": "https://nesco.gov.bd/site/view/notices",
-   "source_id": "nesco-n"
-  }
- ],
- "notices": [
-  {
-   "utility": "BPDB",
-   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
-   "url": "https://bpdb.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "BPDB",
-   "title": "চাহিদা ও লোডশেডিং",
-   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "NESCO",
-   "title": "লোড শেডিং শিডিউল",
-   "url": "https://nesco.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 1
-  }
- ],
+ "slots": [],
+ "notices": [],
  "news": [
   {
    "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - SAMAKAL",
@@ -78,44 +45,19 @@
    "published": "Mon, 24 Aug 2026 02:41:00 GMT"
   }
  ],
- "planned": [
-  {
-   "title": "আজ দেশের যেসব এলাকায় দীর্ঘসময় বিদ্যুৎ থাকবে না",
-   "url": "https://rtvonline.com/national/408604",
-   "published": "2026-10-09T19:34:00+00:00",
-   "date": "2026-10-10",
-   "start": "07:00",
-   "end": "17:00",
-   "ambiguous": false,
-   "places": "প্রধান সম্পাদক : সৈয়দ আশিক রহমান বেঙ্গল মিডিয়া করপোরেশন লিমিটেড,১০২ কাজী নজরুল ইসলাম এভিনিউ কারওয়ান বাজার, ঢাকা-১২১৫\r\nজরুরি রক্ষণাবেক্ষণ ও নির্মাণকাজের জন্য শনিবার (১০ অক্টোবর) রাজশাহী ও বগুড়ার বেশকিছু এলাকায় দীর্ঘসময় বিদ্যুৎ থাকবে না। নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসি (নেসকো) বগুড়ার বিক্রয় ও বিতরণ বিভাগ-১ এবং নেসকো রাজশাহীর বিমানবন্দর বিক্রয় ও বিতরণ বিভাগ থেকে পৃথক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়েছে। এর মধ্যে শনিবার টানা ১০ ঘণ্টা বগুড়ার বেশকিছু এলাকায় বিদ্যুৎ থাকবে না। এ বিষয়ে নেসকো বগুড়ার বিক্রয় ও বিতরণ বিভাগ-১ এর নির্বাহী প্রকৌশলীর দপ্তর থেকে এক বিজ্ঞপ্তিতে জানানো হয়েছে, জাহাঙ্গীরাবাদ ক্যান্টনমেন্ট সংলগ্ন সাসেক প্রকল্পের আওতায় ফুটওভার ব্রিজ নির্মাণকাজের নিমিত্তে নেসকো বগুড়ার বিক্রয় ও বিতরণ বিভাগ-১ এর আওতাধীন ৩৩ কেভি রহমান নগর এবং ৩৩ কেভি বনানী ফিডারসমূহ শাটডাউনের নিমিত্ত আগামী ১০ অক্টোবর সকাল ৭টা থেকে বিকেল ৫টা পর্যন্ত মোট ১০ ঘণ্টা এই দুই ফিডারের আওতাধীন এলাকায় বিদ্যুৎ থাকবে না"
-  },
-  {
-   "title": "যেসব এলাকায় শনিবার টানা ১০ ঘণ্টা বিদ্যুৎ থাকবে না",
-   "url": "https://zoombangla.com/%e0%a6%ac%e0%a6%bf%e0%a6%a6%e0%a7%8d%e0%a6%af%e0%a7%81%e0%a7%8e-%e0%a6%a5%e0%a6%be%e0%a6%95%e0%a6%ac%e0%a7%87-%e0%a6%a8%e0%a6%be-4/",
-   "published": "2026-10-08T16:58:00+00:00",
-   "date": "2026-10-10",
-   "start": "07:00",
-   "end": "17:00",
-   "ambiguous": false,
-   "places": "জরুরি নির্মাণকাজের জন্য আগামী শনিবার (১০ অক্টোবর) টানা ১০ ঘণ্টা বগুড়ার বেশকিছু এলাকায় বিদ্যুৎ থাকবে না। নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসি বগুড়ার বিক্রয় ও বিতরণ বিভাগ-১ এর নির্বাহী প্রকৌশলীর দপ্তর থেকে এক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়েছে।"
-  }
- ],
+ "planned": [],
  "sources": [
   {
    "id": "desco-n",
    "utility": "DESCO",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 4.1
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='desco.gov.bd', port=443) at 0x7feea429f560>, 'Co"
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.9
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='dpdc.gov.bd', port=443) at 0x7feea429f6e0>, 'Conn"
   },
   {
    "id": "dpdc-o",
@@ -128,34 +70,26 @@
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 4.0
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='reb.gov.bd', port=443) at 0x7feea42a5940>, 'Co"
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 2,
-   "seconds": 30.1
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='bpdb.gov.bd', port=443) at 0x7feea42a62d0>, '"
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
-   "ok": true,
-   "slots_found": 1,
-   "notices_found": 1,
-   "seconds": 6.9
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='nesco.gov.bd', port=443) at 0x7feea42a6b70>,"
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.7
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='wzpdcl.gov.bd', port=443) at 0x7feea42a7530"
   }
  ]
 }
