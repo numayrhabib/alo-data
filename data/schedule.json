@@ -1,17 +1,7 @@
 {
- "generated_at": "2026-10-10T07:28:35+06:00",
+ "generated_at": "2026-10-10T13:26:31+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [
-  {
-   "utility": "NESCO",
-   "area": "বিক্রয় ও বিতরণ বিভাগ-বিমানবন্দর,নেসকো, রাজশাহী দপ্তরের গ্রাহকদের জানানো যাচ্ছে যে, বিদ্যুৎ লাইনের নিকটবর্তী গাছপালার শাখা-প্রশাখা কর্তনের জন্য 08/10/2026 (বৃহস্পতিবার) নিম্নোক্ত শিডিউল অনুযায়ী বিদ্যুৎ সরবরাহ বন্ধ থাকবে / 07-10-2026 / দেখুন",
-   "date": "2026-10-10",
-   "start": "07:30",
-   "end": "14:00",
-   "ambiguous": false,
-   "source_url": "https://nesco.gov.bd/site/view/notices",
-   "source_id": "nesco-n"
-  },
   {
    "utility": "NESCO",
    "area": "বিদ্যুৎ বন্ধের বিজ্ঞপ্তিঃ বিক্রয় ও বিতরণ বিভাগ-1,নেসকো,বগুড়া দপ্তরের 33 কেভি ফিডারের মেরামত ও সংরক্ষণ কাজের জন্য আগামী 10/10/2026 ইং তারিখ (রোজ শনিবার) নিম্নোক্ত শিডিউল অনুযায়ী বিদ্যুৎ সরবরাহ বন্ধ থাকবে / 08-10-2026 / দেখুন",
@@ -21,39 +11,31 @@
    "ambiguous": false,
    "source_url": "https://nesco.gov.bd/site/view/notices",
    "source_id": "nesco-n"
-  },
-  {
-   "utility": "NESCO",
-   "area": "বিবিবি,নেসকো, জয়পুরহাট দপ্তরের গ্রাহকদের জানানো যাচ্ছে, 11কেভি হাসপাতাল ফিডারের লাইনের পার্শ্ববর্তী গাছের ডালপালা কর্তনের জন্য নিম্নোক্ত সংযুক্তি মোতাবেক আগামী 09/10/2026 খ্রি. বিদ্যুৎ সরবরাহ বন্ধ থাকবে / 08-10-2026 / দেখুন",
-   "date": "2026-10-10",
-   "start": "08:00",
-   "end": "15:00",
-   "ambiguous": false,
-   "source_url": "https://nesco.gov.bd/site/view/notices",
-   "source_id": "nesco-n"
-  },
-  {
-   "utility": "NESCO",
-   "area": "বিবিবি-1,নেসকো, রাজশাহী দপ্তরের গ্রাহকদের জানানো যাচ্ছে, 33/11কেভি লাইনের পার্শ্ববর্তী গাছের ডালপালা কর্তনের জন্য নিম্নোক্ত সংযুক্তি মোতাবেক আগামী 09/10/2026 খ্রি. রোজ শুক্রবার বিদ্যুৎ সরবরাহ বন্ধ থাকবে / 08-10-2026 / দেখুন",
-   "date": "2026-10-10",
-   "start": "07:30",
-   "end": "24:00",
-   "ambiguous": false,
-   "source_url": "https://nesco.gov.bd/site/view/notices",
-   "source_id": "nesco-n"
-  },
-  {
-   "utility": "NESCO",
-   "area": "বিবিবি-সান্তাহার, নেসকো, বগুড়া দপ্তরের গ্রাহকদের জানানো যাচ্ছে, শারদীয় দুর্গাপূজা উপলক্ষ্যে 33,11ও0.4 কেভি লাইনের পার্শ্ববর্তী গাছের ডালপালা কর্তনের জন্য আগামী 10/10/2026 খ্রি. রোজ শনিবার বিদ্যুৎ সরবরাহ বন্ধ থাকবে / 08-10-2026 / দেখুন",
-   "date": "2026-10-10",
-   "start": "08:00",
-   "end": "16:00",
-   "ambiguous": false,
-   "source_url": "https://nesco.gov.bd/site/view/notices",
-   "source_id": "nesco-n"
   }
  ],
- "notices": [],
+ "notices": [
+  {
+   "utility": "BPDB",
+   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
+   "url": "https://bpdb.gov.bd/site/view/notices",
+   "type": "page",
+   "slots": 0
+  },
+  {
+   "utility": "BPDB",
+   "title": "চাহিদা ও লোডশেডিং",
+   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
+   "type": "page",
+   "slots": 0
+  },
+  {
+   "utility": "NESCO",
+   "title": "লোড শেডিং শিডিউল",
+   "url": "https://nesco.gov.bd/site/view/notices",
+   "type": "page",
+   "slots": 1
+  }
+ ],
  "news": [
   {
    "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - SAMAKAL",
@@ -98,9 +80,9 @@
  ],
  "planned": [
   {
-   "title": "শনিবার দীর্ঘসময় বিদ্যুৎ থাকবে না দেশের যেসব এলাকায়",
-   "url": "https://rtvonline.com/national/408586",
-   "published": "2026-10-09T09:23:00+00:00",
+   "title": "আজ দেশের যেসব এলাকায় দীর্ঘসময় বিদ্যুৎ থাকবে না",
+   "url": "https://rtvonline.com/national/408604",
+   "published": "2026-10-09T19:34:00+00:00",
    "date": "2026-10-10",
    "start": "07:00",
    "end": "17:00",
@@ -122,14 +104,18 @@
   {
    "id": "desco-n",
    "utility": "DESCO",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='desco.gov.bd', port=443) at 0x7f6aef4e7110>, 'Co"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 3.9
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='dpdc.gov.bd', port=443) at 0x7f6aef4e7290>, 'Conn"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 3.5
   },
   {
    "id": "dpdc-o",
@@ -137,31 +123,39 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.3
+   "seconds": 1.1
   },
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='reb.gov.bd', port=443) at 0x7f6aef4e9490>, 'Co"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 3.4
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='bpdb.gov.bd', port=443) at 0x7f6aef4e9e80>, '"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 2,
+   "seconds": 29.7
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='nesco.gov.bd', port=443) at 0x7f6aef4ea6c0>,"
+   "ok": true,
+   "slots_found": 1,
+   "notices_found": 1,
+   "seconds": 6.8
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='wzpdcl.gov.bd', port=443) at 0x7f6aef4eb080"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 3.7
   }
  ]
 }
