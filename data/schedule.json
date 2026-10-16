@@ -1,30 +1,8 @@
 {
- "generated_at": "2026-10-16T11:20:13+06:00",
+ "generated_at": "2026-10-16T16:03:23+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
- "notices": [
-  {
-   "utility": "BPDB",
-   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
-   "url": "https://bpdb.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "BPDB",
-   "title": "চাহিদা ও লোডশেডিং",
-   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "NESCO",
-   "title": "লোড শেডিং শিডিউল",
-   "url": "https://nesco.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 0
-  }
- ],
+ "notices": [],
  "news": [
   {
    "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - SAMAKAL",
@@ -42,14 +20,14 @@
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "বুয়েটে দৈনিক পাঁচ ঘণ্টা লোডশেডিংয়ের সূচি - Channel 24",
-   "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxQeUZ3U1BhQUt3TEV5X2d5dGNCMExDNmRteURHaWVKT0ZqNnUybnNFOXNYZWwzZmFzcmNoSkZHWXNLbVZoa3pveTJ2NWdJNkRhYnR4Ry16Y2Q5cDRmTHZKZndyNVJ5eFZsUW13UkVvWk1WMFFLdHloUTNPVzY0SE4yb09OTHZMeEdaQ2FBRmdHUXV6U1FhS2tKSWVsUHFtV3VleEpiY2tadFRzY2lyWHNKSExXQXFWNEU2NUFLOGt0b194U01IWjkwVjR1S0wyamJmamFKaEx2VGJrSDB2QzBQMk9xQkwwMWZoUFlOcFRoWEdCWHJhLU1RaGpfeGxnRWlKcC1zOFdzVWZldUdsVWozNVdiUnZ0WGJTWVh5OHktOVRjc1pya0s2QWNCZTJxQ1JRWGZiLW5iNHBpVGR0WjdkVFJ6REMwSXdXcFRrY3dQaEhrTVFOSmd0NlNGLWhxUlEtS3lyZzI3VUJkNmNHU3BZbjY1Rm16ZkhmaEFMM0xjSjhmN0xzYkNLemRGLXpSQnZmUFdmLVNyUFhrUTlXUnhubnR5UEdTdlBPcE9sOGJWMGVHTm01QVNDVVFmM1BfZktvM0M4eGxFR2NJSE9nMEF6MmIwa3hmUEp3eWxqLWdzclNoZkVmbUZRYk5iMFlXMjB2VkxGVjh1SWMzejBzS1Q4aTZKSVJfVDAxb3MtVDJHRmJCSzFybGE4?oc=5",
-   "published": "Sun, 23 Aug 2026 07:00:00 GMT"
-  },
-  {
    "title": "বুয়েটের লোডশেডিং সূচিতে বড় পরিবর্তন, বাতিল আগের বিজ্ঞপ্তি - NewsNow24",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNNGxGX2tZQ2pOWlo1M3ZUWUp6RGpiV1I4MVJGVlBXY3ZIQjdCMVFWQk9FV0lxMy1abThRdFFUSFd6RWJ0Q0htRUpYQklZcE1N?oc=5",
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
+  },
+  {
+   "title": "বুয়েটে দৈনিক পাঁচ ঘণ্টা লোডশেডিংয়ের সূচি - Channel 24",
+   "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxQeUZ3U1BhQUt3TEV5X2d5dGNCMExDNmRteURHaWVKT0ZqNnUybnNFOXNYZWwzZmFzcmNoSkZHWXNLbVZoa3pveTJ2NWdJNkRhYnR4Ry16Y2Q5cDRmTHZKZndyNVJ5eFZsUW13UkVvWk1WMFFLdHloUTNPVzY0SE4yb09OTHZMeEdaQ2FBRmdHUXV6U1FhS2tKSWVsUHFtV3VleEpiY2tadFRzY2lyWHNKSExXQXFWNEU2NUFLOGt0b194U01IWjkwVjR1S0wyamJmamFKaEx2VGJrSDB2QzBQMk9xQkwwMWZoUFlOcFRoWEdCWHJhLU1RaGpfeGxnRWlKcC1zOFdzVWZldUdsVWozNVdiUnZ0WGJTWVh5OHktOVRjc1pya0s2QWNCZTJxQ1JRWGZiLW5iNHBpVGR0WjdkVFJ6REMwSXdXcFRrY3dQaEhrTVFOSmd0NlNGLWhxUlEtS3lyZzI3VUJkNmNHU3BZbjY1Rm16ZkhmaEFMM0xjSjhmN0xzYkNLemRGLXpSQnZmUFdmLVNyUFhrUTlXUnhubnR5UEdTdlBPcE9sOGJWMGVHTm01QVNDVVFmM1BfZktvM0M4eGxFR2NJSE9nMEF6MmIwa3hmUEp3eWxqLWdzclNoZkVmbUZRYk5iMFlXMjB2VkxGVjh1SWMzejBzS1Q4aTZKSVJfVDAxb3MtVDJHRmJCSzFybGE4?oc=5",
+   "published": "Sun, 23 Aug 2026 07:00:00 GMT"
   },
   {
    "title": "কখন লোডশেডিং হবে, জানানোর দাবি শিল্প উদ্যোক্তাদের - Jagonews24",
@@ -81,7 +59,7 @@
   {
    "title": "ছুটির দিনে যেসব এলাকায় টানা ৬ ঘণ্টা বিদ্যুৎ থাকবে না",
    "url": "https://www.jugantor.com/national/1169742",
-   "published": "2026-10-15T22:20:00+00:00",
+   "published": "2026-10-16T01:28:00+00:00",
    "date": "2026-10-16",
    "start": "08:00",
    "end": "13:00",
@@ -103,18 +81,14 @@
   {
    "id": "desco-n",
    "utility": "DESCO",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.8
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='desco.gov.bd', port=443) at 0x7f470f5ffa40>, 'Co"
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 4.2
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='dpdc.gov.bd', port=443) at 0x7f470f5ff830>, 'Conn"
   },
   {
    "id": "dpdc-o",
@@ -122,39 +96,31 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.2
+   "seconds": 1.3
   },
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='reb.gov.bd', port=443) at 0x7f470f3d1cd0>, 'Co"
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 2,
-   "seconds": 22.8
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='bpdb.gov.bd', port=443) at 0x7f470f3d2660>, '"
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 1,
-   "seconds": 6.3
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='nesco.gov.bd', port=443) at 0x7f470f3d2f00>,"
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='wzpdcl.gov.bd', port=443) at 0x7f470f3d3890"
   }
  ]
 }
