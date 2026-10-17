@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T10:46:57+06:00",
+ "generated_at": "2026-10-17T14:58:05+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
  "notices": [
@@ -67,7 +67,18 @@
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
   }
  ],
- "planned": [],
+ "planned": [
+  {
+   "title": "আজ ৯ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
+   "url": "https://www.ntvbd.com/bangladesh/news-1820853",
+   "published": "2026-10-17T01:58:00+00:00",
+   "date": "2026-10-17",
+   "start": "08:00",
+   "end": "17:00",
+   "ambiguous": false,
+   "places": "লাইন রক্ষণাবেক্ষণ ও গাছের ডালপালা কাটার কাজের জন্য আজ শনিবার (১৭ অক্টোবর) রাজধানীর ঢাকার কয়েকটি এলাকায় সকাল থেকে বিদ্যুৎ সরবরাহ বন্ধ থাকবে।\nএ সময় খেজুরবাগ, সাতপাখি গ্যাস রোড, সাহেব গলি, মাস্টার গলি, খেজুরবাগ বাজার রোড, পারগেন্ডারিয়া, পারগেন্ডারিয়া বাজার, মীরেরবাগ, চর কালিগঞ্জ, কালিগঞ্জ, বরইতলাসহ আশপাশের এলাকাগুলোতে বিদ্যুৎ সরবরাহ বন্ধ থাকবে।"
+  }
+ ],
  "sources": [
   {
    "id": "desco-n",
@@ -83,7 +94,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.3
+   "seconds": 3.7
   },
   {
    "id": "dpdc-o",
@@ -91,7 +102,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.1
+   "seconds": 2.8
   },
   {
    "id": "breb-n",
@@ -99,7 +110,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.6
+   "seconds": 3.2
   },
   {
    "id": "bpdb-n",
@@ -107,7 +118,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 28.6
+   "seconds": 29.7
   },
   {
    "id": "nesco-n",
@@ -115,7 +126,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 1,
-   "seconds": 11.4
+   "seconds": 11.5
   },
   {
    "id": "wzpdcl-n",
@@ -123,7 +134,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.0
+   "seconds": 3.3
   }
  ]
 }
