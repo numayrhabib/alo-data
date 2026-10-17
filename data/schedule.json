@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T14:58:05+06:00",
+ "generated_at": "2026-10-17T18:42:03+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
  "notices": [
@@ -71,7 +71,7 @@
   {
    "title": "আজ ৯ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
    "url": "https://www.ntvbd.com/bangladesh/news-1820853",
-   "published": "2026-10-17T01:58:00+00:00",
+   "published": "2026-10-17T03:25:00+00:00",
    "date": "2026-10-17",
    "start": "08:00",
    "end": "17:00",
@@ -86,7 +86,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.8
+   "seconds": 4.2
   },
   {
    "id": "dpdc-n",
@@ -94,7 +94,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.7
+   "seconds": 4.4
   },
   {
    "id": "dpdc-o",
@@ -102,7 +102,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 2.8
+   "seconds": 1.2
   },
   {
    "id": "breb-n",
@@ -110,7 +110,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.2
+   "seconds": 3.6
   },
   {
    "id": "bpdb-n",
@@ -118,7 +118,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 29.7
+   "seconds": 29.9
   },
   {
    "id": "nesco-n",
@@ -126,7 +126,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 1,
-   "seconds": 11.5
+   "seconds": 12.2
   },
   {
    "id": "wzpdcl-n",
@@ -134,7 +134,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.3
+   "seconds": 3.9
   }
  ]
 }
