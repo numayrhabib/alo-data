@@ -1,30 +1,8 @@
 {
- "generated_at": "2026-10-17T18:42:03+06:00",
+ "generated_at": "2026-10-17T22:06:37+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
- "notices": [
-  {
-   "utility": "BPDB",
-   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
-   "url": "https://bpdb.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "BPDB",
-   "title": "চাহিদা ও লোডশেডিং",
-   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "NESCO",
-   "title": "লোড শেডিং শিডিউল",
-   "url": "https://nesco.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 0
-  }
- ],
+ "notices": [],
  "news": [
   {
    "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - SAMAKAL",
@@ -67,34 +45,19 @@
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
   }
  ],
- "planned": [
-  {
-   "title": "আজ ৯ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
-   "url": "https://www.ntvbd.com/bangladesh/news-1820853",
-   "published": "2026-10-17T03:25:00+00:00",
-   "date": "2026-10-17",
-   "start": "08:00",
-   "end": "17:00",
-   "ambiguous": false,
-   "places": "লাইন রক্ষণাবেক্ষণ ও গাছের ডালপালা কাটার কাজের জন্য আজ শনিবার (১৭ অক্টোবর) রাজধানীর ঢাকার কয়েকটি এলাকায় সকাল থেকে বিদ্যুৎ সরবরাহ বন্ধ থাকবে।\nএ সময় খেজুরবাগ, সাতপাখি গ্যাস রোড, সাহেব গলি, মাস্টার গলি, খেজুরবাগ বাজার রোড, পারগেন্ডারিয়া, পারগেন্ডারিয়া বাজার, মীরেরবাগ, চর কালিগঞ্জ, কালিগঞ্জ, বরইতলাসহ আশপাশের এলাকাগুলোতে বিদ্যুৎ সরবরাহ বন্ধ থাকবে।"
-  }
- ],
+ "planned": [],
  "sources": [
   {
    "id": "desco-n",
    "utility": "DESCO",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 4.2
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='desco.gov.bd', port=443) at 0x7fa358af7740>, 'Co"
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 4.4
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='dpdc.gov.bd', port=443) at 0x7fa358af7980>, 'Conn"
   },
   {
    "id": "dpdc-o",
@@ -102,39 +65,31 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.2
+   "seconds": 1.3
   },
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='reb.gov.bd', port=443) at 0x7fa358afdb50>, 'Co"
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 2,
-   "seconds": 29.9
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='bpdb.gov.bd', port=443) at 0x7fa358afe570>, '"
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 1,
-   "seconds": 12.2
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='nesco.gov.bd', port=443) at 0x7fa358afee10>,"
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.9
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='wzpdcl.gov.bd', port=443) at 0x7fa358aff7d0"
   }
  ]
 }
