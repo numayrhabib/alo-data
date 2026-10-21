@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T18:09:15+06:00",
+ "generated_at": "2026-10-21T23:29:54+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
  "notices": [
@@ -67,7 +67,18 @@
    "published": "Fri, 05 Aug 2022 07:00:00 GMT"
   }
  ],
- "planned": [],
+ "planned": [
+  {
+   "title": "বৃহস্পতিবার টানা ৯ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
+   "url": "https://www.jugantor.com/country-news/1172325",
+   "published": "2026-10-21T08:02:00+00:00",
+   "date": "2026-10-22",
+   "start": "08:00",
+   "end": "17:00",
+   "ambiguous": false,
+   "places": "জরুরি রক্ষণাবেক্ষণ, মেরামত ও সড়ক উন্নয়নকাজের জন্য বৃহস্পতিবার (২২ অক্টোবর) সিলেটের জৈন্তাপুরের কয়েকটি এলাকায় টানা ৯ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে। এ সময় সকাল ৮টা থেকে বিকাল ৫টা পর্যন্ত বিদ্যুৎবিহীন থাকতে হবে সংশ্লিষ্ট এলাকার গ্রাহকদের।\nবিজ্ঞপ্তিতে বলা হয়, বৃহস্পতিবার সকাল ৮টা থেকে বিকেল ৫টা পর্যন্ত জৈন্তাপুর উপকেন্দ্রের আওতাধীন জাফলং ১১ কেভি তামাবিল, চাংগিল ও জাফলং ফিডারে বিদ্যুৎ সরবরাহ বন্ধ থাকবে।"
+  }
+ ],
  "sources": [
   {
    "id": "desco-n",
@@ -75,7 +86,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.7
+   "seconds": 4.9
   },
   {
    "id": "dpdc-n",
@@ -83,7 +94,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.1
+   "seconds": 4.7
   },
   {
    "id": "dpdc-o",
@@ -91,7 +102,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.2
+   "seconds": 1.3
   },
   {
    "id": "breb-n",
@@ -99,7 +110,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.8
+   "seconds": 3.7
   },
   {
    "id": "bpdb-n",
@@ -107,7 +118,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 30.4
+   "seconds": 32.8
   },
   {
    "id": "nesco-n",
@@ -115,7 +126,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 1,
-   "seconds": 7.0
+   "seconds": 7.7
   },
   {
    "id": "wzpdcl-n",
@@ -123,7 +134,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.8
+   "seconds": 4.2
   }
  ]
 }
