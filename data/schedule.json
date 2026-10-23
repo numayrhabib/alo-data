@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T11:11:23+06:00",
+ "generated_at": "2026-10-23T16:22:34+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
  "notices": [],
@@ -51,13 +51,13 @@
    "id": "desco-n",
    "utility": "DESCO",
    "ok": false,
-   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='desco.gov.bd', port=443) at 0x7fa4d96fb500>, 'Co"
+   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='desco.gov.bd', port=443) at 0x7f9cc02ef2f0>, 'Co"
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
    "ok": false,
-   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='dpdc.gov.bd', port=443) at 0x7fa4d96fba10>, 'Conn"
+   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='dpdc.gov.bd', port=443) at 0x7f9cc1a32f00>, 'Conn"
   },
   {
    "id": "dpdc-o",
@@ -71,25 +71,25 @@
    "id": "breb-n",
    "utility": "BREB",
    "ok": false,
-   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='reb.gov.bd', port=443) at 0x7fa4d96fb950>, 'Co"
+   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='reb.gov.bd', port=443) at 0x7f9cc02f5580>, 'Co"
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
    "ok": false,
-   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='bpdb.gov.bd', port=443) at 0x7fa4d95022a0>, '"
+   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='bpdb.gov.bd', port=443) at 0x7f9cc02f61b0>, '"
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
    "ok": false,
-   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='nesco.gov.bd', port=443) at 0x7fa4d9502b40>,"
+   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='nesco.gov.bd', port=443) at 0x7f9cc02f6a20>,"
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
    "ok": false,
-   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='wzpdcl.gov.bd', port=443) at 0x7fa4d9503500"
+   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='wzpdcl.gov.bd', port=443) at 0x7f9cc02f73e0"
   }
  ]
 }
