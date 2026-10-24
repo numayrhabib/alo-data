@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T11:20:11+06:00",
+ "generated_at": "2026-10-24T15:42:02+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
  "notices": [
@@ -71,7 +71,7 @@
   {
    "title": "টানা ১০ ঘণ্টা বিদ্যুৎ থাকবে না আজ যেসব এলাকায়",
    "url": "https://www.jugantor.com/country-news/1173534",
-   "published": "2026-10-23T22:20:00+00:00",
+   "published": "2026-10-24T02:41:00+00:00",
    "date": "2026-10-24",
    "start": "07:00",
    "end": "17:00",
@@ -96,7 +96,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.5
+   "seconds": 3.2
   },
   {
    "id": "dpdc-n",
@@ -112,7 +112,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.2
+   "seconds": 1.3
   },
   {
    "id": "breb-n",
@@ -120,7 +120,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.1
+   "seconds": 3.4
   },
   {
    "id": "bpdb-n",
@@ -128,7 +128,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 27.9
+   "seconds": 27.8
   },
   {
    "id": "nesco-n",
@@ -136,7 +136,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 1,
-   "seconds": 6.4
+   "seconds": 6.9
   },
   {
    "id": "wzpdcl-n",
