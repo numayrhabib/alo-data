@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-10-27T00:34:43+06:00",
+ "generated_at": "2026-10-27T04:59:06+06:00",
  "timezone": "Asia/Dhaka",
- "slots": [],
+ "slots": [
+  {
+   "utility": "NESCO",
+   "area": "শিবগঞ্জ বিদ্যুৎ সরবরাহ, নেসকো, চাঁপাইনবাবগঞ্জ দপ্তরের গ্রাহকের জানানো যাচ্ছে যে, 33 কেভি লাইন স্থানান্তর কাজের জন্য আগামী 27/10/2026 ইং রোজ মঙ্গলবার বিদ্যুৎ বন্ধ থাকবে / 26-10-2026 / দেখুন",
+   "date": "2026-10-27",
+   "start": "09:00",
+   "end": "17:00",
+   "ambiguous": false,
+   "source_url": "https://nesco.gov.bd/site/view/notices",
+   "source_id": "nesco-n"
+  }
+ ],
  "notices": [
   {
    "utility": "BPDB",
@@ -14,8 +25,15 @@
    "utility": "BPDB",
    "title": "চাহিদা ও লোডশেডিং",
    "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
-   "type": "unknown",
-   "error": "500 Server Error: Internal Server Error for url: https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c"
+   "type": "page",
+   "slots": 0
+  },
+  {
+   "utility": "NESCO",
+   "title": "লোড শেডিং শিডিউল",
+   "url": "https://nesco.gov.bd/site/view/notices",
+   "type": "page",
+   "slots": 1
   }
  ],
  "news": [
@@ -65,16 +83,16 @@
   {
    "id": "desco-n",
    "utility": "DESCO",
-   "ok": false,
-   "error": "500 Server Error: Internal Server Error for url: https://desco.gov.bd/pages/notices"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 4.2
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 4.4
+   "ok": false,
+   "error": "500 Server Error: Internal Server Error for url: https://dpdc.gov.bd/pages/notices"
   },
   {
    "id": "dpdc-o",
@@ -82,7 +100,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.1
+   "seconds": 1.2
   },
   {
    "id": "breb-n",
@@ -90,7 +108,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.5
+   "seconds": 4.1
   },
   {
    "id": "bpdb-n",
@@ -98,19 +116,23 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 23.8
+   "seconds": 29.7
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
-   "ok": false,
-   "error": "500 Server Error: Internal Server Error for url: https://nesco.gov.bd/pages/notices/"
+   "ok": true,
+   "slots_found": 1,
+   "notices_found": 1,
+   "seconds": 6.5
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": false,
-   "error": "500 Server Error: Internal Server Error for url: https://wzpdcl.gov.bd/pages/notices/"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 3.3
   }
  ]
 }
