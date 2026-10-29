@@ -1,30 +1,8 @@
 {
- "generated_at": "2026-10-29T12:08:08+06:00",
+ "generated_at": "2026-10-29T19:30:28+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
- "notices": [
-  {
-   "utility": "BPDB",
-   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
-   "url": "https://bpdb.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "BPDB",
-   "title": "চাহিদা ও লোডশেডিং",
-   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "NESCO",
-   "title": "লোড শেডিং শিডিউল",
-   "url": "https://nesco.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 0
-  }
- ],
+ "notices": [],
  "news": [
   {
    "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - SAMAKAL",
@@ -99,14 +77,14 @@
    "places": "ধামরাই প্রতিনিধি, আরটিভি নিউজ\nঢাকার ধামরাইয়ের বেশ কয়েকটি এলাকায় বৃহস্পতিবার (২৯ অক্টোবর) টানা সাড়ে ৯ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে। জরুরি রক্ষণাবেক্ষণ ও উন্নয়নকাজের জন্য সকাল ৮টা থেকে বিকেল ৫টা ৩০ মিনিট পর্যন্ত বিদ্যুৎ সরবরাহ বন্ধ রাখার সিদ্ধান্ত নিয়েছে ঢাকা পল্লী বিদ্যুৎ সমিতি-৩। বুধবার (২৮ অক্টোবর) বিকেলে সমিতির ধামরাই জোনাল অফিসের এক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়। বিজ্ঞপ্তিতে বলা হয়েছে, বাড়াড়িয়া (একমি) ৩৩ কেভি লাইন ও ধামরাই উপকেন্দ্রের আওতাধীন বিভিন্ন এলাকায় নির্ধারিত সময়ে বিদ্যুৎ সরবরাহ সাময়িকভাবে বন্ধ থাকবে। বিদ্যুৎ সরবরাহ বন্ধ থাকার সম্ভাব্য এলাকাগুলো হলো, ছোট চন্দ্রাইল, বড়চন্দ্রাইল, খাত্রা, ছয়বাড়ীয়া, বাড়ীগাঁও, বাশাইল, কুল্লা, জলসীন, তালতলা, ইসলামপুর, কুমড়াইল, হাসপাতাল রোড, নতুন দক্ষিণপাড়া, থানা কমপ্লেক্স, উপজেলা স্বাস্থ্য কমপ্লেক্স, আমিন মডেল টাউন, বরাতনগর, বরাত সেন্টার, ধানসিঁড়ি আবাসিক এলাকা ও ঢুলিভিটা। ধামরাই জোনাল অফিসের ডেপুটি জেনারেল ম্যানেজার লিপিয়া খাতুন জানান, ৩৩ কেভি লাই"
   },
   {
-   "title": "সকাল হলেই টানা সাড়ে ৯ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
-   "url": "https://zoombangla.com/%e0%a6%b8%e0%a6%95%e0%a6%be%e0%a6%b2-%e0%a6%b9%e0%a6%b2%e0%a7%87%e0%a6%87-%e0%a6%9f%e0%a6%be%e0%a6%a8%e0%a6%be-%e0%a6%b8%e0%a6%be%e0%a6%a1%e0%a6%bc%e0%a7%87-%e0%a7%af-%e0%a6%98%e0%a6%a3%e0%a7%8d/",
-   "published": "2026-10-28T17:26:00+00:00",
+   "title": "বৃহস্পতিবার টানা সাড়ে ৯ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
+   "url": "https://www.jugantor.com/country-news/1175807",
+   "published": "2026-10-28T06:09:00+00:00",
    "date": "2026-10-29",
    "start": "08:00",
    "end": "17:00",
    "ambiguous": false,
-   "places": "নিরবচ্ছিন্ন বিদ্যুৎ সংযোগ স্থাপনের লক্ষ্যে জরুরি রক্ষণাবেক্ষণ ও উন্নয়নকাজের জন্য ঢাকার ধামরাইয়ের বেশ কয়েকটি এলাকায় বৃহস্পতিবার (২৯ অক্টোবর) সকাল থেকে বিকাল পর্যন্ত টানা সাড়ে ৯ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে।\nবিদ্যুৎ সরবরাহ বন্ধ থাকা এলাকাগুলো হলো- ছোট চন্দ্রাইল, বড়চন্দ্রাইল, খাত্রা, ছয়বাড়ীয়া, বাড়ীগাঁও, বাশাইল, কুল্লা, জলসীন, তালতলা, ইসলামপুর, কুমড়াইল, হাসপাতাল রোড, নতুন দক্ষিণপাড়া, থানা কমপ্লেক্স, উপজেলা স্বাস্থ্য কমপ্লেক্স, আমিন মডেল টাউন, বরাতনগর, বরাত সেন্টার, ধানসিঁড়ি আবাসিক এলাকা ও ঢুলিভিটা।"
+   "places": "জরুরি রক্ষণাবেক্ষণ ও উন্নয়নকাজের জন্য বৃহস্পতিবার (২৯ অক্টোবর) সকাল থেকে বিকাল পর্যন্ত টানা সাড়ে ৯ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে ঢাকার ধামরাইয়ের বেশ কয়েকটি এলাকায়।\nবিদ্যুৎ সরবরাহ বন্ধ থাকা এলাকাগুলো হলো—ছোট চন্দ্রাইল, বড়চন্দ্রাইল, খাত্রা, ছয়বাড়ীয়া, বাড়ীগাঁও, বাশাইল, কুল্লা, জলসীন, তালতলা, ইসলামপুর, কুমড়াইল, হাসপাতাল রোড, নতুন দক্ষিণপাড়া, থানা কমপ্লেক্স, উপজেলা স্বাস্থ্য কমপ্লেক্স, আমিন মডেল টাউন, বরাতনগর, বরাত সেন্টার, ধানসিঁড়ি আবাসিক এলাকা ও ঢুলিভিটা।"
   },
   {
    "title": "আগামীকাল যেসব এলাকায় টানা সাড়ে ৯ ঘণ্টা বিদ্যুৎ বিদ্যুৎ থাকবে না",
@@ -133,18 +111,14 @@
   {
    "id": "desco-n",
    "utility": "DESCO",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.8
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='desco.gov.bd', port=443) at 0x7db38aeef8f0>, 'Co"
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 4.3
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='dpdc.gov.bd', port=443) at 0x7db38aeef950>, 'Conn"
   },
   {
    "id": "dpdc-o",
@@ -157,34 +131,26 @@
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 4.0
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='reb.gov.bd', port=443) at 0x7db38aef4b00>, 'Co"
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 2,
-   "seconds": 22.3
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='bpdb.gov.bd', port=443) at 0x7db38aef68d0>, '"
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 1,
-   "seconds": 6.3
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='nesco.gov.bd', port=443) at 0x7db38aef7170>,"
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.8
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='wzpdcl.gov.bd', port=443) at 0x7db38aef7b30"
   }
  ]
 }
