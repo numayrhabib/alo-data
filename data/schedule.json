@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T01:07:09+06:00",
+ "generated_at": "2026-10-30T05:28:17+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [
   {
@@ -58,8 +58,8 @@
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "কখন লোডশেডিং হবে, জানানোর দাবি শিল্প উদ্যোক্তাদের - Jugantor",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zVWpPX3VsM3dPU21UNmJyOUdSdU8teHJvdEhxcUZmVGxiVmtHODFYb3lzNmZuUmZxMGI4TnBZcTVBVTlPV3VibEd4cXV6ekllLWg0?oc=5",
+   "title": "কখন লোডশেডিং হবে, জানানোর দাবি শিল্প উদ্যোক্তাদের - Jagonews24",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqY3FWcmRWVTN1bmloNnpDSjlRY05ZOHFBdWRJYmNheGtURWNyLXZxQWdFMmdjZnRiSy1yc3pNRE9qNmdESndxNXpGdVpnYTYzSTQwOXVYSHdhRFk?oc=5",
    "published": "Sun, 30 Aug 2026 07:00:00 GMT"
   },
   {
@@ -86,7 +86,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.9
+   "seconds": 4.3
   },
   {
    "id": "dpdc-n",
@@ -94,7 +94,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.1
+   "seconds": 3.6
   },
   {
    "id": "dpdc-o",
@@ -110,7 +110,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.9
+   "seconds": 3.7
   },
   {
    "id": "bpdb-n",
@@ -118,7 +118,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 28.5
+   "seconds": 29.2
   },
   {
    "id": "nesco-n",
@@ -126,7 +126,7 @@
    "ok": true,
    "slots_found": 1,
    "notices_found": 1,
-   "seconds": 6.3
+   "seconds": 7.0
   },
   {
    "id": "wzpdcl-n",
@@ -134,7 +134,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.8
+   "seconds": 3.7
   }
  ]
 }
