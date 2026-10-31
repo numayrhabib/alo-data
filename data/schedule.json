@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T18:54:25+06:00",
+ "generated_at": "2026-10-31T23:28:54+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [
   {
@@ -75,7 +75,7 @@
   {
    "title": "ফেনীতে অনিয়ন্ত্রিত লোডশেডিংয়ে বিপর্যস্ত জনজীবন - Jagonews24",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5N3ozQlVnMWl6emdVOFRheGRQdDVSWXBKbWJYeHZKSUtJbUI0Z3lRWHlrR2NZejljR0RiTUVtSWlUQllNMGxsakR0MkZyYXhnYlpoZ21aU240OHM?oc=5",
-   "published": "Wed, 05 Aug 2026 07:00:00 GMT"
+   "published": "Tue, 04 Aug 2026 07:00:00 GMT"
   }
  ],
  "planned": [
@@ -117,7 +117,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.7
+   "seconds": 5.2
   },
   {
    "id": "dpdc-n",
@@ -125,7 +125,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.4
+   "seconds": 3.6
   },
   {
    "id": "dpdc-o",
@@ -141,7 +141,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.4
+   "seconds": 3.6
   },
   {
    "id": "bpdb-n",
@@ -149,7 +149,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 22.1
+   "seconds": 21.6
   },
   {
    "id": "nesco-n",
@@ -157,7 +157,7 @@
    "ok": true,
    "slots_found": 1,
    "notices_found": 1,
-   "seconds": 5.7
+   "seconds": 5.5
   },
   {
    "id": "wzpdcl-n",
@@ -165,7 +165,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.0
+   "seconds": 3.7
   }
  ]
 }
