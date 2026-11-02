@@ -1,22 +1,8 @@
 {
- "generated_at": "2026-11-02T03:02:34+06:00",
+ "generated_at": "2026-11-02T06:56:31+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
  "notices": [
-  {
-   "utility": "BPDB",
-   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
-   "url": "https://bpdb.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "BPDB",
-   "title": "চাহিদা ও লোডশেডিং",
-   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
-   "type": "page",
-   "slots": 0
-  },
   {
    "utility": "NESCO",
    "title": "লোড শেডিং শিডিউল",
@@ -62,9 +48,9 @@
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "প্রথম দিনেই রুটিন ভেঙে লোডশেডিং - প্রথম আলো",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zNElMcUVkZ2JZQnM4Nkp1VGpMUTc0YWlPR0Q5RWtna2xjeWlEdU5WaVphWTFEeGNjSVNFU3BuSm5wSDVINkJxTktsbExVOGVRcjJ0dlk0XzRRVUlj0gFqQVVfeXFMTlhwVE94UXkxZG1CbnB5blBaQUFPbDlvRlRjNTZGWnJsZXV3alhVSG5pVHJIYWloczU3NFYtcVZ5bTZZdU9IQ3ZaU1lnQkhGYUR2cXg3MmJWTHJuRVZwbENXM3RnZE41ZU00dw?oc=5",
-   "published": "Wed, 20 Jul 2022 07:00:00 GMT"
+   "title": "বুয়েটে দিনে ৫ ঘণ্টা লোডশেডিংয়ের নোটিশ - কালবেলা",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ESm1LREFYcF9QWndwUTF1Q2pBMFJrQm5oXzdtd0UtZThfcW5ZeVVPWUxibGdGdXVNZFdpcnhnYWt6V2hKZV9HXzVZUTctQmt1TVlqTm9nYUlFb1p4R0FUdg?oc=5",
+   "published": "Sun, 23 Aug 2026 07:00:00 GMT"
   }
  ],
  "planned": [],
@@ -75,7 +61,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.5
+   "seconds": 4.2
   },
   {
    "id": "dpdc-n",
@@ -83,7 +69,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.5
+   "seconds": 4.4
   },
   {
    "id": "dpdc-o",
@@ -91,7 +77,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.2
+   "seconds": 1.4
   },
   {
    "id": "breb-n",
@@ -99,15 +85,13 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.2
+   "seconds": 3.4
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 2,
-   "seconds": 28.0
+   "ok": false,
+   "error": "500 Server Error: Internal Server Error for url: https://bpdb.gov.bd/pages/notices/"
   },
   {
    "id": "nesco-n",
@@ -115,7 +99,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 1,
-   "seconds": 7.1
+   "seconds": 10.5
   },
   {
    "id": "wzpdcl-n",
