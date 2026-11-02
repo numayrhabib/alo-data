@@ -1,8 +1,22 @@
 {
- "generated_at": "2026-11-02T06:56:31+06:00",
+ "generated_at": "2026-11-02T13:06:02+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
  "notices": [
+  {
+   "utility": "BPDB",
+   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
+   "url": "https://bpdb.gov.bd/site/view/notices",
+   "type": "page",
+   "slots": 0
+  },
+  {
+   "utility": "BPDB",
+   "title": "চাহিদা ও লোডশেডিং",
+   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
+   "type": "page",
+   "slots": 0
+  },
   {
    "utility": "NESCO",
    "title": "লোড শেডিং শিডিউল",
@@ -61,7 +75,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.2
+   "seconds": 3.6
   },
   {
    "id": "dpdc-n",
@@ -69,7 +83,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.4
+   "seconds": 3.2
   },
   {
    "id": "dpdc-o",
@@ -77,7 +91,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.4
+   "seconds": 1.6
   },
   {
    "id": "breb-n",
@@ -85,13 +99,15 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.4
+   "seconds": 3.6
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": false,
-   "error": "500 Server Error: Internal Server Error for url: https://bpdb.gov.bd/pages/notices/"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 2,
+   "seconds": 28.3
   },
   {
    "id": "nesco-n",
@@ -99,7 +115,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 1,
-   "seconds": 10.5
+   "seconds": 12.3
   },
   {
    "id": "wzpdcl-n",
@@ -107,7 +123,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.5
+   "seconds": 3.6
   }
  ]
 }
