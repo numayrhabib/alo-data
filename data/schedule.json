@@ -1,30 +1,8 @@
 {
- "generated_at": "2026-11-04T12:49:01+06:00",
+ "generated_at": "2026-11-04T21:02:47+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
- "notices": [
-  {
-   "utility": "BPDB",
-   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
-   "url": "https://bpdb.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "BPDB",
-   "title": "চাহিদা ও লোডশেডিং",
-   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "NESCO",
-   "title": "লোড শেডিং শিডিউল",
-   "url": "https://nesco.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 0
-  }
- ],
+ "notices": [],
  "news": [
   {
    "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - SAMAKAL",
@@ -67,7 +45,18 @@
    "published": "Wed, 20 Jul 2022 07:00:00 GMT"
   }
  ],
- "planned": [],
+ "planned": [
+  {
+   "title": "ঢাকার যেসব এলাকায় সাড়ে ৯ ঘণ্টা বিদ্যুৎ থাকবে না বৃহস্পতিবার",
+   "url": "https://rtvonline.com/country/413770",
+   "published": "2026-11-04T04:21:00+00:00",
+   "date": "2026-11-05",
+   "start": "08:00",
+   "end": "17:00",
+   "ambiguous": false,
+   "places": "ধামরাই (ঢাকা) প্রতিনিধি, আরটিভি নিউজ\nঢাকার ধামরাইয়ে ৩৩ কেভি লাইনের তার আপগ্রেডেশন ও জরুরি রক্ষণাবেক্ষণ কাজের জন্য বৃহস্পতিবার (৫ নভেম্বর) সকাল থেকে বিকেল পর্যন্ত সাড়ে ৯ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে। বুধবার (৪ নভেম্বর) সন্ধ্যায় ঢাকা পল্লী বিদ্যুৎ সমিতি-৩ এর ধামরাই জোনাল অফিস এক বিজ্ঞপ্তির মাধ্যমে এ তথ্য নিশ্চিত করেছে। বিজ্ঞপ্তিতে জানানো হয়, বৃহস্পতিবার সকাল ৮টা থেকে বিকেল ৫টা ৩০ মিনিট পর্যন্ত ধামরাইয়ের ভাড়ারিয়া (একমি) ৩৩ কেভি ও ধামরাই উপকেন্দ্রের ১, ৩, ৮, ৯ ও ১০ নং ফিডারের আওতাভুক্ত সব এলাকায় বিদ্যুৎ সরবরাহ সম্পূর্ণ বন্ধ থাকবে। বিদ্যুৎ বন্ধ থাকার তালিকায় থাকা উল্লেখযোগ্য এলাকাগুলো হলো— ছোট চন্দ্রাইল, বড়চন্দ্রাইল, খাতরা, ছয়বাড়ীয়া, বাড়ীগাঁও, বাশাইল, কুল্লা, জলসীন, তালতলা, ইসলামপুর, কুমড়াইল, হাসপাতাল রোড, নতুন দক্ষিণপাড়া, থানা কমপ্লেক্স, উপজেলা স্বাস্থ্য কমপ্লেক্স, আমিন মডেল টাউন, বরাতনগর, বরাত সেন্টার, ধানসিঁড়ি আবাসিক এলাকা ও ঢুলিভিটা। আরও পড়ুন ডেসকোর প্রি-পেইড গ্রাহকদের জন্য জরুরি বি"
+  }
+ ],
  "sources": [
   {
    "id": "desco-n",
@@ -75,15 +64,13 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.6
+   "seconds": 4.1
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Read timed out. (read timeout=40)"
   },
   {
    "id": "dpdc-o",
@@ -96,34 +83,26 @@
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Read timed out. (read timeout=40)"
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 2,
-   "seconds": 25.4
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Read timed out. (read timeout=40)"
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 1,
-   "seconds": 8.7
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Read timed out. (read timeout=40)"
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.7
+   "ok": false,
+   "error": "503 Server Error: Backend fetch failed for url: https://wzpdcl.gov.bd/site/view/notices"
   }
  ]
 }
