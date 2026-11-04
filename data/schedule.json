@@ -1,8 +1,41 @@
 {
- "generated_at": "2026-11-04T21:02:47+06:00",
+ "generated_at": "2026-11-05T03:07:50+06:00",
  "timezone": "Asia/Dhaka",
- "slots": [],
- "notices": [],
+ "slots": [
+  {
+   "utility": "NESCO",
+   "area": "শান্তিবাগ, মটপুকুর এবং তৎসংলগ্ন এলাকাসমুহে পর্যায়ক্রমে বিদ্যুৎ সরবরাহ",
+   "date": "2026-11-05",
+   "start": "07:00",
+   "end": "13:00",
+   "ambiguous": false,
+   "source_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nesco/2026/10/7eb444f4-0268-4947-8203-76e43b48aef4.pdf",
+   "source_id": "nesco-n"
+  }
+ ],
+ "notices": [
+  {
+   "utility": "BPDB",
+   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
+   "url": "https://bpdb.gov.bd/site/view/notices",
+   "type": "page",
+   "slots": 0
+  },
+  {
+   "utility": "BPDB",
+   "title": "চাহিদা ও লোডশেডিং",
+   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
+   "type": "page",
+   "slots": 0
+  },
+  {
+   "utility": "NESCO",
+   "title": "লোড শেডিং শিডিউল",
+   "url": "https://nesco.gov.bd/site/view/notices",
+   "type": "page",
+   "slots": 1
+  }
+ ],
  "news": [
   {
    "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - SAMAKAL",
@@ -64,13 +97,15 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.1
+   "seconds": 3.4
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Read timed out. (read timeout=40)"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 4.3
   },
   {
    "id": "dpdc-o",
@@ -78,31 +113,39 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.2
+   "seconds": 1.4
   },
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Read timed out. (read timeout=40)"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 3.7
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Read timed out. (read timeout=40)"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 2,
+   "seconds": 29.2
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Read timed out. (read timeout=40)"
+   "ok": true,
+   "slots_found": 1,
+   "notices_found": 1,
+   "seconds": 12.6
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": false,
-   "error": "503 Server Error: Backend fetch failed for url: https://wzpdcl.gov.bd/site/view/notices"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 3.3
   }
  ]
 }
