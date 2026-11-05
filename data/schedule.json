@@ -1,19 +1,30 @@
 {
- "generated_at": "2026-11-05T14:52:20+06:00",
+ "generated_at": "2026-11-05T23:01:52+06:00",
  "timezone": "Asia/Dhaka",
- "slots": [
+ "slots": [],
+ "notices": [
+  {
+   "utility": "BPDB",
+   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
+   "url": "https://bpdb.gov.bd/site/view/notices",
+   "type": "page",
+   "slots": 0
+  },
+  {
+   "utility": "BPDB",
+   "title": "চাহিদা ও লোডশেডিং",
+   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
+   "type": "page",
+   "slots": 0
+  },
   {
    "utility": "NESCO",
-   "area": "শান্তিবাগ, মটপুকুর এবং তৎসংলগ্ন এলাকাসমুহে পর্যায়ক্রমে বিদ্যুৎ সরবরাহ",
-   "date": "2026-11-05",
-   "start": "07:00",
-   "end": "13:00",
-   "ambiguous": false,
-   "source_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nesco/2026/10/7eb444f4-0268-4947-8203-76e43b48aef4.pdf",
-   "source_id": "nesco-n"
+   "title": "লোড শেডিং শিডিউল",
+   "url": "https://nesco.gov.bd/site/view/notices",
+   "type": "page",
+   "slots": 0
   }
  ],
- "notices": [],
  "news": [
   {
    "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - SAMAKAL",
@@ -58,24 +69,24 @@
  ],
  "planned": [
   {
-   "title": "আজ সকাল থেকেই ৮ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
-   "url": "https://www.jugantor.com/national/1179475",
-   "published": "2026-11-05T00:52:00+00:00",
-   "date": "2026-11-05",
-   "start": "07:00",
-   "end": "13:00",
-   "ambiguous": false,
-   "places": "গাছের ডালপালা কর্তন ও জরুরি রক্ষণাবেক্ষণ কাজের কারণে বৃহস্পতিবার (৫ নভেম্বর) নাটোর, রাজশাহী ও ঢাকার বিভিন্ন এলাকায় টানা ৮ ঘণ্টা পর্যন্ত বিদ্যুৎ সরবরাহ বন্ধ থাকবে। বুধবার (৪ নভেম্বর) পৃথক বিজ্ঞপ্তিতে এ তথ্য জানিয়েছে সংশ্লিষ্ট বিদ্যুৎ বিতরণ সংস্থাগুলো।\n১১ কেভি লাইনের কাছাকাছি গাছের ডালপালা কাটার জন্য সকাল ৭টা থেকে দুপুর ১টা পর্যন্ত পর্যায়ক্রমে বিদ্যুৎ সরবরাহ বন্ধ থাকবে। তালাইমারী, নর্দান মোড়, দেবিশিংপাড়া, সাধুর মোড়, মোন্নাফের মোড়, সেরিকালচার, বড় বটতলা, বালিয়া পুকুর, ভদ্রা, উপরভদ্রা, শিরোইল, শান্তিবাগ ও মটপুকুরসহ আশপাশের এলাকায় এ কার্যক্রম চলবে।"
-  },
-  {
    "title": "যেসব এলাকায় আজ টানা ৮ ঘণ্টা বিদ্যুৎ থাকবে না",
    "url": "https://bn.mtnews24.com/Natore/581747/%E0%A6%AF%E0%A7%87%E0%A6%B8%E0%A6%AC-%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%9C-%E0%A6%9F%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A7%AE-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%BE",
-   "published": "2026-11-05T00:52:00+00:00",
+   "published": "2026-11-05T02:02:00+00:00",
    "date": "2026-11-05",
    "start": "07:00",
    "end": "13:00",
    "ambiguous": false,
    "places": "এমটিনিউজ ডেস্ক : গাছের ডালপালা কর্তন ও জরুরি রক্ষণাবেক্ষণ কাজের কারণে বৃহস্পতিবার (৫ নভেম্বর) নাটোর, রাজশাহী ও ঢাকার বিভিন্ন এলাকায় টানা ৮ ঘণ্টা পর্যন্ত বিদ্যুৎ সরবরাহ বন্ধ থাকবে। বুধবার (৪ নভেম্বর) পৃথক বিজ্ঞপ্তিতে এ তথ্য জানিয়েছে সংশ্লিষ্ট বিদ্যুৎ বিতরণ সংস্থাগুলো। নাটোর পল্লী বিদ্যুৎ সমিতি-২-এর বড়াইগ্রাম-১ (বনপাড়া) উপকেন্দ্রের ৩ নম্বর ফিডারে সকাল সাড়ে ৮টা থেকে বিকেল সাড়ে ৪টা পর্যন্ত বিদ্যুৎ থাকবে না। এ সময় ছাতিয়ানগাছা, গোধড়া, বেলগাছি ও চৌষুডাঙ্গা এলাকার গ্রামগুলোতে বিদ্যুৎ সরবরাহ বন্ধ থাকবে।\n১১ কেভি লাইনের কাছাকাছি গাছের ডালপালা কাটার জন্য সকাল ৭টা থেকে দুপুর ১টা পর্যন্ত পর্যায়ক্রমে বিদ্যুৎ সরবরাহ বন্ধ থাকবে। তালাইমারী, নর্দান মোড়, দেবিশিংপাড়া, সাধুর মোড়, মোন্নাফের মোড়, সেরিকালচার, বড় বটতলা, বালিয়া পুকুর, ভদ্রা, উপরভদ্রা, শিরোইল, শান্তিবাগ ও মটপুকুরসহ আশপাশের এলাকায় এ কার্যক্রম চলবে।"
+  },
+  {
+   "title": "আজ সকাল থেকেই ৮ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
+   "url": "https://www.jugantor.com/national/1179475",
+   "published": "2026-11-05T01:01:00+00:00",
+   "date": "2026-11-05",
+   "start": "07:00",
+   "end": "13:00",
+   "ambiguous": false,
+   "places": "গাছের ডালপালা কর্তন ও জরুরি রক্ষণাবেক্ষণ কাজের কারণে বৃহস্পতিবার (৫ নভেম্বর) নাটোর, রাজশাহী ও ঢাকার বিভিন্ন এলাকায় টানা ৮ ঘণ্টা পর্যন্ত বিদ্যুৎ সরবরাহ বন্ধ থাকবে। বুধবার (৪ নভেম্বর) পৃথক বিজ্ঞপ্তিতে এ তথ্য জানিয়েছে সংশ্লিষ্ট বিদ্যুৎ বিতরণ সংস্থাগুলো।\n১১ কেভি লাইনের কাছাকাছি গাছের ডালপালা কাটার জন্য সকাল ৭টা থেকে দুপুর ১টা পর্যন্ত পর্যায়ক্রমে বিদ্যুৎ সরবরাহ বন্ধ থাকবে। তালাইমারী, নর্দান মোড়, দেবিশিংপাড়া, সাধুর মোড়, মোন্নাফের মোড়, সেরিকালচার, বড় বটতলা, বালিয়া পুকুর, ভদ্রা, উপরভদ্রা, শিরোইল, শান্তিবাগ ও মটপুকুরসহ আশপাশের এলাকায় এ কার্যক্রম চলবে।"
   },
   {
    "title": "আজ দেশের যেসব এলাকায় ৮ ঘণ্টা বিদ্যুৎ থাকবে না",
@@ -112,14 +123,18 @@
   {
    "id": "desco-n",
    "utility": "DESCO",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='desco.gov.bd', port=443) at 0x75c326c9c440>, 'Co"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 3.8
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='dpdc.gov.bd', port=443) at 0x75c326c9ab70>, 'Conn"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 3.3
   },
   {
    "id": "dpdc-o",
@@ -132,26 +147,34 @@
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='reb.gov.bd', port=443) at 0x75c326c9ee10>, 'Co"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 3.6
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='bpdb.gov.bd', port=443) at 0x75c326c9c830>, '"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 2,
+   "seconds": 25.7
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='nesco.gov.bd', port=443) at 0x75c326c9fd70>,"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 1,
+   "seconds": 22.5
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='wzpdcl.gov.bd', port=443) at 0x75c326ca4770"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 4.0
   }
  ]
 }
