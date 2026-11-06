@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T09:07:34+06:00",
+ "generated_at": "2026-11-06T17:18:33+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
  "notices": [],
@@ -47,6 +47,16 @@
  ],
  "planned": [
   {
+   "title": "আজ ৬ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
+   "url": "https://www.protidinersangbad.com/national/594175",
+   "published": "2026-11-05T20:10:00+00:00",
+   "date": "2026-11-06",
+   "start": "06:00",
+   "end": "12:00",
+   "ambiguous": false,
+   "places": "বিদ্যুৎ লাইনের জরুরি রক্ষণাবেক্ষণ ও মেরামত কাজের জন্য শুক্রবার (৬ নভেম্বর) সকাল ৬টা থেকে দুপুর ১২টা পর্যন্ত সুনামগঞ্জে বিদ্যুৎ সরবরাহ বন্ধ থাকবে।\nসম্পাদক ও প্রকাশক : মো. সাইদুল ইসলাম, ফ্রক্স মিডিয়া লিমিটেডের পক্ষে প্রকাশক কর্তৃক ১৫৯/ ডি, তেজগাঁও শিল্প এলাকা, ঢাকা-১২০৮ থেকে প্রকাশিত ও মিডিয়া প্রিন্টার্স, ৪৪৬/এইচ, তেজগাঁও শিল্প এলাকা, ঢাকা-১২০৮, ঢাকা থেকে মুদ্রিত। ফোন : ০২৪১০৮২৬১৭-১৮, বিজ্ঞাপন : ০১৮৪৪-১৬৮৫৭৮, মফস্বল : ০১৬৭৮-৪৪০৬১১, ই-মেইল : [email protected]"
+  },
+  {
    "title": "শুক্রবার সুনামগঞ্জে ৬ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে",
    "url": "https://www.dhakapost.com/country/495761",
    "published": "2026-11-05T18:20:00+00:00",
@@ -62,13 +72,13 @@
    "id": "desco-n",
    "utility": "DESCO",
    "ok": false,
-   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='desco.gov.bd', port=443) at 0x7fdd16908890>, 'Co"
+   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='desco.gov.bd', port=443) at 0x7ccd93c186e0>, 'Co"
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
    "ok": false,
-   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='dpdc.gov.bd', port=443) at 0x7fdd16906f00>, 'Conn"
+   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='dpdc.gov.bd', port=443) at 0x7ccd93c16cf0>, 'Conn"
   },
   {
    "id": "dpdc-o",
@@ -76,31 +86,31 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.3
+   "seconds": 1.5
   },
   {
    "id": "breb-n",
    "utility": "BREB",
    "ok": false,
-   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='reb.gov.bd', port=443) at 0x7fdd1690b110>, 'Co"
+   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='reb.gov.bd', port=443) at 0x7ccd93c1ac60>, 'Co"
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
    "ok": false,
-   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='bpdb.gov.bd', port=443) at 0x7fdd16908cb0>, '"
+   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='bpdb.gov.bd', port=443) at 0x7ccd93c18ad0>, '"
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
    "ok": false,
-   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='nesco.gov.bd', port=443) at 0x7fdd1690bfe0>,"
+   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='nesco.gov.bd', port=443) at 0x7ccd93c1bd40>,"
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
    "ok": false,
-   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='wzpdcl.gov.bd', port=443) at 0x7fdd1690ca40"
+   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='wzpdcl.gov.bd', port=443) at 0x7ccd93c1c740"
   }
  ]
 }
