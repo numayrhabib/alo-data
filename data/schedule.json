@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T05:21:57+06:00",
+ "generated_at": "2026-11-07T08:59:55+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
  "notices": [
@@ -62,9 +62,9 @@
    "published": "Wed, 20 Jul 2022 07:00:00 GMT"
   },
   {
-   "title": "ঢাকায় কোথায় কখন লোডশেডিং - bdnews24.com",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vXzNsMlJQZHFHVFNTRkVhSngzc3ItMHMtc0ZaYlA5QkR6dmxKbHl5bkFtaVZXUHZiMG9TYkhyclNZeUw2RkJ5dnYzWVcydGxza1JmYTRIdllBdlFEZkJlSEduQVRlcVlzRHU5OA?oc=5",
-   "published": "Mon, 18 Jul 2022 07:00:00 GMT"
+   "title": "লোডশেডিং ঢাকায় ২-৩ ঘণ্টা, বাইরে আরো বেশি - Shomoyer Alo",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lRzBvMjJTVnhfRUxrbU1BamsxTkdEU2RySjZzdHZEZm5Td0ZlVzRpdzdJRXNxU1UyR1JQZldOUlBSVEU2QkZac2RfclBIMkNO?oc=5",
+   "published": "Fri, 05 Aug 2022 07:00:00 GMT"
   }
  ],
  "planned": [],
@@ -75,7 +75,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.9
+   "seconds": 4.1
   },
   {
    "id": "dpdc-n",
@@ -91,7 +91,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 5.9
+   "seconds": 1.4
   },
   {
    "id": "breb-n",
@@ -99,7 +99,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.6
+   "seconds": 3.9
   },
   {
    "id": "bpdb-n",
@@ -107,7 +107,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 21.9
+   "seconds": 28.6
   },
   {
    "id": "nesco-n",
@@ -115,7 +115,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 1,
-   "seconds": 18.0
+   "seconds": 30.1
   },
   {
    "id": "wzpdcl-n",
@@ -123,7 +123,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.4
+   "seconds": 3.8
   }
  ]
 }
