@@ -1,8 +1,30 @@
 {
- "generated_at": "2026-11-08T22:58:02+06:00",
+ "generated_at": "2026-11-09T02:56:09+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
- "notices": [],
+ "notices": [
+  {
+   "utility": "BPDB",
+   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
+   "url": "https://bpdb.gov.bd/site/view/notices",
+   "type": "page",
+   "slots": 0
+  },
+  {
+   "utility": "BPDB",
+   "title": "চাহিদা ও লোডশেডিং",
+   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
+   "type": "page",
+   "slots": 0
+  },
+  {
+   "utility": "NESCO",
+   "title": "লোড শেডিং শিডিউল",
+   "url": "https://nesco.gov.bd/site/view/notices",
+   "type": "page",
+   "slots": 0
+  }
+ ],
  "news": [
   {
    "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - SAMAKAL",
@@ -77,6 +99,16 @@
    "places": "এমটিনিউজ ডেস্ক : জরুরি রক্ষণাবেক্ষণ ও বিদ্যুৎ লাইনের আশপাশের গাছের ডালপালা ছাঁটাইয়ের কাজের জন্য সোমবার (৯ নভেম্বর) টানা ৯ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে রংপুর নগরীর বেশ কয়েকটি এলাকায়। রোববার (৮ নভেম্বর) নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসির (নেসকো) শাপলা চত্বর বিক্রয় ও বিতরণ বিভাগ-১-এর নির্বাহী প্রকৌশলীর দপ্তর থেকে প্রকাশিত এক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়। বিজ্ঞপ্তিতে বলা হয়, ১১ কেভি ফিডারের আওতাধীন ১১/০.৪ কেভি বিদ্যুৎ লাইনের আশপাশে থাকা গাছের শাখা-প্রশাখা ছাঁটাই এবং প্রয়োজনীয় রক্ষণাবেক্ষণ কার্যক্রম পরিচালনা করা হবে। এ কারণে সোমবার সকাল ৮টা থেকে বিকেল ৫টা পর্যন্ত নির্ধারিত এলাকাগুলোতে বিদ্যুৎ সরবরাহ বন্ধ থাকবে।\nনেসকোর নির্ধারিত সূচি অনুযায়ী, ১১ কেভি টাউন ফিডারের আওতাধীন সাবস্টেশন থেকে মাস্টারপাড়া, আদর্শপাড়া ঈদগাহ মাঠ, কামারপাড়া কুতুবিয়া মসজিদ, সেনপাড়া ট্রাফিক অফিস, গুপ্তপাড়া পূজামণ্ডপ, ঝন্টুর মোড়, ফায়ার সার্ভিস মোড়, শালবন ইন্দ্ররা মোড়, শিয়ালুর মোড় নার্সারি, শালবন হাজির খামার, জুট মিলের পূ"
   },
   {
+   "title": "সোমবার টানা ৯ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
+   "url": "https://www.ntvbd.com/bangladesh/news-1832549",
+   "published": "2026-11-07T23:30:00+00:00",
+   "date": "2026-11-09",
+   "start": "08:00",
+   "end": "17:00",
+   "ambiguous": false,
+   "places": "জরুরি রক্ষণাবেক্ষণ কাজের জন্য সোমবার (৯ নভেম্বর) টানা ৯ ঘণ্টা রংপুরের বেশকিছু এলাকায় বিদ্যুৎ থাকবে না। নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসির (নেসকো) শাপলা চত্বর বিক্রয় ও বিতরণ বিভাগ-১ এর নির্বাহী প্রকৌশলীর দপ্তর থেকে এক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়েছে।\nবিজ্ঞপ্তিতে বলা হয়, ১১ কেভি ফিডারগুলোর ১১/০.৪ কেভি লাইনের পার্শ্ববর্তী বৃক্ষের শাখা-প্রশাখা কর্তন ও রক্ষণাবেক্ষণ কাজ করার জন্য নেসকো রংপুরের বিক্রয় ও বিতরণ বিভাগ-১ দপ্তরের বেশকিছু এলাকায় নির্ধারিত সময়সূচি অনুযায়ী বিদ্যুৎ সরবরাহ বন্ধ থাকবে। এরমধ্যে সোমবার (৯ নভেম্বর) সকাল ৮টা থেকে বিকেল ৫টা পর্যন্ত ১১ কেভি টাউন ফিডারের আওতাধীন সাবস্টেশন থেকে মাস্টারপাড়া, আদর্শপাড়া ঈদগাহ মাঠ, কামারপাড়া কুতুবিয়া মসজিদ, সেনপাড়া ট্রাফিক অফিস, গুপ্তপাড়া পূজা মন্ডপ, ঝন্টুর মোড়, ফায়ার সার্ভিস মোড়, শালবন ইন্দ্ররা মোড়, শিয়ালুর মোড় নাসারী, শালবন হাজির খামার, জুট মিলের পূর্ব পর্যন্ত মুলাটোল থানা, গুপ্তপাড়া, লাইন্স স্কুল ও ফায়ার সার্ভিস মোড় এলাকায় বিদ্য"
+  },
+  {
    "title": "সোমবার যেসব এলাকায় বিদ্যুৎ থাকবে না টানা ৯ ঘণ্টা",
    "url": "https://rtvonline.com/country/414404",
    "published": "2026-11-07T19:03:00+00:00",
@@ -91,14 +123,18 @@
   {
    "id": "desco-n",
    "utility": "DESCO",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='desco.gov.bd', port=443) at 0x7a0afc514c80>, 'Co"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 4.2
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='dpdc.gov.bd', port=443) at 0x7a0afc7eb740>, 'Conn"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 4.1
   },
   {
    "id": "dpdc-o",
@@ -106,31 +142,39 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.1
+   "seconds": 1.2
   },
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='reb.gov.bd', port=443) at 0x7a0afc5173b0>, 'Co"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 3.4
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='bpdb.gov.bd', port=443) at 0x7a0afc517aa0>, '"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 2,
+   "seconds": 22.6
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='nesco.gov.bd', port=443) at 0x7a0afc518380>,"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 1,
+   "seconds": 16.6
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='wzpdcl.gov.bd', port=443) at 0x7a0afc518d10"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 3.9
   }
  ]
 }
