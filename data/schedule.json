@@ -1,14 +1,42 @@
 {
- "generated_at": "2026-11-10T22:02:51+06:00",
+ "generated_at": "2026-11-11T03:43:19+06:00",
  "timezone": "Asia/Dhaka",
- "slots": [],
- "notices": [],
- "news": [
+ "slots": [
   {
-   "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - SAMAKAL",
-   "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPejFSRWVVV0pheklVbENOUldYaVpIWWNRTTgyRjlyTlBZZkZTZW9DTllybWVVY0NVRDlQM2pRV251b1RxWDVjbzBILXJHdlJwT3M1MV92dTBJWEpBU1lUTEE0c0czN010YlhDZ3JNdHgyMmg3ZWpKZ1I1R1RiOVgwTEhFQ3BBY0NZbjZ1YnFwWEtHd2hZZTBaaUZaU2FSVEVQUGktUThoYUpNejFaYXRiMU5XdjViTzRxdTY5c3pmMm1La0JVT2hRd1NSZk5yYlFHbVQycEhFZ3FvZERfSzZIWE9hYVd2WmptV3piSTc3X0FaRFk0RzhNd0JJVUpsQXVVU19oMkhQbjFGNHVTOEtkRlJmU1FWZGg2QmtGUzJEVkUtSkl2QmRvT0d5V0t2ZkRQMDdKM3l0b1F5Q2Y4bHExTkMyUWxBTU5Qc3NWcnJKZXN3emVIcEswamxma2NIbUt3Ny1BTW5IQkRJRnZOSjhHUWpBNUZnX2YwMkpvUHRUY01uNThFRWJ1UU9mSkJkbm5OVU5xVnFkODA3SzBxeHA1eHJvbTBPNGktcElUa3dZY25PYW5OSE5QeElTMnp4VGdzdnlpalBlOWRkaXJJSkhySjVjWHdOOUViUHFfZlpuZw?oc=5",
-   "published": "Sun, 23 Aug 2026 07:00:00 GMT"
+   "utility": "NESCO",
+   "area": "এলাকাসমূহে এবং 11 কেভি ভূগরোইল ফিডারের",
+   "date": "2026-11-11",
+   "start": "07:30",
+   "end": "11:00",
+   "ambiguous": false,
+   "source_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nesco/2026/10/350c5170-ba0d-4b29-8f44-7da114af0fa9.pdf",
+   "source_id": "nesco-n"
+  }
+ ],
+ "notices": [
+  {
+   "utility": "BPDB",
+   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
+   "url": "https://bpdb.gov.bd/site/view/notices",
+   "type": "page",
+   "slots": 0
   },
+  {
+   "utility": "BPDB",
+   "title": "চাহিদা ও লোডশেডিং",
+   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
+   "type": "page",
+   "slots": 0
+  },
+  {
+   "utility": "NESCO",
+   "title": "লোড শেডিং শিডিউল",
+   "url": "https://nesco.gov.bd/site/view/notices",
+   "type": "page",
+   "slots": 1
+  }
+ ],
+ "news": [
   {
    "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - Dainik Shiksha",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHFhaHVfdkxPU083NDUxN081V1pFLS00VlBiZ3ltM2FuSnhxU1hfRXIxNG9NWHJWeHJ2Tm1FdV8wNmNlRmNYOHZFR2lqTnJDQVhzX3BaWUJESUk1UHp0a1RhRHR0SDRfOXVPRmJ6Z2VpbWpwVmExclJUVy1PcG5md3VXdE16NnVCRHM3Q202Rlhydw?oc=5",
@@ -35,6 +63,11 @@
    "published": "Sun, 30 Aug 2026 07:00:00 GMT"
   },
   {
+   "title": "প্রতিদিন পাঁচ ঘণ্টা করে লোডশেডিং থাকবে বুয়েটে - The Daily Ittefaq",
+   "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxQVWtzdzJieFc0c0RoRkpiVjNod1h6RDBMV0VsYnEyWmN3SHozU0ZmRkZsZ1BpaThGaTFpeWFGOG5tM2NyeXc0aG5yZGQzTzUwYzBVM2tUYjVad0k4alFMM21JcXlXZmNUdzRfNHJUWWRRZGdwZEYzNHRhblBfRmFRVXpHaDM2eHphVEE3WGNKNmFLajFyTzFyX01IaERXYUxyVmJLa3lOT2dJZWRlQ0ZFRklzdWJQMnQ1OGJlTnMzcDNab0RMVkx4amRHQVI2YzA5bXN0TmF0cXNYZGp3WXg4V0FudFJ1SGFtc21nejM4N1NqTXROZU5MeDJwNGctQ3JfSDgzWGFWaXpaZVF1dE80aVFLaWRpb3dKSUxfWnV0MF9PaE9xUFNJSkttZDVpejNEem14NHRsV0p1R3pzdWZ0QVZKNV9VZU0xVHMwRUxVTm9PWWk1dm9VMEZJazlDUjVCWmY0OG5KTnpnbHMtMmt4eGh6ZUpfOGdKNXJTNjVjME0tTG9vMlMxTWJjUHZRTHFOUkpZaG5tYVNGS0NESElIZk5EaEcxLTVHcGtxV3lGbGJfU0prR2hoT01neC1KVjJHa2RlbmNaOHJxVVo2TXZNdkR5cWdjWnJyVDNYTVFIa29yMFlTRjNKSC1LZjZtTHVxSkxsS2tjaHd2eVh3cWwwNW5Za2R2eTVPSTIwdGFfYV9Na1NmSGM2Zjd6QThmUGJ6Z3plYXJn0gGrBEFVX3lxTFB5VW9IMGk2MjdSdmtRQ2FpaTMyYi1kc29tMGY3R1J2cllrbzl4VnIycTZseFNYNlk1OHdjeU84V29HcjhqSWlQamQwa18xV2VzVFpXZDZiSkNWS1lYd1JuM09kdmxWNzJiblpjNk5FMEpRZEN0RzBLeFdDZUJtV0Jlc1dxVFMybW4wck9qZnZUMGJxQTQ3LTAwMFRPRi1Cc3pPYWhFWkxycXR6QjJyQkV4Ykw2ejBNUlhYS2hub1hQUWl4TXlwSm9PYTZ3Zkdic3pXckhYQjVxd1JmeE5lUWt0N0Q4bk5Od2t3Um11dEcxTFlUa0Z6VXljZk9Nc3hyQTJSV3pWSHYwTGhBenFURl9XMnVyOHhtN080NjdrLVJwdzNudmpvSmFEMnRkblZKNjBWTXVqYmxSQVpLdkhyV1kySGJiSjFBZ3hheUlaU0RXUERFbUQ4WUJZTk9lME5BZlBLeUw0VUpOazFkU0F4RHRKNmw0QUgzendRMUZFTzRfSUdhV0Nwalc5QS0zWVdZcENrVWdyVktnTkdUQmFMaDFNWjZSTmhxSkpXbERPVUFyWnRzS3dSaDc3WHI4bjNVOTZ3eXZKYWdQZllpWXRLdjU1RGk2VmlmdHIwMVBMNUdOR2dWWkR6UGJkS29ZMW9VVEJ5SUg5MWIxUHNaVHhveTlMamlNYk1iTTJ5ODRZSmQzNGltaHhlTFFGcnBpcG8xY2JjT2VtOUR4Q2ZHRQ?oc=5",
+   "published": "Mon, 24 Aug 2026 07:00:00 GMT"
+  },
+  {
    "title": "প্রথম দিনেই রুটিন ভেঙে লোডশেডিং - প্রথম আলো",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zNElMcUVkZ2JZQnM4Nkp1VGpMUTc0YWlPR0Q5RWtna2xjeWlEdU5WaVphWTFEeGNjSVNFU3BuSm5wSDVINkJxTktsbExVOGVRcjJ0dlk0XzRRVUlj0gFqQVVfeXFMTlhwVE94UXkxZG1CbnB5blBaQUFPbDlvRlRjNTZGWnJsZXV3alhVSG5pVHJIYWloczU3NFYtcVZ5bTZZdU9IQ3ZaU1lnQkhGYUR2cXg3MmJWTHJuRVZwbENXM3RnZE41ZU00dw?oc=5",
    "published": "Wed, 20 Jul 2022 07:00:00 GMT"
@@ -47,58 +80,62 @@
  ],
  "planned": [
   {
-   "title": "আজ ৯ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
-   "url": "https://zoombangla.com/%E0%A6%86%E0%A6%9C-%E0%A7%AF-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%A8/",
-   "published": "2026-11-10T00:18:00+00:00",
-   "date": "2026-11-10",
+   "title": "বুধবার দীর্ঘসময় বিদ্যুৎ থাকবে না যেসব এলাকায়",
+   "url": "https://www.jugantor.com/national/1182314",
+   "published": "2026-11-10T13:43:00+00:00",
+   "date": "2026-11-11",
    "start": "08:00",
    "end": "17:00",
    "ambiguous": false,
-   "places": "জরুরি রক্ষণাবেক্ষণ কাজের জন্য আগামীকাল মঙ্গলবার (১০ নভেম্বর) টানা ৯ ঘণ্টা ও ৬ ঘণ্টা রংপুর ও বগুড়ার বেশকিছু এলাকায় বিদ্যুৎ থাকবে না। নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসির (নেসকো) শাপলা চত্বর বিক্রয় ও বিতরণ বিভাগ-১ এর নির্বাহী প্রকৌশলীর দপ্তর থেকে এক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়েছে।\nনেসকোর অপর এক বিজ্ঞপ্তিতে বলা হয়, বগুড়া দপ্তরের গ্রাহকদের জানানো যাচ্ছে যে, গাছের শাখা-প্রশাখা কর্তনের জন্য আগামীকাল মঙ্গলবার সকাল ৮টা থেকে দুপুর ২টা পর্যন্ত ১১ কেভি ফিডারের আওতাধীন চকফরিদ, জবানী স্কুল রোড, এতিমখানা রোড, ইয়াছিননগর, ব্যাংকপাড়া, এ্যাসেনসিয়াল ড্রাগস, ঠনঠনিয়া হিন্দুপাড়া, বটতলা, ঠনঠনিয়া প্রথম লেন, রিয়াজকাজী লেন, গোহাইল রোড, আবহাওয়া অফিস, সেউজগাড়ী পানির ট্যাংকি রোডসহ তৎসংলগ্ন এলাকা সমূহে বিদ্যুৎ সরবরাহ সাময়িকভাবে বন্ধ থাকবে।"
+   "places": "জরুরি রক্ষণাবেক্ষণ ও বিদ্যুৎ লাইনের পাশে থাকা গাছের ডালপালা কাটার কাজের জন্য বুধবার (১১ নভেম্বর) দেশের কয়েকটি এলাকায় নির্দিষ্ট সময় বিদ্যুৎ সরবরাহ বন্ধ থাকবে। এর মধ্যে রংপুরের কিছু এলাকায় টানা ৯ ঘণ্টা বিদ্যুৎ থাকবে না। এ ছাড়া রাজশাহীর কয়েকটি এলাকায়ও কয়েক ঘণ্টার জন্য বিদ্যুৎ সরবরাহ বন্ধ রাখার ঘোষণা দিয়েছে নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসি (নেসকো)।\nনেসকোর রংপুরের শাপলা চত্বর বিক্রয় ও বিতরণ বিভাগ-১-এর বিজ্ঞপ্তি অনুযায়ী, ১১ কেভি টাউন ফিডারের আওতাধীন এলাকায় বুধবার সকাল ৮টা থেকে বিকেল ৫টা পর্যন্ত বিদ্যুৎ সরবরাহ বন্ধ থাকবে। এ সময় বালাপাড়া কবরস্থান, বন বিভাগ মোড়, বিএনসিসি মোড়, দর্শনা, সূত্রপুর, বালাপাড়া বাবুখা রোড, বিনোদপুর, শিশু পরিবার, আর কে রোড, টার্মিনাল এলাকায় বিদ্যুৎ সরবরাহ বন্ধ থাকবে।"
   },
   {
-   "title": "আজ টানা ৯ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
-   "url": "https://www.ntvbd.com/bangladesh/news-1833821",
-   "published": "2026-11-09T18:00:00+00:00",
-   "date": "2026-11-10",
+   "title": "কাল সকাল থেকে ৯ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
+   "url": "https://www.ntvbd.com/bangladesh/news-1834177",
+   "published": "2026-11-10T03:40:00+00:00",
+   "date": "2026-11-11",
    "start": "08:00",
    "end": "17:00",
    "ambiguous": false,
-   "places": "জরুরি রক্ষণাবেক্ষণ কাজের জন্য আজ মঙ্গলবার (১০ নভেম্বর) টানা ৯ ঘণ্টা ও ৬ ঘণ্টা রংপুর ও বগুড়ার বেশকিছু এলাকায় বিদ্যুৎ থাকবে না। নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসির (নেসকো) শাপলা চত্বর বিক্রয় ও বিতরণ বিভাগ-১ এর নির্বাহী প্রকৌশলীর দপ্তর থেকে এক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়েছে।\nনেসকোর অপর এক বিজ্ঞপ্তিতে বলা হয়, বগুড়া দপ্তরের গ্রাহকদের জানানো যাচ্ছে যে, গাছের শাখা-প্রশাখা কর্তনের জন্য আজ মঙ্গলবার সকাল ৮টা থেকে দুপুর ২টা পর্যন্ত ১১ কেভি ফিডারের আওতাধীন চকফরিদ, জবানী স্কুল রোড, এতিমখানা রোড, ইয়াছিননগর, ব্যাংকপাড়া, এ্যাসেনসিয়াল ড্রাগস, ঠনঠনিয়া হিন্দুপাড়া, বটতলা, ঠনঠনিয়া প্রথম লেন, রিয়াজকাজী লেন, গোহাইল রোড, আবহাওয়া অফিস, সেউজগাড়ী পানির ট্যাংকি রোডসহ তৎসংলগ্ন এলাকা সমূহে বিদ্যুৎ সরবরাহ সাময়িকভাবে বন্ধ থাকবে।"
-  },
-  {
-   "title": "যেসব এলাকায় ৯ ঘণ্টা বিদ্যুৎ থাকবে না মঙ্গলবার",
-   "url": "https://www.arthosuchak.com/archives/981438/%e0%a6%af%e0%a7%87%e0%a6%b8%e0%a6%ac-%e0%a6%8f%e0%a6%b2%e0%a6%be%e0%a6%95%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a7%af-%e0%a6%98%e0%a6%a3%e0%a7%8d%e0%a6%9f%e0%a6%be-%e0%a6%ac%e0%a6%bf%e0%a6%a6%e0%a7%8d-2/",
-   "published": "2026-11-09T06:42:00+00:00",
-   "date": "2026-11-10",
-   "start": "08:00",
-   "end": "17:00",
-   "ambiguous": false,
-   "places": "জরুরি রক্ষণাবেক্ষণ কাজের জন্য মঙ্গলবার (১০ নভেম্বর) টানা ৯ ঘণ্টা ও ৬ ঘণ্টা রংপুর ও বগুড়ার বেশকিছু এলাকায় বিদ্যুৎ থাকবে না। নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসির (নেসকো) শাপলা চত্বর বিক্রয় ও বিতরণ বিভাগ-১ এর নির্বাহী প্রকৌশলীর দপ্তর থেকে এক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়েছে।\nনেসকোর অপর এক বিজ্ঞপ্তিতে বলা হয়, বগুড়া দপ্তরের গ্রাহকদের জানানো যাচ্ছে যে, গাছের শাখা-প্রশাখা কর্তনের জন্য আগামীকাল মঙ্গলবার সকাল ৮টা থেকে দুপুর ২টা পর্যন্ত ১১ কেভি ফিডারের আওতাধীন চকফরিদ, জবানী স্কুল রোড, এতিমখানা রোড, ইয়াছিননগর, ব্যাংকপাড়া, এ্যাসেনসিয়াল ড্রাগস, ঠনঠনিয়া হিন্দুপাড়া, বটতলা, ঠনঠনিয়া প্রথম লেন, রিয়াজকাজী লেন, গোহাইল রোড, আবহাওয়া অফিস, সেউজগাড়ী পানির ট্যাংকি রোডসহ তৎসংলগ্ন এলাকা সমূহে বিদ্যুৎ সরবরাহ সাময়িকভাবে বন্ধ থাকবে। তবে নির্ধারিত সময়ের আগে কাজ শেষ হয়ে গেলে তাৎক্ষণিকভাবে বিদ্যুৎ সরবরাহ সচল করা হবে বলে বিজ্ঞপ্তিতে জানানো হয়েছে।"
+   "places": "জরুরি রক্ষণাবেক্ষণ কাজের জন্য বুধবার (১১ নভেম্বর) টানা ৯ ঘণ্টা ও ৪ ঘণ্টা রংপুর ও রাজশাহীর বেশকিছু এলাকায় বিদ্যুৎ থাকবে না। নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসির (নেসকো) শাপলা চত্বর বিক্রয় ও বিতরণ বিভাগ-১ এর নির্বাহী প্রকৌশলীর দপ্তর থেকে এক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়েছে।\nবিজ্ঞপ্তিতে বলা হয়, ১১ কেভি ফিডারগুলোর ১১/০.৪ কেভি লাইনের পার্শ্ববর্তী বৃক্ষের শাখা-প্রশাখা কর্তন ও রক্ষণাবেক্ষণ কাজ করার জন্য নেসকো রংপুরের বিক্রয় ও বিতরণ বিভাগ-১ দপ্তরের বেশকিছু এলাকায় নির্ধারিত সময়সূচি অনুযায়ী বিদ্যুৎ সরবরাহ বন্ধ থাকবে। এরমধ্যে বুধবার (১১ নভেম্বর) সকাল ৮টা থেকে বিকেল ৫টা পর্যন্ত ১১ কেভি টাউন ফিডারের আওতাধীন বালাপাড়া কবর স্থান, বন বিভাগ মোড়, বি এন সি সি মোড়, দর্শনা, সূত্রপুর, বালাপাড়া বাবুখা রোড, বিনোদপুর, শিশু পরিবার, আর কে রোড, টার্মিনাল এলাকায় বিদ্যুৎ থাকবে না।"
   },
   {
    "title": "আজ যেসব এলাকায় ৯ ঘণ্টা বিদ্যুৎ থাকবে না",
    "url": "https://www.gramerkagoj.com/country-news/317180",
    "published": "2026-11-08T03:41:00+00:00",
-   "date": "2026-11-10",
+   "date": "2026-11-11",
    "start": "08:00",
    "end": "17:00",
    "ambiguous": false,
    "places": "সম্পাদক ও প্রকাশক : মবিনুল ইসলাম মবিন | যুগ্ম সম্পাদক : আঞ্জুমানারা খাতুন\nরংপুরের যেসব এলাকায় বিদ্যুৎ থাকবে না নেসকোর বিজ্ঞপ্তি অনুযায়ী, সকাল ৮টা থেকে বিকেল ৫টা পর্যন্ত ১১ কেভি টাউন ফিডারের আওতাধীন সাবস্টেশন থেকে মাস্টারপাড়া, আদর্শপাড়া ঈদগাহ মাঠ, কামারপাড়া কুতুবিয়া মসজিদ, সেনপাড়া ট্রাফিক অফিস, গুপ্তপাড়া পূজামণ্ডপ, ঝন্টুর মোড়, ফায়ার সার্ভিস মোড়, শালবন ইন্দ্ররা মোড়, শিয়ালুর মোড় নার্সারি, শালবন হাজির খামার, জুট মিলের পূর্ব পর্যন্ত মুলাটোল থানা, গুপ্তপাড়া, লাইন্স স্কুল ও ফায়ার সার্ভিস মোড় এলাকায় বিদ্যুৎ সরবরাহ বন্ধ থাকবে। এ ছাড়া একই সময়ে ১১ কেভি জুম্মাপাড়া ফিডারের আওতাধীন জাহাজ কোম্পানি, জি এল রায় রোড, ফায়ার সার্ভিস, ইন্দ্ররা মোড়, পুলিশ ফাঁড়ি, পায়রা চত্বর, আজিজ সুপার মার্কেট, জুম্মাপাড়া, পলিটেকনিক গেট, সদর মসজিদ, পাকার মাথা, কুকরুল ঈদগাহ মাঠ এবং জুম্মাপাড়া আইসক্রিম ফ্যাক্টারিসংলগ্ন এলাকায়ও বিদ্যুৎ সরবরাহ বন্ধ থাকবে।\r"
+  },
+  {
+   "title": "বুধবার টানা ৮ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
+   "url": "https://www.jugantor.com/country-news/1182247",
+   "published": "2026-11-10T08:57:00+00:00",
+   "date": "2026-11-11",
+   "start": "09:00",
+   "end": "17:00",
+   "ambiguous": false,
+   "places": "বিদ্যুৎ বিতরণ লাইন ও ট্রান্সফরমারের জরুরি মেরামত, সংরক্ষণ এবং উন্নয়ন প্রকল্পের কাজের জন্য বুধবার (১১ নভেম্বর) টানা ৮ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে সিলেটের বিভিন্ন এলাকায়।\nবিজ্ঞপ্তিতে জানানো হয় যে, জরুরি সংস্কার কাজের সুবিধার্থে বুধবার সকাল ৯টা থেকে বিকাল ৫টা পর্যন্ত ১১ কেভি লালাবাজার ফিডারের আওতাধীন নিজগাঁও, ছমিপুর, বকুলপুর, বেতসান্দি, মুন্সিরগাঁও, মনোকূপা, ছনখাড়ীগাঁও, আলমনগর, হায়াতেরগাঁও, পিঠাকরা, পালগাঁও, শেখেরগাঁও, বনগাঁও, সালামপুরসহ সংশ্লিষ্ট সব এলাকায় বিদ্যুৎ সরবরাহ পুরোপুরি বন্ধ রাখা হবে। যেকোনো ধরনের দুর্ঘটনা এড়াতে এবং জননিরাপত্তার স্বার্থে বিদ্যুৎ বন্ধ থাকার সময়কালে লাইনকে সর্বাবস্থায় সচল বলে গণ্য করার জন্য সর্বসাধারণের প্রতি অনুরোধ জানানো হয়েছে।"
   }
  ],
  "sources": [
   {
    "id": "desco-n",
    "utility": "DESCO",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='desco.gov.bd', port=443) at 0x75d47eb10830>, 'Co"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 4.7
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='dpdc.gov.bd', port=443) at 0x75d47eb0eff0>, 'Conn"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 4.2
   },
   {
    "id": "dpdc-o",
@@ -111,26 +148,34 @@
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='reb.gov.bd', port=443) at 0x75d47eb13170>, 'Co"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 4.0
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='bpdb.gov.bd', port=443) at 0x75d47eb10c50>, '"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 2,
+   "seconds": 29.0
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='nesco.gov.bd', port=443) at 0x75d47eb13f80>,"
+   "ok": true,
+   "slots_found": 1,
+   "notices_found": 1,
+   "seconds": 25.0
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='wzpdcl.gov.bd', port=443) at 0x75d47eb14a70"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 3.7
   }
  ]
 }
