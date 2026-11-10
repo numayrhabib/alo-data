@@ -1,30 +1,8 @@
 {
- "generated_at": "2026-11-10T13:57:33+06:00",
+ "generated_at": "2026-11-10T22:02:51+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
- "notices": [
-  {
-   "utility": "BPDB",
-   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
-   "url": "https://bpdb.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "BPDB",
-   "title": "চাহিদা ও লোডশেডিং",
-   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "NESCO",
-   "title": "লোড শেডিং শিডিউল",
-   "url": "https://nesco.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 0
-  }
- ],
+ "notices": [],
  "news": [
   {
    "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - SAMAKAL",
@@ -71,12 +49,22 @@
   {
    "title": "আজ ৯ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
    "url": "https://zoombangla.com/%E0%A6%86%E0%A6%9C-%E0%A7%AF-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%A8/",
-   "published": "2026-11-09T10:19:00+00:00",
+   "published": "2026-11-10T00:18:00+00:00",
    "date": "2026-11-10",
    "start": "08:00",
    "end": "17:00",
    "ambiguous": false,
    "places": "জরুরি রক্ষণাবেক্ষণ কাজের জন্য আগামীকাল মঙ্গলবার (১০ নভেম্বর) টানা ৯ ঘণ্টা ও ৬ ঘণ্টা রংপুর ও বগুড়ার বেশকিছু এলাকায় বিদ্যুৎ থাকবে না। নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসির (নেসকো) শাপলা চত্বর বিক্রয় ও বিতরণ বিভাগ-১ এর নির্বাহী প্রকৌশলীর দপ্তর থেকে এক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়েছে।\nনেসকোর অপর এক বিজ্ঞপ্তিতে বলা হয়, বগুড়া দপ্তরের গ্রাহকদের জানানো যাচ্ছে যে, গাছের শাখা-প্রশাখা কর্তনের জন্য আগামীকাল মঙ্গলবার সকাল ৮টা থেকে দুপুর ২টা পর্যন্ত ১১ কেভি ফিডারের আওতাধীন চকফরিদ, জবানী স্কুল রোড, এতিমখানা রোড, ইয়াছিননগর, ব্যাংকপাড়া, এ্যাসেনসিয়াল ড্রাগস, ঠনঠনিয়া হিন্দুপাড়া, বটতলা, ঠনঠনিয়া প্রথম লেন, রিয়াজকাজী লেন, গোহাইল রোড, আবহাওয়া অফিস, সেউজগাড়ী পানির ট্যাংকি রোডসহ তৎসংলগ্ন এলাকা সমূহে বিদ্যুৎ সরবরাহ সাময়িকভাবে বন্ধ থাকবে।"
+  },
+  {
+   "title": "আজ টানা ৯ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
+   "url": "https://www.ntvbd.com/bangladesh/news-1833821",
+   "published": "2026-11-09T18:00:00+00:00",
+   "date": "2026-11-10",
+   "start": "08:00",
+   "end": "17:00",
+   "ambiguous": false,
+   "places": "জরুরি রক্ষণাবেক্ষণ কাজের জন্য আজ মঙ্গলবার (১০ নভেম্বর) টানা ৯ ঘণ্টা ও ৬ ঘণ্টা রংপুর ও বগুড়ার বেশকিছু এলাকায় বিদ্যুৎ থাকবে না। নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসির (নেসকো) শাপলা চত্বর বিক্রয় ও বিতরণ বিভাগ-১ এর নির্বাহী প্রকৌশলীর দপ্তর থেকে এক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়েছে।\nনেসকোর অপর এক বিজ্ঞপ্তিতে বলা হয়, বগুড়া দপ্তরের গ্রাহকদের জানানো যাচ্ছে যে, গাছের শাখা-প্রশাখা কর্তনের জন্য আজ মঙ্গলবার সকাল ৮টা থেকে দুপুর ২টা পর্যন্ত ১১ কেভি ফিডারের আওতাধীন চকফরিদ, জবানী স্কুল রোড, এতিমখানা রোড, ইয়াছিননগর, ব্যাংকপাড়া, এ্যাসেনসিয়াল ড্রাগস, ঠনঠনিয়া হিন্দুপাড়া, বটতলা, ঠনঠনিয়া প্রথম লেন, রিয়াজকাজী লেন, গোহাইল রোড, আবহাওয়া অফিস, সেউজগাড়ী পানির ট্যাংকি রোডসহ তৎসংলগ্ন এলাকা সমূহে বিদ্যুৎ সরবরাহ সাময়িকভাবে বন্ধ থাকবে।"
   },
   {
    "title": "যেসব এলাকায় ৯ ঘণ্টা বিদ্যুৎ থাকবে না মঙ্গলবার",
@@ -103,18 +91,14 @@
   {
    "id": "desco-n",
    "utility": "DESCO",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 4.2
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='desco.gov.bd', port=443) at 0x75d47eb10830>, 'Co"
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 5.4
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='dpdc.gov.bd', port=443) at 0x75d47eb0eff0>, 'Conn"
   },
   {
    "id": "dpdc-o",
@@ -122,39 +106,31 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.2
+   "seconds": 1.3
   },
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='reb.gov.bd', port=443) at 0x75d47eb13170>, 'Co"
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 2,
-   "seconds": 30.4
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='bpdb.gov.bd', port=443) at 0x75d47eb10c50>, '"
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 1,
-   "seconds": 22.6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='nesco.gov.bd', port=443) at 0x75d47eb13f80>,"
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 9.2
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='wzpdcl.gov.bd', port=443) at 0x75d47eb14a70"
   }
  ]
 }
