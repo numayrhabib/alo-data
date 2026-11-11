@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T07:38:56+06:00",
+ "generated_at": "2026-11-11T14:44:51+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [
   {
@@ -13,29 +13,7 @@
    "source_id": "nesco-n"
   }
  ],
- "notices": [
-  {
-   "utility": "BPDB",
-   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
-   "url": "https://bpdb.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "BPDB",
-   "title": "চাহিদা ও লোডশেডিং",
-   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "NESCO",
-   "title": "লোড শেডিং শিডিউল",
-   "url": "https://nesco.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 1
-  }
- ],
+ "notices": [],
  "news": [
   {
    "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - Dainik Shiksha",
@@ -82,12 +60,22 @@
   {
    "title": "বুধবার দীর্ঘসময় বিদ্যুৎ থাকবে না যেসব এলাকায়",
    "url": "https://www.jugantor.com/national/1182314",
-   "published": "2026-11-10T17:38:00+00:00",
+   "published": "2026-11-10T18:46:00+00:00",
    "date": "2026-11-11",
    "start": "08:00",
    "end": "17:00",
    "ambiguous": false,
    "places": "জরুরি রক্ষণাবেক্ষণ ও বিদ্যুৎ লাইনের পাশে থাকা গাছের ডালপালা কাটার কাজের জন্য বুধবার (১১ নভেম্বর) দেশের কয়েকটি এলাকায় নির্দিষ্ট সময় বিদ্যুৎ সরবরাহ বন্ধ থাকবে। এর মধ্যে রংপুরের কিছু এলাকায় টানা ৯ ঘণ্টা বিদ্যুৎ থাকবে না। এ ছাড়া রাজশাহীর কয়েকটি এলাকায়ও কয়েক ঘণ্টার জন্য বিদ্যুৎ সরবরাহ বন্ধ রাখার ঘোষণা দিয়েছে নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসি (নেসকো)।\nনেসকোর রংপুরের শাপলা চত্বর বিক্রয় ও বিতরণ বিভাগ-১-এর বিজ্ঞপ্তি অনুযায়ী, ১১ কেভি টাউন ফিডারের আওতাধীন এলাকায় বুধবার সকাল ৮টা থেকে বিকেল ৫টা পর্যন্ত বিদ্যুৎ সরবরাহ বন্ধ থাকবে। এ সময় বালাপাড়া কবরস্থান, বন বিভাগ মোড়, বিএনসিসি মোড়, দর্শনা, সূত্রপুর, বালাপাড়া বাবুখা রোড, বিনোদপুর, শিশু পরিবার, আর কে রোড, টার্মিনাল এলাকায় বিদ্যুৎ সরবরাহ বন্ধ থাকবে।"
+  },
+  {
+   "title": "যেসব এলাকায় আজ টানা ৯ ঘণ্টা বিদ্যুৎ থাকবে না",
+   "url": "https://www.bd-journal.com/bangladesh/315493/যেসব-এলাকায়-আজ-টানা-৯-ঘণ্টা-বিদ্যুৎ-থাকবে-না",
+   "published": "2026-11-10T17:52:00+00:00",
+   "date": "2026-11-11",
+   "start": "08:00",
+   "end": "17:00",
+   "ambiguous": false,
+   "places": "সম্পাদক : শাহজাহান সরদার প্রকাশক : আনোয়ার হোসেন খান\nনেসকোর রংপুরের শাপলা চত্বর বিক্রয় ও বিতরণ বিভাগ-১-এর বিজ্ঞপ্তি অনুযায়ী, ১১ কেভি টাউন ফিডারের আওতাধীন এলাকায় সকাল ৮টা থেকে বিকেল ৫টা পর্যন্ত বিদ্যুৎ থাকবে না। এই এলাকাগুলোর মধ্যে রয়েছে, বালাপাড়া কবরস্থান, বন বিভাগ মোড়, বিএনসিসি মোড়, দর্শনা, সূত্রপুর, বালাপাড়া বাবুখা রোড, বিনোদপুর, শিশু পরিবার, আর কে রোড এবং টার্মিনাল এলাকা। মূলত ১১/০.৪ কেভি লাইনের পাশে থাকা গাছের শাখা-প্রশাখা কর্তন ও প্রয়োজনীয় রক্ষণাবেক্ষণের জন্যই দীর্ঘ এই সময় বিদ্যুৎ বন্ধ রাখা হচ্ছে।"
   },
   {
    "title": "কাল সকাল থেকে ৯ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
@@ -124,18 +112,14 @@
   {
    "id": "desco-n",
    "utility": "DESCO",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 5.6
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='desco.gov.bd', port=443) at 0x77aae8b10920>, 'Co"
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 4.1
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='dpdc.gov.bd', port=443) at 0x77aae8b0ed80>, 'Conn"
   },
   {
    "id": "dpdc-o",
@@ -143,39 +127,31 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.6
+   "seconds": 1.3
   },
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.4
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='reb.gov.bd', port=443) at 0x77aae8b12f30>, 'Co"
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 2,
-   "seconds": 29.0
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='bpdb.gov.bd', port=443) at 0x77aae8b13830>, '"
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
-   "ok": true,
-   "slots_found": 1,
-   "notices_found": 1,
-   "seconds": 25.0
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='nesco.gov.bd', port=443) at 0x77aae8b14110>,"
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 4.1
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='wzpdcl.gov.bd', port=443) at 0x77aae8b14aa0"
   }
  ]
 }
