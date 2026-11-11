@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T03:43:19+06:00",
+ "generated_at": "2026-11-11T07:38:56+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [
   {
@@ -82,7 +82,7 @@
   {
    "title": "বুধবার দীর্ঘসময় বিদ্যুৎ থাকবে না যেসব এলাকায়",
    "url": "https://www.jugantor.com/national/1182314",
-   "published": "2026-11-10T13:43:00+00:00",
+   "published": "2026-11-10T17:38:00+00:00",
    "date": "2026-11-11",
    "start": "08:00",
    "end": "17:00",
@@ -127,7 +127,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.7
+   "seconds": 5.6
   },
   {
    "id": "dpdc-n",
@@ -135,7 +135,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.2
+   "seconds": 4.1
   },
   {
    "id": "dpdc-o",
@@ -143,7 +143,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.3
+   "seconds": 1.6
   },
   {
    "id": "breb-n",
@@ -151,7 +151,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.0
+   "seconds": 3.4
   },
   {
    "id": "bpdb-n",
@@ -175,7 +175,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.7
+   "seconds": 4.1
   }
  ]
 }
