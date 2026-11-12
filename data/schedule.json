@@ -1,31 +1,14 @@
 {
- "generated_at": "2026-11-12T05:15:46+06:00",
+ "generated_at": "2026-11-12T10:01:28+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
- "notices": [
-  {
-   "utility": "BPDB",
-   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
-   "url": "https://bpdb.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "BPDB",
-   "title": "চাহিদা ও লোডশেডিং",
-   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
-   "type": "page",
-   "slots": 0
-  },
-  {
-   "utility": "NESCO",
-   "title": "লোড শেডিং শিডিউল",
-   "url": "https://nesco.gov.bd/site/view/notices",
-   "type": "page",
-   "slots": 0
-  }
- ],
+ "notices": [],
  "news": [
+  {
+   "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - SAMAKAL",
+   "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxOR3lmVHZfYjJ0QnRHeGFKVkx2SUo2eXh5WGo4a1pxZVJxaVdfUG5fd3BxMUF0LW0tTmp1NE9VVV9OZ1RlRHVGbThyMUtmaG5sQ09vRFpXR01EeGZtRTVpNVJEaXdOcFdxUWRkMXZvYTRjTHZMWnVkZktkS1dLWWFnOU9OLUZJYktqUnNGUGs0SjF5SFNyLW9DMmRUUWtXdDZEZ3doTkRNdkgteG02dTJmY0FkZ0tQZ016U21oQ1NQU2o1LXFpZ2gtdmhkV0JqRGVORzlQcER4SldzZEQ1NmZBaFM0OTEwclRaX0sxMlJ4ZHJGWmllU0lOZmpLSFNvMUx6aTZRZGNPcFk0N3d3aVZBdVl0ajQxVzFRQ0MyVGNPTVZUZGE4ODVqMnFvNmhna2htcW5Qd0h4Q1RwUDlWQUlTYTZ5MmtiaWhPalA1dUliMEdxT28wd0VXaTFLdnlpUVREMGdxUkdzWWlXMXpIcE82clJoQy1keVZLWmlIUENodUgzbF9IbjJrNHF0VWtlN3lkckdSSDR6dUZ6YXpXQjhISTNZRlVuUmpYNmZxRk5vb2d1VmwxeVhiX2wzN05OZlNacU9EUEZXaHBEWHFvTVFnNHlpSmZWVWN1M2psMUJ3?oc=5",
+   "published": "Sun, 23 Aug 2026 07:00:00 GMT"
+  },
   {
    "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - Dainik Shiksha",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHFhaHVfdkxPU083NDUxN081V1pFLS00VlBiZ3ltM2FuSnhxU1hfRXIxNG9NWHJWeHJ2Tm1FdV8wNmNlRmNYOHZFR2lqTnJDQVhzX3BaWUJESUk1UHp0a1RhRHR0SDRfOXVPRmJ6Z2VpbWpwVmExclJUVy1PcG5md3VXdE16NnVCRHM3Q202Rlhydw?oc=5",
@@ -57,21 +40,26 @@
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "প্রথম দিনেই রুটিন ভেঙে লোডশেডিং - প্রথম আলো",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zNElMcUVkZ2JZQnM4Nkp1VGpMUTc0YWlPR0Q5RWtna2xjeWlEdU5WaVphWTFEeGNjSVNFU3BuSm5wSDVINkJxTktsbExVOGVRcjJ0dlk0XzRRVUlj0gFqQVVfeXFMTlhwVE94UXkxZG1CbnB5blBaQUFPbDlvRlRjNTZGWnJsZXV3alhVSG5pVHJIYWloczU3NFYtcVZ5bTZZdU9IQ3ZaU1lnQkhGYUR2cXg3MmJWTHJuRVZwbENXM3RnZE41ZU00dw?oc=5",
-   "published": "Wed, 20 Jul 2022 07:00:00 GMT"
-  },
-  {
-   "title": "লোডশেডিং ঢাকায় ২-৩ ঘণ্টা, বাইরে আরো বেশি - Shomoyer Alo",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lRzBvMjJTVnhfRUxrbU1BamsxTkdEU2RySjZzdHZEZm5Td0ZlVzRpdzdJRXNxU1UyR1JQZldOUlBSVEU2QkZac2RfclBIMkNO?oc=5",
-   "published": "Fri, 05 Aug 2022 07:00:00 GMT"
+   "title": "জেনে নিন ঢাকায় কোথায় কখন লোডশেডিং - প্রথম আলো",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoS2hXaXMwODlWcUhZUkpQdlFZRmlLWDl4VHVxMmoxdjlwNUNvTUFxajBIU2VYQzJQcHJmZFZfajh5SWViRkxMb0dzZm5JRUdEVS1OQWx1RHJsaXNZVEZOVTN2NHIwR00?oc=5",
+   "published": "Fri, 22 Jul 2022 07:00:00 GMT"
   }
  ],
  "planned": [
   {
+   "title": "যেসব এলাকায় আজ টানা ৯ ঘণ্টা বিদ্যুৎ থাকবে না",
+   "url": "https://www.bhorerkagoj.net/rangpur/803393",
+   "published": "2026-11-11T17:52:00+00:00",
+   "date": "2026-11-12",
+   "start": "08:00",
+   "end": "17:00",
+   "ambiguous": false,
+   "places": "বিদ্যুৎ সংযোগের জরুরি রক্ষণাবেক্ষণ কাজের জন্য আজ বৃহস্পতিবার (১২ নভেম্বর) টানা ৯ ঘণ্টা রংপুরের বেশ কিছু এলাকায় বিদ্যুৎ থাকবে না।\nএর মধ্যে বৃহস্পতিবার সকাল ৮টা থেকে বিকেল ৫টা পর্যন্ত ১১ কেভি টাউন ফিডারের আওতাধীন নাহার বক্সের গলি, মাস্টারপাড়া, দক্ষিণ বাবূ খাঁ, মধ্য বাবূ খাঁ, উত্তর বাবূ খাঁ, বাবূ খাঁ মহিলা মাদ্রাসা, পশ্চিম বাবূ খাঁ, নান্ডাপাড়া, শান্তিনগর/শান্তিধারা, টার্মিনাল রোড, গণেশপুর, গুড়াপাড়া/গুড়াতিপাড়া, ব্যাংক কলোনি, পাকপাড়া, গোমস্তাপাড়া, ইঞ্জিনিয়ার পাড়া সংলগ্ন এলাকায় বিদ্যুৎ থাকবে না।"
+  },
+  {
    "title": "বৃহস্পতিবার ৯ ঘণ্টা বিদ্যুৎ থাকবে না রংপুরের যেসব এলাকায়",
    "url": "https://www.dhakapost.com/country/497221",
-   "published": "2026-11-11T15:15:00+00:00",
+   "published": "2026-11-11T16:00:00+00:00",
    "date": "2026-11-12",
    "start": "08:00",
    "end": "17:00",
@@ -93,18 +81,14 @@
   {
    "id": "desco-n",
    "utility": "DESCO",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.8
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='desco.gov.bd', port=443) at 0x76ee212cc8f0>, 'Co"
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 4.9
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='dpdc.gov.bd', port=443) at 0x76ee214fea50>, 'Conn"
   },
   {
    "id": "dpdc-o",
@@ -117,34 +101,26 @@
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 4.3
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='reb.gov.bd', port=443) at 0x76ee212cefc0>, 'Co"
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 2,
-   "seconds": 28.8
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='bpdb.gov.bd', port=443) at 0x76ee212ccc20>, '"
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 1,
-   "seconds": 8.7
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='nesco.gov.bd', port=443) at 0x76ee212cff20>,"
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": true,
-   "slots_found": 0,
-   "notices_found": 0,
-   "seconds": 3.9
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='wzpdcl.gov.bd', port=443) at 0x76ee212d08f0"
   }
  ]
 }
