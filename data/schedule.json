@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T02:14:34+06:00",
+ "generated_at": "2026-11-13T07:19:01+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [
   {
@@ -38,6 +38,11 @@
  ],
  "news": [
   {
+   "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - SAMAKAL",
+   "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxOR3lmVHZfYjJ0QnRHeGFKVkx2SUo2eXh5WGo4a1pxZVJxaVdfUG5fd3BxMUF0LW0tTmp1NE9VVV9OZ1RlRHVGbThyMUtmaG5sQ09vRFpXR01EeGZtRTVpNVJEaXdOcFdxUWRkMXZvYTRjTHZMWnVkZktkS1dLWWFnOU9OLUZJYktqUnNGUGs0SjF5SFNyLW9DMmRUUWtXdDZEZ3doTkRNdkgteG02dTJmY0FkZ0tQZ016U21oQ1NQU2o1LXFpZ2gtdmhkV0JqRGVORzlQcER4SldzZEQ1NmZBaFM0OTEwclRaX0sxMlJ4ZHJGWmllU0lOZmpLSFNvMUx6aTZRZGNPcFk0N3d3aVZBdVl0ajQxVzFRQ0MyVGNPTVZUZGE4ODVqMnFvNmhna2htcW5Qd0h4Q1RwUDlWQUlTYTZ5MmtiaWhPalA1dUliMEdxT28wd0VXaTFLdnlpUVREMGdxUkdzWWlXMXpIcE82clJoQy1keVZLWmlIUENodUgzbF9IbjJrNHF0VWtlN3lkckdSSDR6dUZ6YXpXQjhISTNZRlVuUmpYNmZxRk5vb2d1VmwxeVhiX2wzN05OZlNacU9EUEZXaHBEWHFvTVFnNHlpSmZWVWN1M2psMUJ3?oc=5",
+   "published": "Sun, 23 Aug 2026 07:00:00 GMT"
+  },
+  {
    "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - Dainik Shiksha",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHFhaHVfdkxPU083NDUxN081V1pFLS00VlBiZ3ltM2FuSnhxU1hfRXIxNG9NWHJWeHJ2Tm1FdV8wNmNlRmNYOHZFR2lqTnJDQVhzX3BaWUJESUk1UHp0a1RhRHR0SDRfOXVPRmJ6Z2VpbWpwVmExclJUVy1PcG5md3VXdE16NnVCRHM3Q202Rlhydw?oc=5",
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
@@ -71,11 +76,6 @@
    "title": "জেনে নিন ঢাকায় কোথায় কখন লোডশেডিং - প্রথম আলো",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoS2hXaXMwODlWcUhZUkpQdlFZRmlLWDl4VHVxMmoxdjlwNUNvTUFxajBIU2VYQzJQcHJmZFZfajh5SWViRkxMb0dzZm5JRUdEVS1OQWx1RHJsaXNZVEZOVTN2NHIwR00?oc=5",
    "published": "Fri, 22 Jul 2022 07:00:00 GMT"
-  },
-  {
-   "title": "লোডশেডিং ঢাকায় ২-৩ ঘণ্টা, বাইরে আরো বেশি - Shomoyer Alo",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lRzBvMjJTVnhfRUxrbU1BamsxTkdEU2RySjZzdHZEZm5Td0ZlVzRpdzdJRXNxU1UyR1JQZldOUlBSVEU2QkZac2RfclBIMkNO?oc=5",
-   "published": "Fri, 05 Aug 2022 07:00:00 GMT"
   }
  ],
  "planned": [
@@ -107,7 +107,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.2
+   "seconds": 4.3
   },
   {
    "id": "dpdc-n",
@@ -115,7 +115,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.2
+   "seconds": 4.6
   },
   {
    "id": "dpdc-o",
@@ -123,7 +123,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.2
+   "seconds": 1.3
   },
   {
    "id": "breb-n",
@@ -131,7 +131,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.4
+   "seconds": 5.8
   },
   {
    "id": "bpdb-n",
@@ -139,7 +139,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 25.6
+   "seconds": 29.6
   },
   {
    "id": "nesco-n",
@@ -147,7 +147,7 @@
    "ok": true,
    "slots_found": 1,
    "notices_found": 1,
-   "seconds": 8.1
+   "seconds": 9.5
   },
   {
    "id": "wzpdcl-n",
@@ -155,7 +155,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.4
+   "seconds": 4.0
   }
  ]
 }
