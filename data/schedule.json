@@ -1,18 +1,7 @@
 {
- "generated_at": "2026-11-14T22:17:53+06:00",
+ "generated_at": "2026-11-15T02:51:41+06:00",
  "timezone": "Asia/Dhaka",
- "slots": [
-  {
-   "utility": "NESCO",
-   "area": "এলাকাসমূহে এবং তেঘর থেকে বাগধানী সকাল",
-   "date": "2026-11-14",
-   "start": "07:30",
-   "end": "10:30",
-   "ambiguous": false,
-   "source_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nesco/2026/10/c3dae433-a25e-4dd2-9e5e-1b98ff3a2017.pdf",
-   "source_id": "nesco-n"
-  }
- ],
+ "slots": [],
  "notices": [
   {
    "utility": "BPDB",
@@ -33,7 +22,7 @@
    "title": "লোড শেডিং শিডিউল",
    "url": "https://nesco.gov.bd/site/view/notices",
    "type": "page",
-   "slots": 1
+   "slots": 0
   }
  ],
  "news": [
@@ -68,62 +57,32 @@
    "published": "Sun, 23 Aug 2026 07:00:00 GMT"
   },
   {
+   "title": "প্রতিদিন পাঁচ ঘণ্টা করে লোডশেডিং থাকবে বুয়েটে - The Daily Ittefaq",
+   "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxQVWtzdzJieFc0c0RoRkpiVjNod1h6RDBMV0VsYnEyWmN3SHozU0ZmRkZsZ1BpaThGaTFpeWFGOG5tM2NyeXc0aG5yZGQzTzUwYzBVM2tUYjVad0k4alFMM21JcXlXZmNUdzRfNHJUWWRRZGdwZEYzNHRhblBfRmFRVXpHaDM2eHphVEE3WGNKNmFLajFyTzFyX01IaERXYUxyVmJLa3lOT2dJZWRlQ0ZFRklzdWJQMnQ1OGJlTnMzcDNab0RMVkx4amRHQVI2YzA5bXN0TmF0cXNYZGp3WXg4V0FudFJ1SGFtc21nejM4N1NqTXROZU5MeDJwNGctQ3JfSDgzWGFWaXpaZVF1dE80aVFLaWRpb3dKSUxfWnV0MF9PaE9xUFNJSkttZDVpejNEem14NHRsV0p1R3pzdWZ0QVZKNV9VZU0xVHMwRUxVTm9PWWk1dm9VMEZJazlDUjVCWmY0OG5KTnpnbHMtMmt4eGh6ZUpfOGdKNXJTNjVjME0tTG9vMlMxTWJjUHZRTHFOUkpZaG5tYVNGS0NESElIZk5EaEcxLTVHcGtxV3lGbGJfU0prR2hoT01neC1KVjJHa2RlbmNaOHJxVVo2TXZNdkR5cWdjWnJyVDNYTVFIa29yMFlTRjNKSC1LZjZtTHVxSkxsS2tjaHd2eVh3cWwwNW5Za2R2eTVPSTIwdGFfYV9Na1NmSGM2Zjd6QThmUGJ6Z3plYXJn0gGrBEFVX3lxTFB5VW9IMGk2MjdSdmtRQ2FpaTMyYi1kc29tMGY3R1J2cllrbzl4VnIycTZseFNYNlk1OHdjeU84V29HcjhqSWlQamQwa18xV2VzVFpXZDZiSkNWS1lYd1JuM09kdmxWNzJiblpjNk5FMEpRZEN0RzBLeFdDZUJtV0Jlc1dxVFMybW4wck9qZnZUMGJxQTQ3LTAwMFRPRi1Cc3pPYWhFWkxycXR6QjJyQkV4Ykw2ejBNUlhYS2hub1hQUWl4TXlwSm9PYTZ3Zkdic3pXckhYQjVxd1JmeE5lUWt0N0Q4bk5Od2t3Um11dEcxTFlUa0Z6VXljZk9Nc3hyQTJSV3pWSHYwTGhBenFURl9XMnVyOHhtN080NjdrLVJwdzNudmpvSmFEMnRkblZKNjBWTXVqYmxSQVpLdkhyV1kySGJiSjFBZ3hheUlaU0RXUERFbUQ4WUJZTk9lME5BZlBLeUw0VUpOazFkU0F4RHRKNmw0QUgzendRMUZFTzRfSUdhV0Nwalc5QS0zWVdZcENrVWdyVktnTkdUQmFMaDFNWjZSTmhxSkpXbERPVUFyWnRzS3dSaDc3WHI4bjNVOTZ3eXZKYWdQZllpWXRLdjU1RGk2VmlmdHIwMVBMNUdOR2dWWkR6UGJkS29ZMW9VVEJ5SUg5MWIxUHNaVHhveTlMamlNYk1iTTJ5ODRZSmQzNGltaHhlTFFGcnBpcG8xY2JjT2VtOUR4Q2ZHRQ?oc=5",
+   "published": "Mon, 24 Aug 2026 07:00:00 GMT"
+  },
+  {
    "title": "জেনে নিন ঢাকায় কোথায় কখন লোডশেডিং - প্রথম আলো",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoS2hXaXMwODlWcUhZUkpQdlFZRmlLWDl4VHVxMmoxdjlwNUNvTUFxajBIU2VYQzJQcHJmZFZfajh5SWViRkxMb0dzZm5JRUdEVS1OQWx1RHJsaXNZVEZOVTN2NHIwR00?oc=5",
    "published": "Fri, 22 Jul 2022 07:00:00 GMT"
-  },
-  {
-   "title": "লোডশেডিং ঢাকায় ২-৩ ঘণ্টা, বাইরে আরো বেশি - Shomoyer Alo",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lRzBvMjJTVnhfRUxrbU1BamsxTkdEU2RySjZzdHZEZm5Td0ZlVzRpdzdJRXNxU1UyR1JQZldOUlBSVEU2QkZac2RfclBIMkNO?oc=5",
-   "published": "Fri, 05 Aug 2022 07:00:00 GMT"
   }
  ],
  "planned": [
   {
-   "title": "যেসব এলাকায় আজ ৯ ঘণ্টা বিদ্যুৎ থাকবে না",
-   "url": "https://bn.mtnews24.com/jatio/582367/%E0%A6%AF%E0%A7%87%E0%A6%B8%E0%A6%AC-%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%86%E0%A6%9C-%E0%A7%AF-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%BE",
-   "published": "2026-11-14T02:03:00+00:00",
-   "date": "2026-11-14",
-   "start": "08:00",
-   "end": "17:00",
+   "title": "রোববার ৭ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
+   "url": "https://www.ntvbd.com/bangladesh/news-1836561",
+   "published": "2026-11-14T08:30:00+00:00",
+   "date": "2026-11-15",
+   "start": "07:00",
+   "end": "14:00",
    "ambiguous": false,
-   "places": "এমটিনিউজ ডেস্ক : জরুরি রক্ষণাবেক্ষণ ও বিদ্যুৎ লাইনের পাশে থাকা গাছের ডালপালা ছাঁটাই কাজের জন্য শনিবার (১৪ নভেম্বর) রংপুর নগরীর বেশ কয়েকটি এলাকায় টানা ৯ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে। শুক্রবার (১৩ নভেম্বর) নেসকোর বিক্রয় ও বিতরণ বিভাগ-১-এর নির্বাহী প্রকৌশলী মো. আতিফুর রহমান স্বাক্ষরিত এক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়।\nসেখানে বলা হয়, শনিবার সকাল ৮টা থেকে বিকেল ৫টা পর্যন্ত ১১ কেভি নূরপুর ফিডারের আওতাধীন এলাকাগুলোতে বিদ্যুৎ সরবরাহ বন্ধ রাখা হবে। এলাকাগুলো হলো—বিকন মোড়, ঠিকাদারপাড়া, পানামা মোড়, সিঙ্গার শোরুম, নেসকো অফিস-১, নূরপুর, গুপ্তপাড়া, পুরাতন পাসপোর্ট অফিস, খরমপট্টি ব্রিজ, নার্সারি মাছুয়াপাড়া, বৈরাগীপাড়া, কামাল কাছনা, চিড়ার মিল, ভ্যাট অফিস জিএল রায় রোড এবং আড়ং শোরুম-সংলগ্ন এলাকা।"
-  },
-  {
-   "title": "আজ যেসব এলাকায় টানা ১০ ঘণ্টা বিদ্যুৎ থাকবে না",
-   "url": "https://rtvonline.com/country/415616",
-   "published": "2026-11-13T18:24:00+00:00",
-   "date": "2026-11-14",
-   "start": "08:00",
-   "end": "18:00",
-   "ambiguous": false,
-   "places": "প্রধান সম্পাদক : সৈয়দ আশিক রহমান বেঙ্গল মিডিয়া করপোরেশন লিমিটেড,১০২ কাজী নজরুল ইসলাম এভিনিউ কারওয়ান বাজার, ঢাকা-১২১৫\r\nরংপুর ও কুড়িগ্রামের বিভিন্ন এলাকায় শনিবার (১৪ নভেম্বর) টানা ১০ ঘণ্টা পর্যন্ত বিদ্যুৎ সরবরাহ বন্ধ থাকবে। গাছের ডালপালা ছাঁটাই ও বিদ্যুৎ লাইনের রক্ষণাবেক্ষণ কাজের জন্য এ সিদ্ধান্ত নিয়েছে নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসি (নেসকো)। শুক্রবার (১৩ নভেম্বর) পৃথক বিজ্ঞপ্তিতে বিদ্যুৎ সরবরাহ বন্ধ রাখার বিষয়টি জানায় প্রতিষ্ঠানটি। বিজ্ঞপ্তি অনুযায়ী, কুড়িগ্রাম শহরসহ জেলার নেসকোর আওতাধীন সব এলাকায় সকাল ৮টা থেকে সন্ধ্যা ৬টা পর্যন্ত বিদ্যুৎ সরবরাহ বন্ধ থাকবে। এ সময় ৩৩ কেভি সঞ্চালন লাইন এবং কুড়িগ্রাম শহরের সার্কিট হাউজ, বিজিবি, মোগলবাসা ও মেডিকেল পাড়াসহ বিভিন্ন এলাকার ১১ কেভি বিতরণ লাইনের পাশে থাকা গাছের ডালপালা ছাঁটাই করা হবে। নেসকোর কুড়িগ্রাম বিক্রয় ও বিতরণ বিভাগের নির্বাহী প্রকৌশলী সিরাজুল ইসলাম জানান, নির্ধারিত ১০ ঘণ্টার আগেই কাজ শেষ হতে পারে। তবে স্থানীয় পর্যায়ে বিদ্যুৎ সংযোগ স্বা"
-  },
-  {
-   "title": "শনিবার টানা ১০ ঘণ্টা যেসব এলাকায় বিদ্যুৎ থাকবে না",
-   "url": "https://www.bd-journal.com/economics/electricity-and-fuel/315623/শনিবার-টানা-১০-ঘণ্টা-যেসব-এলাকায়-বিদ্যুৎ-থাকবে-না",
-   "published": "2026-11-13T18:05:00+00:00",
-   "date": "2026-11-14",
-   "start": "08:00",
-   "end": "18:00",
-   "ambiguous": false,
-   "places": "সম্পাদক : শাহজাহান সরদার প্রকাশক : আনোয়ার হোসেন খান\nঅপর বিজ্ঞপ্তিতে বলা হয়, শনিবার সকাল ৮টা থেকে বিকাল ৫টা পর্যন্ত রংপুর নগরীর নুরপুর ফিডারের আওতাধীন এলাকায় বিদ্যুৎ সরবরাহ বন্ধ রাখবে নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসি (নেসকো)। ১১ কেভি নুরপুর ফিডারের আওতাধীন বিকন মোড়, ঠিকাদার পাড়া, পানাম মোড়, সিঙ্গার শোরুম, নেসকো অফিস-১, নুরপুর, গুপ্তপাড়া, পুরাতন পাসপোর্ট অফিস, খরমপট্টি ব্রিজ, নাসারী, মাছুয়াপাড়া, বৈরাগীপাড়া, কামালকাছনা, চিরার মিল, ভ্যাট অফিস জি এল রায় রোড, আড়ং শোরুমসংলগ্ন এলাকায় গাছের শাখা-প্রশাখা ছাঁটাই এবং প্রয়োজনীয় রক্ষণাবেক্ষণ কার্যক্রম পরিচালনা করা হবে।"
-  },
-  {
-   "title": "শনিবার যেসব এলাকায় ৯ ঘণ্টা বিদ্যুৎ থাকবে না",
-   "url": "https://www.dhakapost.com/country/497697",
-   "published": "2026-11-13T16:00:00+00:00",
-   "date": "2026-11-14",
-   "start": "08:00",
-   "end": "17:00",
-   "ambiguous": false,
-   "places": "জরুরি রক্ষণাবেক্ষণ ও বিদ্যুৎ লাইনের পাশে থাকা গাছের ডালপালা কাটার কাজের জন্য শনিবার (১৪ নভেম্বর) রংপুর নগরীর বেশ কয়েকটি এলাকায় টানা ৯ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে।\nএতে আরও বলা হয়েছে, ১১ কেভি নূরপুর ফিডারের আওতাধীন বিকন মোড়, ঠিকাদারপাড়া, পানামা মোড়, সিঙ্গার শোরুম, নেসকো অফিস-১, নূরপুর, গুপ্তপাড়া, পুরাতন পাসপোর্ট অফিস, খরমপট্টি ব্রিজ, নার্সারি মাছুয়াপাড়া, বৈরাগীপাড়া, কামাল কাছনা, চিড়ার মিল, ভ্যাট অফিস জিএল রায় রোড, আড়ং শোরুম-সংলগ্ন এলাকায় গাছের শাখা-প্রশাখা ছাঁটাই এবং প্রয়োজনীয় রক্ষণাবেক্ষণ কার্যক্রম পরিচালনা করা হবে। এ কারণে শনিবার সকাল ৮টা থেকে বিকেল ৫টা পর্যন্ত এসব এলাকায় বিদ্যুৎ সরবরাহ বন্ধ থাকবে।"
+   "places": "জরুরি রক্ষণাবেক্ষণ কাজের জন্য রোববার (১৫ নভেম্বর) শরীয়তপুরের বেশকিছু এলাকায় টানা ৭ ঘণ্টা বিদ্যুৎ থাকবে না। শনিবার (১৪ নভেম্বর) শরীয়তপুর পল্লী বিদ্যুৎ সমিতি থেকে পৃথক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়েছে।\nএর মধ্যে রোববার সকাল ৭টা থেকে দুপুর ২টা পর্যন্ত মোট ৭ ঘণ্টা টুমচর ফিডারের কাশিপুর, টুমচর, টেকেরহাট ও ঝাউচর এলাকায় এবং সকাল ৮টা থেকে বিকেল ৩টা পর্যন্ত মোট ৭ ঘণ্টা নাড়িয়া-১ উপকেন্দ্রের ৭ নম্বর গোলার বাজার ফিডারের পাটদল সেকশন এলাকায় বিদ্যুৎ থাকবে না।"
   },
   {
    "title": "আজ যেসব এলাকায় ৯ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে",
    "url": "https://www.gramerkagoj.com/country-news/317448",
    "published": "2026-11-13T03:45:00+00:00",
-   "date": "2026-11-14",
+   "date": "2026-11-15",
    "start": "08:00",
    "end": "17:00",
    "ambiguous": false,
@@ -133,7 +92,7 @@
    "title": "আজ যেসব এলাকায় ৯ ঘণ্টা বিদ্যুৎ থাকবে না",
    "url": "https://www.gramerkagoj.com/country-news/317180",
    "published": "2026-11-08T03:41:00+00:00",
-   "date": "2026-11-14",
+   "date": "2026-11-15",
    "start": "08:00",
    "end": "17:00",
    "ambiguous": false,
@@ -147,7 +106,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 5.7
+   "seconds": 5.0
   },
   {
    "id": "dpdc-n",
@@ -155,7 +114,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 5.3
+   "seconds": 5.1
   },
   {
    "id": "dpdc-o",
@@ -163,7 +122,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.7
+   "seconds": 1.3
   },
   {
    "id": "breb-n",
@@ -171,7 +130,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.9
+   "seconds": 3.7
   },
   {
    "id": "bpdb-n",
@@ -179,15 +138,15 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 32.4
+   "seconds": 26.4
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
    "ok": true,
-   "slots_found": 1,
+   "slots_found": 0,
    "notices_found": 1,
-   "seconds": 9.3
+   "seconds": 19.0
   },
   {
    "id": "wzpdcl-n",
@@ -195,7 +154,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.1
+   "seconds": 3.9
   }
  ]
 }
