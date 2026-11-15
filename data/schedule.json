@@ -1,8 +1,30 @@
 {
- "generated_at": "2026-11-15T20:56:34+06:00",
+ "generated_at": "2026-11-16T02:04:50+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
- "notices": [],
+ "notices": [
+  {
+   "utility": "BPDB",
+   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
+   "url": "https://bpdb.gov.bd/site/view/notices",
+   "type": "page",
+   "slots": 0
+  },
+  {
+   "utility": "BPDB",
+   "title": "চাহিদা ও লোডশেডিং",
+   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
+   "type": "page",
+   "slots": 0
+  },
+  {
+   "utility": "NESCO",
+   "title": "লোড শেডিং শিডিউল",
+   "url": "https://nesco.gov.bd/site/view/notices",
+   "type": "page",
+   "slots": 0
+  }
+ ],
  "news": [
   {
    "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - Dainik Shiksha",
@@ -25,14 +47,14 @@
    "published": "Mon, 24 Aug 2026 07:00:00 GMT"
   },
   {
-   "title": "কখন লোডশেডিং হবে, জানানোর দাবি শিল্প উদ্যোক্তাদের - Jugantor",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zVWpPX3VsM3dPU21UNmJyOUdSdU8teHJvdEhxcUZmVGxiVmtHODFYb3lzNmZuUmZxMGI4TnBZcTVBVTlPV3VibEd4cXV6ekllLWg0?oc=5",
-   "published": "Sun, 30 Aug 2026 07:00:00 GMT"
-  },
-  {
    "title": "বুয়েটে দৈনিক পাঁচ ঘণ্টা লোডশেডিংয়ের সূচি - Channel 24",
    "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxQeUZ3U1BhQUt3TEV5X2d5dGNCMExDNmRteURHaWVKT0ZqNnUybnNFOXNYZWwzZmFzcmNoSkZHWXNLbVZoa3pveTJ2NWdJNkRhYnR4Ry16Y2Q5cDRmTHZKZndyNVJ5eFZsUW13UkVvWk1WMFFLdHloUTNPVzY0SE4yb09OTHZMeEdaQ2FBRmdHUXV6U1FhS2tKSWVsUHFtV3VleEpiY2tadFRzY2lyWHNKSExXQXFWNEU2NUFLOGt0b194U01IWjkwVjR1S0wyamJmamFKaEx2VGJrSDB2QzBQMk9xQkwwMWZoUFlOcFRoWEdCWHJhLU1RaGpfeGxnRWlKcC1zOFdzVWZldUdsVWozNVdiUnZ0WGJTWVh5OHktOVRjc1pya0s2QWNCZTJxQ1JRWGZiLW5iNHBpVGR0WjdkVFJ6REMwSXdXcFRrY3dQaEhrTVFOSmd0NlNGLWhxUlEtS3lyZzI3VUJkNmNHU3BZbjY1Rm16ZkhmaEFMM0xjSjhmN0xzYkNLemRGLXpSQnZmUFdmLVNyUFhrUTlXUnhubnR5UEdTdlBPcE9sOGJWMGVHTm01QVNDVVFmM1BfZktvM0M4eGxFR2NJSE9nMEF6MmIwa3hmUEp3eWxqLWdzclNoZkVmbUZRYk5iMFlXMjB2VkxGVjh1SWMzejBzS1Q4aTZKSVJfVDAxb3MtVDJHRmJCSzFybGE4?oc=5",
    "published": "Sun, 23 Aug 2026 07:00:00 GMT"
+  },
+  {
+   "title": "কখন লোডশেডিং হবে, জানানোর দাবি শিল্প উদ্যোক্তাদের - Jagonews24",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqY3FWcmRWVTN1bmloNnpDSjlRY05ZOHFBdWRJYmNheGtURWNyLXZxQWdFMmdjZnRiSy1yc3pNRE9qNmdESndxNXpGdVpnYTYzSTQwOXVYSHdhRFk?oc=5",
+   "published": "Sun, 30 Aug 2026 07:00:00 GMT"
   },
   {
    "title": "প্রথম দিনেই রুটিন ভেঙে লোডশেডিং - প্রথম আলো",
@@ -47,58 +69,32 @@
  ],
  "planned": [
   {
-   "title": "৭ ঘণ্টা বিদ্যুৎ থাকবে না আজ যেসব এলাকায়",
-   "url": "https://zoombangla.com/%E0%A7%AD-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%86/",
-   "published": "2026-11-15T02:08:00+00:00",
-   "date": "2026-11-15",
-   "start": "07:00",
-   "end": "14:00",
-   "ambiguous": false,
-   "places": "জরুরি রক্ষণাবেক্ষণ ও গাছপালা কাটার কাজের জন্য রোববার (১৫ নভেম্বর) শরীয়তপুরের বেশ কয়েকটি এলাকায় টানা সাত ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে।\nনির্ধারিত সূচি অনুযায়ী, সকাল ৭টা থেকে দুপুর ২টা পর্যন্ত টুমচর ফিডারের কাশিপুর, টুমচর, টেকেরহাট ও ঝাউচর এলাকায় বিদ্যুৎ থাকবে না। অন্যদিকে, সকাল ৮টা থেকে বিকাল ৩টা পর্যন্ত নড়িয়া-১ উপকেন্দ্রের ৭ নম্বর গোলার বাজার ফিডারের পাটদল সেকশন এলাকায় বিদ্যুৎ সরবরাহ বন্ধ থাকবে।"
-  },
-  {
-   "title": "যেসব এলাকায় আজ ৭ ঘণ্টা বিদ্যুৎ থাকবে না",
-   "url": "https://bn.mtnews24.com/jatio/582475/যেসব-এলাকায়-আজ-৭-ঘণ্টা-বিদ্যুৎ-থাকবে-না",
-   "published": "2026-11-15T02:06:00+00:00",
-   "date": "2026-11-15",
-   "start": "07:00",
-   "end": "14:00",
-   "ambiguous": false,
-   "places": "এমটিনিউজ ডেস্ক : জরুরি রক্ষণাবেক্ষণ ও গাছপালা কাটার কাজের জন্য রোববার (১৫ নভেম্বর) শরীয়তপুরের বেশ কয়েকটি এলাকায় টানা সাত ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে। শনিবার (১৪ নভেম্বর) পৃথক বিজ্ঞপ্তিতে এ তথ্য জানিয়েছে শরীয়তপুর পল্লী বিদ্যুৎ সমিতি। বিজ্ঞপ্তিতে বলা হয়, বিদ্যুৎ লাইনের নিরাপত্তা নিশ্চিত করা এবং নিরবচ্ছিন্ন বিদ্যুৎ সরবরাহ বজায় রাখার লক্ষ্যে ঝুঁকিপূর্ণ গাছপালা ও ডালপালা কর্তন করা হবে। এ কারণে পালং-২ (১০ এমভিএ) উপকেন্দ্রের ৩সি নম্বর টুমচর ফিডার এবং নড়িয়া-১ উপকেন্দ্রের ৭ নম্বর গোলার বাজার ফিডারের আওতাধীন বিভিন্ন এলাকায় বিদ্যুৎ সরবরাহ বন্ধ রাখা হবে।\nনির্ধারিত সূচি অনুযায়ী, সকাল ৭টা থেকে দুপুর ২টা পর্যন্ত টুমচর ফিডারের কাশিপুর, টুমচর, টেকেরহাট ও ঝাউচর এলাকায় বিদ্যুৎ থাকবে না। অন্যদিকে, সকাল ৮টা থেকে বিকাল ৩টা পর্যন্ত নড়িয়া-১ উপকেন্দ্রের ৭ নম্বর গোলার বাজার ফিডারের পাটদল সেকশন এলাকায় বিদ্যুৎ সরবরাহ বন্ধ থাকবে।"
-  },
-  {
    "title": "আজ যেসব এলাকায় ৯ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে",
    "url": "https://www.gramerkagoj.com/country-news/317448",
    "published": "2026-11-13T17:49:00+00:00",
-   "date": "2026-11-15",
+   "date": "2026-11-16",
    "start": "08:00",
    "end": "17:00",
    "ambiguous": false,
    "places": "সম্পাদক ও প্রকাশক : মবিনুল ইসলাম মবিন | যুগ্ম সম্পাদক : আঞ্জুমানারা খাতুন\nজরুরি বিদ্যুৎ লাইন রক্ষণাবেক্ষণ ও লাইনের পাশে থাকা গাছের ডালপালা ছাঁটাইয়ের কাজের জন্য রংপুর নগরীর বেশ কয়েকটি এলাকায় টানা ৯ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে। শনিবার (১৪ নভেম্বর) সকাল ৮টা থেকে বিকেল ৫টা পর্যন্ত এ বিদ্যুৎ বিভ্রাট চলবে বলে জানিয়েছে নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসি (নেসকো)। নেসকো রংপুরের নির্বাহী প্রকৌশলী (বিক্রয় ও বিতরণ বিভাগ-১) মো. আতিফুর রহমান স্বাক্ষরিত এক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়েছে। বিজ্ঞপ্তি অনুযায়ী, ১১ কেভি নুরপুর ফিডারের আওতাধীন বিভিন্ন এলাকায় জরুরি রক্ষণাবেক্ষণ এবং বিদ্যুৎ লাইনের পাশে থাকা গাছের শাখা-প্রশাখা ছাঁটাই করা হবে। এ কারণে নির্ধারিত সময়ে এসব এলাকায় বিদ্যুৎ সরবরাহ বন্ধ রাখা হবে। নেসকোর বিজ্ঞপ্তিতে উল্লেখ করা হয়েছে, বিদ্যুৎ সরবরাহ বন্ধ থাকার আওতাভুক্ত এলাকাগুলো হলো—বিকন মোড়, ঠিকাদার পাড়া, পানাম মোড়, সিঙ্গার শোরুম, নেসকো অফিস-১, নুরপুর, গুপ্তপাড়া, পুরাতন পাসপোর্ট অফিস, খরমপট্টি ব্রি"
-  },
-  {
-   "title": "আজ যেসব এলাকায় ৯ ঘণ্টা বিদ্যুৎ থাকবে না",
-   "url": "https://www.gramerkagoj.com/country-news/317180",
-   "published": "2026-11-08T03:41:00+00:00",
-   "date": "2026-11-15",
-   "start": "08:00",
-   "end": "17:00",
-   "ambiguous": false,
-   "places": "সম্পাদক ও প্রকাশক : মবিনুল ইসলাম মবিন | যুগ্ম সম্পাদক : আঞ্জুমানারা খাতুন\nরংপুরের যেসব এলাকায় বিদ্যুৎ থাকবে না নেসকোর বিজ্ঞপ্তি অনুযায়ী, সকাল ৮টা থেকে বিকেল ৫টা পর্যন্ত ১১ কেভি টাউন ফিডারের আওতাধীন সাবস্টেশন থেকে মাস্টারপাড়া, আদর্শপাড়া ঈদগাহ মাঠ, কামারপাড়া কুতুবিয়া মসজিদ, সেনপাড়া ট্রাফিক অফিস, গুপ্তপাড়া পূজামণ্ডপ, ঝন্টুর মোড়, ফায়ার সার্ভিস মোড়, শালবন ইন্দ্ররা মোড়, শিয়ালুর মোড় নার্সারি, শালবন হাজির খামার, জুট মিলের পূর্ব পর্যন্ত মুলাটোল থানা, গুপ্তপাড়া, লাইন্স স্কুল ও ফায়ার সার্ভিস মোড় এলাকায় বিদ্যুৎ সরবরাহ বন্ধ থাকবে। এ ছাড়া একই সময়ে ১১ কেভি জুম্মাপাড়া ফিডারের আওতাধীন জাহাজ কোম্পানি, জি এল রায় রোড, ফায়ার সার্ভিস, ইন্দ্ররা মোড়, পুলিশ ফাঁড়ি, পায়রা চত্বর, আজিজ সুপার মার্কেট, জুম্মাপাড়া, পলিটেকনিক গেট, সদর মসজিদ, পাকার মাথা, কুকরুল ঈদগাহ মাঠ এবং জুম্মাপাড়া আইসক্রিম ফ্যাক্টারিসংলগ্ন এলাকায়ও বিদ্যুৎ সরবরাহ বন্ধ থাকবে।\r"
   }
  ],
  "sources": [
   {
    "id": "desco-n",
    "utility": "DESCO",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='desco.gov.bd', port=443) at 0x7f026e820890>, 'Co"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 4.3
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='dpdc.gov.bd', port=443) at 0x7f026e81ed80>, 'Conn"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 4.0
   },
   {
    "id": "dpdc-o",
@@ -111,26 +107,34 @@
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='reb.gov.bd', port=443) at 0x7f026e822e70>, 'Co"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 3.7
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='bpdb.gov.bd', port=443) at 0x7f026e823500>, '"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 2,
+   "seconds": 25.3
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='nesco.gov.bd', port=443) at 0x7f026e823d70>,"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 1,
+   "seconds": 9.6
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='wzpdcl.gov.bd', port=443) at 0x7f026e828740"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 4.2
   }
  ]
 }
