@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-11-16T12:59:57+06:00",
+ "generated_at": "2026-11-16T22:49:31+06:00",
  "timezone": "Asia/Dhaka",
- "slots": [],
+ "slots": [
+  {
+   "utility": "NESCO",
+   "area": "পর্যায়ক্রমে বিদ্যুৎ সরবরাহ বন্ধ থাকবে। সাময়িক এ অসুবিধার জন্য নেসকো",
+   "date": "2026-11-16",
+   "start": "07:00",
+   "end": "13:00",
+   "ambiguous": true,
+   "source_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nesco/2026/10/59a15097-c832-4b46-83d6-e7f8204b707a.pdf",
+   "source_id": "nesco-n"
+  }
+ ],
  "notices": [
   {
    "utility": "BPDB",
@@ -22,10 +33,51 @@
    "title": "লোড শেডিং শিডিউল",
    "url": "https://nesco.gov.bd/site/view/notices",
    "type": "page",
-   "slots": 0
+   "slots": 1
   }
  ],
- "news": [],
+ "news": [
+  {
+   "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - Dainik Shiksha",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHFhaHVfdkxPU083NDUxN081V1pFLS00VlBiZ3ltM2FuSnhxU1hfRXIxNG9NWHJWeHJ2Tm1FdV8wNmNlRmNYOHZFR2lqTnJDQVhzX3BaWUJESUk1UHp0a1RhRHR0SDRfOXVPRmJ6Z2VpbWpwVmExclJUVy1PcG5md3VXdE16NnVCRHM3Q202Rlhydw?oc=5",
+   "published": "Mon, 24 Aug 2026 07:00:00 GMT"
+  },
+  {
+   "title": "বুয়েটে দিনে পাঁচ ঘণ্টা লোডশেডিং, প্রকাশ হলো নির্দিষ্ট সূচি - Dhaka Tribune Bangla",
+   "link": "https://news.google.com/rss/articles/CBMiowRBVV95cUxPQmc2QmprT3NJQTdsVHRKOWQ3YmdKT3ByaGNQSV9LTjI1ZERFYm5GM3BPVnhWY215Yi1lOVdXSmwxYUYxSW14M2doOG5KcnUxTXQzS1g2TGhIcEdUcmNfYTNFdjBpMnpQbThqZWtKenhCbk5SbEpjZVVvM2FISmpDeWgyN3pIcVA5Zjd0RGo4LXlqWDNuNTMtV21Ra2lRN05waU9aanZ0MzJHbmE3M3g1d3dnQjNpTk1tcEJCMFNYYTFFMnRRLUNTem5KaGw4dUNlbHpPT1lvZ0lqcmhDZ1EzcmhMSF9YM3ZNV3ZseFhVNHJTVU96Y0Z1Yy1QVXFOWTRlYzBpalRrTUNRdTdINWpDSlBaYUJKTU54MlRpQ3RtMXU4NU80RGdZNzVvR1k3WjlKS1BmUGJrMGF5cVZWZ1RmN29rSkJjMm1yZEdUM1JXWWd2ajRvM2dfTjNkMDdBVTN3NnlfOFRnX2RwajFkRmJzd1FsX0hBcXpnSFhObEtCM2t5M1NGXy13bzBQSW1zVXpnNGJEUU9QYkVDNW9rb2dGd3JIM3VvQno3Vkl0cFFkTUNncU5GUWNLRERoR0xQd2Jod3F4NjFMaGRxRmxiODkzSlVzeWh1bUxxcjlnQnBSdnFTU2VkRTM0QmtnZzlIRXJ2NXJ1NkFqMk5lSnpCUzVnVTFCYjJkbHFLLWMzX3ZrX1VrRFFqNDJ5V2JJWWw4X01iZHJV0gGoBEFVX3lxTE9YODVpM29zSENQX01IRTdSSWR2REI3YXhvd1F3aVZYR2dxeUtibkJDdzdTR0hpQ3RyeXRmMEc1WWJTZzMxZ0dIam4yQVA2czdxMm1qcnNWV09XXzU2Z0FFVmpzWTRscU5uWXlmcWF2cmZ5V2E0S2wwS3BtR1lLZ2Voa3doT2twMG95cU5kQzBsSjR5RXY4RkRfMWNxNm1uYzY0a2wwM05taWhLeWFsTXV5R09XbWpIcC1Cb1hRWGFvbEFUN19KdnctNnNOQ3MzZnRodEdORG0xNG00bUdib2Z2UWxWTzZvQ1hQb1FtOFV5NE82SWZxTWZDWWI4WWpyZE5OR2d3YUdKeDJBV2xNMzI0VkFFNTl1M1E5QVRDdjNZbTMwRk9UeHJ5OTd5WmI2NE1wbmt0QUtvbVQxQkI0elcwcHRCS0hDVFlBX3JLc1I5UHh1RVNLVDBWZUFoazBWTzI3d0VCaWJXYXNFX3RXZ1hDRjNOdC1ya3pLR2NFSGhhZm1XWFl2N3ZYM01pSkpSUk5ERHctY2hwQVVfZGVjN3BBdzR6SWZvbjBnVjRwR0lFX3N6N2p1VHpIbHhYRlpSd0FVd19tRVhZQjhIVkp0NktTRnYtVnpvTGVDSllVTjdxbWFlS2lfOGV3VkljTUJHNGVfS3BMLXBPdk5MQ01kXzFFNVNMRHN6b3M3TC1GSjBzZWl5RHc2WVh6aFNRR21yLVdoUXNvcFVXTA?oc=5",
+   "published": "Sun, 23 Aug 2026 07:00:00 GMT"
+  },
+  {
+   "title": "বুয়েটে দৈনিক পাঁচ ঘণ্টা লোডশেডিংয়ের সূচি - Channel 24",
+   "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxQeUZ3U1BhQUt3TEV5X2d5dGNCMExDNmRteURHaWVKT0ZqNnUybnNFOXNYZWwzZmFzcmNoSkZHWXNLbVZoa3pveTJ2NWdJNkRhYnR4Ry16Y2Q5cDRmTHZKZndyNVJ5eFZsUW13UkVvWk1WMFFLdHloUTNPVzY0SE4yb09OTHZMeEdaQ2FBRmdHUXV6U1FhS2tKSWVsUHFtV3VleEpiY2tadFRzY2lyWHNKSExXQXFWNEU2NUFLOGt0b194U01IWjkwVjR1S0wyamJmamFKaEx2VGJrSDB2QzBQMk9xQkwwMWZoUFlOcFRoWEdCWHJhLU1RaGpfeGxnRWlKcC1zOFdzVWZldUdsVWozNVdiUnZ0WGJTWVh5OHktOVRjc1pya0s2QWNCZTJxQ1JRWGZiLW5iNHBpVGR0WjdkVFJ6REMwSXdXcFRrY3dQaEhrTVFOSmd0NlNGLWhxUlEtS3lyZzI3VUJkNmNHU3BZbjY1Rm16ZkhmaEFMM0xjSjhmN0xzYkNLemRGLXpSQnZmUFdmLVNyUFhrUTlXUnhubnR5UEdTdlBPcE9sOGJWMGVHTm01QVNDVVFmM1BfZktvM0M4eGxFR2NJSE9nMEF6MmIwa3hmUEp3eWxqLWdzclNoZkVmbUZRYk5iMFlXMjB2VkxGVjh1SWMzejBzS1Q4aTZKSVJfVDAxb3MtVDJHRmJCSzFybGE4?oc=5",
+   "published": "Sun, 23 Aug 2026 07:00:00 GMT"
+  },
+  {
+   "title": "কখন লোডশেডিং হবে, জানানোর দাবি শিল্প উদ্যোক্তাদের - Jagonews24",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqY3FWcmRWVTN1bmloNnpDSjlRY05ZOHFBdWRJYmNheGtURWNyLXZxQWdFMmdjZnRiSy1yc3pNRE9qNmdESndxNXpGdVpnYTYzSTQwOXVYSHdhRFk?oc=5",
+   "published": "Sun, 30 Aug 2026 07:00:00 GMT"
+  },
+  {
+   "title": "প্রথম দিনেই রুটিন ভেঙে লোডশেডিং - প্রথম আলো",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zNElMcUVkZ2JZQnM4Nkp1VGpMUTc0YWlPR0Q5RWtna2xjeWlEdU5WaVphWTFEeGNjSVNFU3BuSm5wSDVINkJxTktsbExVOGVRcjJ0dlk0XzRRVUlj0gFqQVVfeXFMTlhwVE94UXkxZG1CbnB5blBaQUFPbDlvRlRjNTZGWnJsZXV3alhVSG5pVHJIYWloczU3NFYtcVZ5bTZZdU9IQ3ZaU1lnQkhGYUR2cXg3MmJWTHJuRVZwbENXM3RnZE41ZU00dw?oc=5",
+   "published": "Wed, 20 Jul 2022 07:00:00 GMT"
+  },
+  {
+   "title": "লোডশেডিং ঢাকায় ২-৩ ঘণ্টা, বাইরে আরো বেশি - Shomoyer Alo",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lRzBvMjJTVnhfRUxrbU1BamsxTkdEU2RySjZzdHZEZm5Td0ZlVzRpdzdJRXNxU1UyR1JQZldOUlBSVEU2QkZac2RfclBIMkNO?oc=5",
+   "published": "Fri, 05 Aug 2022 07:00:00 GMT"
+  },
+  {
+   "title": "ঢাকায় কোথায় কখন লোডশেডিং - bdnews24.com",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vXzNsMlJQZHFHVFNTRkVhSngzc3ItMHMtc0ZaYlA5QkR6dmxKbHl5bkFtaVZXUHZiMG9TYkhyclNZeUw2RkJ5dnYzWVcydGxza1JmYTRIdllBdlFEZkJlSEduQVRlcVlzRHU5OA?oc=5",
+   "published": "Mon, 18 Jul 2022 07:00:00 GMT"
+  },
+  {
+   "title": "লোডশেডিং: শনিবার কোথায় কখন জেনে নিন - Dhakatimes24",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yaXdITFJXc1c0TVJzNXlxY0h5SXM2aFJ4alFqZnhGTXJKMllyNDZSbks4X0JQY2dCNmItZkhycnZjaEFDeUpkaml3LUtYWl9ERUJGQ1UwQUxMUQ?oc=5",
+   "published": "Sat, 20 Aug 2022 07:00:00 GMT"
+  }
+ ],
  "planned": [
   {
    "title": "আজ যেসব এলাকায় ৯ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে",
@@ -36,6 +88,16 @@
    "end": "17:00",
    "ambiguous": false,
    "places": "সম্পাদক ও প্রকাশক : মবিনুল ইসলাম মবিন | যুগ্ম সম্পাদক : আঞ্জুমানারা খাতুন\nজরুরি বিদ্যুৎ লাইন রক্ষণাবেক্ষণ ও লাইনের পাশে থাকা গাছের ডালপালা ছাঁটাইয়ের কাজের জন্য রংপুর নগরীর বেশ কয়েকটি এলাকায় টানা ৯ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে। শনিবার (১৪ নভেম্বর) সকাল ৮টা থেকে বিকেল ৫টা পর্যন্ত এ বিদ্যুৎ বিভ্রাট চলবে বলে জানিয়েছে নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসি (নেসকো)। নেসকো রংপুরের নির্বাহী প্রকৌশলী (বিক্রয় ও বিতরণ বিভাগ-১) মো. আতিফুর রহমান স্বাক্ষরিত এক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়েছে। বিজ্ঞপ্তি অনুযায়ী, ১১ কেভি নুরপুর ফিডারের আওতাধীন বিভিন্ন এলাকায় জরুরি রক্ষণাবেক্ষণ এবং বিদ্যুৎ লাইনের পাশে থাকা গাছের শাখা-প্রশাখা ছাঁটাই করা হবে। এ কারণে নির্ধারিত সময়ে এসব এলাকায় বিদ্যুৎ সরবরাহ বন্ধ রাখা হবে। নেসকোর বিজ্ঞপ্তিতে উল্লেখ করা হয়েছে, বিদ্যুৎ সরবরাহ বন্ধ থাকার আওতাভুক্ত এলাকাগুলো হলো—বিকন মোড়, ঠিকাদার পাড়া, পানাম মোড়, সিঙ্গার শোরুম, নেসকো অফিস-১, নুরপুর, গুপ্তপাড়া, পুরাতন পাসপোর্ট অফিস, খরমপট্টি ব্রি"
+  },
+  {
+   "title": "মঙ্গলবার টানা ৮ ঘণ্টা বিদ্যুৎ থাকবে না যেসব এলাকায়",
+   "url": "https://www.jugantor.com/country-news/1185329",
+   "published": "2026-11-16T08:01:00+00:00",
+   "date": "2026-11-17",
+   "start": "07:00",
+   "end": "13:00",
+   "ambiguous": false,
+   "places": "বিদ্যুৎ লাইনের নিরাপত্তা নিশ্চিত করতে গাছের ঝুঁকিপূর্ণ ডালপালা কর্তনের কাজ করা হবে। এ কারণে আগামীকাল মঙ্গলবার (১৭ নভেম্বর) শরীয়তপুরের কয়েকটি এলাকায় টানা আট ঘণ্টা এবং রাজশাহীর বিভিন্ন এলাকায় পর্যায়ক্রমে ছয় ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে।\nএলাকাগুলো হলো—তালাইমারী, ফুলতলা, জাহাজঘাট, মিজানের মোড়, খোঁজাপুর, ডাশমারী, নর্দান মোড়, দেবিশিংপাড়া, সাধুর মোড়, মোন্নাফের মোড়, সেরিকালচার, বালিয়াপুকুর, বড় বটতলা, ভদ্রা, উপরভদ্রা, শিরোইল, শান্তিবাগ, মটপুকুর ও আশপাশের এলাকা।"
   }
  ],
  "sources": [
@@ -45,7 +107,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.0
+   "seconds": 5.2
   },
   {
    "id": "dpdc-n",
@@ -53,7 +115,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 2.9
+   "seconds": 4.1
   },
   {
    "id": "dpdc-o",
@@ -69,7 +131,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.5
+   "seconds": 4.7
   },
   {
    "id": "bpdb-n",
@@ -77,15 +139,15 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 24.3
+   "seconds": 24.7
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
    "ok": true,
-   "slots_found": 0,
+   "slots_found": 1,
    "notices_found": 1,
-   "seconds": 29.0
+   "seconds": 19.2
   },
   {
    "id": "wzpdcl-n",
@@ -93,7 +155,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 5.1
+   "seconds": 3.9
   }
  ]
 }
