@@ -1,18 +1,7 @@
 {
- "generated_at": "2026-11-18T00:02:05+06:00",
+ "generated_at": "2026-11-18T07:07:07+06:00",
  "timezone": "Asia/Dhaka",
- "slots": [
-  {
-   "utility": "NESCO",
-   "area": "পর্যায়ক্রমে বিদ্যুৎ সরবরাহ বন্ধ থাকবে। সাময়িক এ অসুবিধার জন্য নেসকো",
-   "date": "2026-11-18",
-   "start": "07:00",
-   "end": "13:00",
-   "ambiguous": true,
-   "source_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nesco/2026/10/59a15097-c832-4b46-83d6-e7f8204b707a.pdf",
-   "source_id": "nesco-n"
-  }
- ],
+ "slots": [],
  "notices": [
   {
    "utility": "BPDB",
@@ -33,7 +22,7 @@
    "title": "লোড শেডিং শিডিউল",
    "url": "https://nesco.gov.bd/site/view/notices",
    "type": "page",
-   "slots": 1
+   "slots": 0
   }
  ],
  "news": [
@@ -63,11 +52,6 @@
    "published": "Wed, 20 Jul 2022 07:00:00 GMT"
   },
   {
-   "title": "প্রতিদিন পাঁচ ঘণ্টা করে লোডশেডিং থাকবে বুয়েটে - The Daily Ittefaq",
-   "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxQVWtzdzJieFc0c0RoRkpiVjNod1h6RDBMV0VsYnEyWmN3SHozU0ZmRkZsZ1BpaThGaTFpeWFGOG5tM2NyeXc0aG5yZGQzTzUwYzBVM2tUYjVad0k4alFMM21JcXlXZmNUdzRfNHJUWWRRZGdwZEYzNHRhblBfRmFRVXpHaDM2eHphVEE3WGNKNmFLajFyTzFyX01IaERXYUxyVmJLa3lOT2dJZWRlQ0ZFRklzdWJQMnQ1OGJlTnMzcDNab0RMVkx4amRHQVI2YzA5bXN0TmF0cXNYZGp3WXg4V0FudFJ1SGFtc21nejM4N1NqTXROZU5MeDJwNGctQ3JfSDgzWGFWaXpaZVF1dE80aVFLaWRpb3dKSUxfWnV0MF9PaE9xUFNJSkttZDVpejNEem14NHRsV0p1R3pzdWZ0QVZKNV9VZU0xVHMwRUxVTm9PWWk1dm9VMEZJazlDUjVCWmY0OG5KTnpnbHMtMmt4eGh6ZUpfOGdKNXJTNjVjME0tTG9vMlMxTWJjUHZRTHFOUkpZaG5tYVNGS0NESElIZk5EaEcxLTVHcGtxV3lGbGJfU0prR2hoT01neC1KVjJHa2RlbmNaOHJxVVo2TXZNdkR5cWdjWnJyVDNYTVFIa29yMFlTRjNKSC1LZjZtTHVxSkxsS2tjaHd2eVh3cWwwNW5Za2R2eTVPSTIwdGFfYV9Na1NmSGM2Zjd6QThmUGJ6Z3plYXJn0gGrBEFVX3lxTFB5VW9IMGk2MjdSdmtRQ2FpaTMyYi1kc29tMGY3R1J2cllrbzl4VnIycTZseFNYNlk1OHdjeU84V29HcjhqSWlQamQwa18xV2VzVFpXZDZiSkNWS1lYd1JuM09kdmxWNzJiblpjNk5FMEpRZEN0RzBLeFdDZUJtV0Jlc1dxVFMybW4wck9qZnZUMGJxQTQ3LTAwMFRPRi1Cc3pPYWhFWkxycXR6QjJyQkV4Ykw2ejBNUlhYS2hub1hQUWl4TXlwSm9PYTZ3Zkdic3pXckhYQjVxd1JmeE5lUWt0N0Q4bk5Od2t3Um11dEcxTFlUa0Z6VXljZk9Nc3hyQTJSV3pWSHYwTGhBenFURl9XMnVyOHhtN080NjdrLVJwdzNudmpvSmFEMnRkblZKNjBWTXVqYmxSQVpLdkhyV1kySGJiSjFBZ3hheUlaU0RXUERFbUQ4WUJZTk9lME5BZlBLeUw0VUpOazFkU0F4RHRKNmw0QUgzendRMUZFTzRfSUdhV0Nwalc5QS0zWVdZcENrVWdyVktnTkdUQmFMaDFNWjZSTmhxSkpXbERPVUFyWnRzS3dSaDc3WHI4bjNVOTZ3eXZKYWdQZllpWXRLdjU1RGk2VmlmdHIwMVBMNUdOR2dWWkR6UGJkS29ZMW9VVEJ5SUg5MWIxUHNaVHhveTlMamlNYk1iTTJ5ODRZSmQzNGltaHhlTFFGcnBpcG8xY2JjT2VtOUR4Q2ZHRQ?oc=5",
-   "published": "Mon, 24 Aug 2026 07:00:00 GMT"
-  },
-  {
    "title": "লোডশেডিং ঢাকায় ২-৩ ঘণ্টা, বাইরে আরো বেশি - Shomoyer Alo",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lRzBvMjJTVnhfRUxrbU1BamsxTkdEU2RySjZzdHZEZm5Td0ZlVzRpdzdJRXNxU1UyR1JQZldOUlBSVEU2QkZac2RfclBIMkNO?oc=5",
    "published": "Fri, 05 Aug 2022 07:00:00 GMT"
@@ -76,6 +60,11 @@
    "title": "ঢাকায় কোথায় কখন লোডশেডিং - bdnews24.com",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vXzNsMlJQZHFHVFNTRkVhSngzc3ItMHMtc0ZaYlA5QkR6dmxKbHl5bkFtaVZXUHZiMG9TYkhyclNZeUw2RkJ5dnYzWVcydGxza1JmYTRIdllBdlFEZkJlSEduQVRlcVlzRHU5OA?oc=5",
    "published": "Mon, 18 Jul 2022 07:00:00 GMT"
+  },
+  {
+   "title": "লোডশেডিং: শনিবার কোথায় কখন জেনে নিন - Dhakatimes24",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yaXdITFJXc1c0TVJzNXlxY0h5SXM2aFJ4alFqZnhGTXJKMllyNDZSbks4X0JQY2dCNmItZkhycnZjaEFDeUpkaml3LUtYWl9ERUJGQ1UwQUxMUQ?oc=5",
+   "published": "Sat, 20 Aug 2022 07:00:00 GMT"
   }
  ],
  "planned": [
@@ -88,6 +77,16 @@
    "end": "17:00",
    "ambiguous": false,
    "places": "বার্ষিক রক্ষণাবেক্ষণ কাজের জন্য আগামীকাল বুধবার (১৮ নভেম্বর) সকাল থেকে টানা ৯ ঘণ্টা দেশের কয়েকটি এলাকায় বিদ্যুৎ সরবরাহ বন্ধ থাকবে। মঙ্গলবার (১৭ নভেম্বর) বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ডের ঢাকা পল্লী বিদ্যুৎ সমিতি-৪ এক বিজ্ঞপ্তিতে জানিয়েছে, পানগাঁও উপকেন্দ্রের বার্ষিক রক্ষণাবেক্ষণ কাজের জন্য বুধবার সকাল ৮টা থেকে বিকেল ৫টা পর্যন্ত বিদ্যুৎ সরবরাহ বন্ধ থাকবে।\nবিজ্ঞপ্তিতে আরও বলা হয়, সকাল ৮টা থেকে দুপুর ২টা পর্যন্ত বিতরণ বিভাগ পটিয়ার আওতাধীন জুলদা ৩৩/১১ কেভি গ্রীড উপকেন্দ্রের অধীন ১১ কেভি মৌলভীবাজার ফিডারের আওতাভুক্ত বেলার বাপের বাড়ি থেকে লক্ষীর বাপের বাড়ি, মিচরি বাপের বাড়ি, চান মিয়া বাপের বাড়ি, লেইরো বাড়ি, গুল বাহার বাপের বাড়ি, বদুর বাপের বাড়ি, মাগন আলী তালুকদার বাড়ি থেকে আইয়ুব শাহ বাড়ি, নিমতল কুতুব মাঝির বাড়ি, ইদ্রিস সওঃ বাড়ি, নিমতল গরু ফার্ম, তমিজ গোলাল চেয়ারম্যান বাড়ী, বাদামতল, ছিবাতল, জোনাকি স্কুল, আলী চেয়ারম্যান বাড়ী, গোয়ালপাড়া, আইডি সাহেবের বাড়ী, মহিলা মেম্বারের বাড়ী, গোয়ালপাড়া মিলঘর, "
+  },
+  {
+   "title": "আজ যেসব এলাকায় ৯ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে",
+   "url": "https://www.gramerkagoj.com/country-news/317448",
+   "published": "2026-11-13T17:49:00+00:00",
+   "date": "2026-11-18",
+   "start": "08:00",
+   "end": "17:00",
+   "ambiguous": false,
+   "places": "সম্পাদক ও প্রকাশক : মবিনুল ইসলাম মবিন | যুগ্ম সম্পাদক : আঞ্জুমানারা খাতুন\nজরুরি বিদ্যুৎ লাইন রক্ষণাবেক্ষণ ও লাইনের পাশে থাকা গাছের ডালপালা ছাঁটাইয়ের কাজের জন্য রংপুর নগরীর বেশ কয়েকটি এলাকায় টানা ৯ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে। শনিবার (১৪ নভেম্বর) সকাল ৮টা থেকে বিকেল ৫টা পর্যন্ত এ বিদ্যুৎ বিভ্রাট চলবে বলে জানিয়েছে নর্দান ইলেকট্রিসিটি সাপ্লাই পিএলসি (নেসকো)। নেসকো রংপুরের নির্বাহী প্রকৌশলী (বিক্রয় ও বিতরণ বিভাগ-১) মো. আতিফুর রহমান স্বাক্ষরিত এক বিজ্ঞপ্তিতে এ তথ্য জানানো হয়েছে। বিজ্ঞপ্তি অনুযায়ী, ১১ কেভি নুরপুর ফিডারের আওতাধীন বিভিন্ন এলাকায় জরুরি রক্ষণাবেক্ষণ এবং বিদ্যুৎ লাইনের পাশে থাকা গাছের শাখা-প্রশাখা ছাঁটাই করা হবে। এ কারণে নির্ধারিত সময়ে এসব এলাকায় বিদ্যুৎ সরবরাহ বন্ধ রাখা হবে। নেসকোর বিজ্ঞপ্তিতে উল্লেখ করা হয়েছে, বিদ্যুৎ সরবরাহ বন্ধ থাকার আওতাভুক্ত এলাকাগুলো হলো—বিকন মোড়, ঠিকাদার পাড়া, পানাম মোড়, সিঙ্গার শোরুম, নেসকো অফিস-১, নুরপুর, গুপ্তপাড়া, পুরাতন পাসপোর্ট অফিস, খরমপট্টি ব্রি"
   }
  ],
  "sources": [
@@ -97,7 +96,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.7
+   "seconds": 4.2
   },
   {
    "id": "dpdc-n",
@@ -105,7 +104,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.1
+   "seconds": 3.2
   },
   {
    "id": "dpdc-o",
@@ -113,7 +112,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.6
+   "seconds": 1.3
   },
   {
    "id": "breb-n",
@@ -121,7 +120,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.3
+   "seconds": 3.5
   },
   {
    "id": "bpdb-n",
@@ -129,15 +128,15 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 30.5
+   "seconds": 25.8
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
    "ok": true,
-   "slots_found": 1,
+   "slots_found": 0,
    "notices_found": 1,
-   "seconds": 25.1
+   "seconds": 28.5
   },
   {
    "id": "wzpdcl-n",
@@ -145,7 +144,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.5
+   "seconds": 3.7
   }
  ]
 }
