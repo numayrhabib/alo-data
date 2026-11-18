@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T07:07:07+06:00",
+ "generated_at": "2026-11-18T14:46:43+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
  "notices": [
@@ -96,7 +96,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.2
+   "seconds": 7.5
   },
   {
    "id": "dpdc-n",
@@ -104,7 +104,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.2
+   "seconds": 4.4
   },
   {
    "id": "dpdc-o",
@@ -120,7 +120,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.5
+   "seconds": 3.2
   },
   {
    "id": "bpdb-n",
@@ -128,7 +128,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 25.8
+   "seconds": 26.0
   },
   {
    "id": "nesco-n",
@@ -136,7 +136,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 1,
-   "seconds": 28.5
+   "seconds": 28.9
   },
   {
    "id": "wzpdcl-n",
