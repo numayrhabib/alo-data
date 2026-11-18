@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T14:46:43+06:00",
+ "generated_at": "2026-11-18T23:44:20+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
  "notices": [
@@ -62,9 +62,9 @@
    "published": "Mon, 18 Jul 2022 07:00:00 GMT"
   },
   {
-   "title": "লোডশেডিং: শনিবার কোথায় কখন জেনে নিন - Dhakatimes24",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yaXdITFJXc1c0TVJzNXlxY0h5SXM2aFJ4alFqZnhGTXJKMllyNDZSbks4X0JQY2dCNmItZkhycnZjaEFDeUpkaml3LUtYWl9ERUJGQ1UwQUxMUQ?oc=5",
-   "published": "Sat, 20 Aug 2022 07:00:00 GMT"
+   "title": "বুয়েটে দিনে ৫ ঘণ্টা লোডশেডিংয়ের নোটিশ - কালবেলা",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ESm1LREFYcF9QWndwUTF1Q2pBMFJrQm5oXzdtd0UtZThfcW5ZeVVPWUxibGdGdXVNZFdpcnhnYWt6V2hKZV9HXzVZUTctQmt1TVlqTm9nYUlFb1p4R0FUdg?oc=5",
+   "published": "Sun, 23 Aug 2026 07:00:00 GMT"
   }
  ],
  "planned": [
@@ -96,7 +96,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 7.5
+   "seconds": 5.9
   },
   {
    "id": "dpdc-n",
@@ -104,7 +104,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.4
+   "seconds": 3.7
   },
   {
    "id": "dpdc-o",
@@ -112,7 +112,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.3
+   "seconds": 1.2
   },
   {
    "id": "breb-n",
@@ -120,7 +120,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.2
+   "seconds": 3.9
   },
   {
    "id": "bpdb-n",
@@ -128,7 +128,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 26.0
+   "seconds": 29.5
   },
   {
    "id": "nesco-n",
@@ -136,7 +136,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 1,
-   "seconds": 28.9
+   "seconds": 36.1
   },
   {
    "id": "wzpdcl-n",
@@ -144,7 +144,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.7
+   "seconds": 5.2
   }
  ]
 }
