@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T11:22:22+06:00",
+ "generated_at": "2026-11-19T20:36:22+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
  "notices": [
@@ -86,7 +86,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.4
+   "seconds": 5.1
   },
   {
    "id": "dpdc-n",
@@ -94,7 +94,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 4.4
+   "seconds": 4.8
   },
   {
    "id": "dpdc-o",
@@ -102,7 +102,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.4
+   "seconds": 1.5
   },
   {
    "id": "breb-n",
@@ -110,7 +110,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.8
+   "seconds": 4.4
   },
   {
    "id": "bpdb-n",
@@ -118,7 +118,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 2,
-   "seconds": 26.0
+   "seconds": 31.9
   },
   {
    "id": "nesco-n",
@@ -126,7 +126,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 1,
-   "seconds": 29.3
+   "seconds": 14.4
   },
   {
    "id": "wzpdcl-n",
@@ -134,7 +134,7 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 3.7
+   "seconds": 4.5
   }
  ]
 }
