@@ -1,8 +1,30 @@
 {
- "generated_at": "2026-11-22T15:12:54+06:00",
+ "generated_at": "2026-11-22T23:16:51+06:00",
  "timezone": "Asia/Dhaka",
  "slots": [],
- "notices": [],
+ "notices": [
+  {
+   "utility": "BPDB",
+   "title": "উৎপাদন উৎপাদন পাওয়ার জেনারেশন ইউনিট সর্বাধিক উৎপাদন দৈনিক উৎপাদনের রেকর্ড উৎপাদন বিবরণী বিদ্যুৎ কেন্দ্রের পরিসংখ্যান (IPP সহ) চাহিদা ও লোডশেডিং দেশব্যাপী",
+   "url": "https://bpdb.gov.bd/site/view/notices",
+   "type": "page",
+   "slots": 0
+  },
+  {
+   "utility": "BPDB",
+   "title": "চাহিদা ও লোডশেডিং",
+   "url": "https://bpdb.gov.bd/pages/static-pages/6922de2e933eb65569e18d6c",
+   "type": "page",
+   "slots": 0
+  },
+  {
+   "utility": "NESCO",
+   "title": "লোড শেডিং শিডিউল",
+   "url": "https://nesco.gov.bd/site/view/notices",
+   "type": "page",
+   "slots": 0
+  }
+ ],
  "news": [
   {
    "title": "বুয়েটে দৈনিক লোডশেডিংয়ের সূচি প্রকাশ - Dainik Shiksha",
@@ -45,19 +67,34 @@
    "published": "Sat, 20 Aug 2022 07:00:00 GMT"
   }
  ],
- "planned": [],
+ "planned": [
+  {
+   "title": "যেসব এলাকায় ৯ ঘণ্টা বিদ্যুৎ থাকবে না সোমবার",
+   "url": "https://www.arthosuchak.com/archives/983542/%e0%a6%af%e0%a7%87%e0%a6%b8%e0%a6%ac-%e0%a6%8f%e0%a6%b2%e0%a6%be%e0%a6%95%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a7%af-%e0%a6%98%e0%a6%a3%e0%a7%8d%e0%a6%9f%e0%a6%be-%e0%a6%ac%e0%a6%bf%e0%a6%a6%e0%a7%8d-3/",
+   "published": "2026-11-22T07:19:00+00:00",
+   "date": "2026-11-23",
+   "start": "08:00",
+   "end": "17:00",
+   "ambiguous": false,
+   "places": "জরুরি রক্ষণাবেক্ষণ কাজের জন্য আগামীকাল সোমবার (২৩ নভেম্বর) সকাল থেকে দেশের কয়েকটি এলাকায় টানা ৯ ঘণ্টা বিদ্যুৎ সরবরাহ বন্ধ থাকবে।\nবিদ্যুৎ সরবরাহ বন্ধ থাকা এলাকাগুলো হলো- হাসনাবাদ, দোলেশ্বর, ইকুরিয়া, মোকামপাড়া, মীরেরবাগ, মুসলিম নগর, বেয়ারা, মজিলবেয়ারা, নোয়াদ্দা, আড়াকুল, তেঘরিয়া, বনগ্রাম, পুবদি, মনুরবাগ, মির্জাপুর, মুজাহিদনগর ও বাগবাড়ী। সাময়িক অসুবিধার জন্য গ্রাহকদের কাছে দুঃখ প্রকাশ করেছে কর্তৃপক্ষ।"
+  }
+ ],
  "sources": [
   {
    "id": "desco-n",
    "utility": "DESCO",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='desco.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='desco.gov.bd', port=443) at 0x7b7efa71c890>, 'Co"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 5.2
   },
   {
    "id": "dpdc-n",
    "utility": "DPDC",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='dpdc.gov.bd', port=443): Max retries exceeded with url: /pages/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='dpdc.gov.bd', port=443) at 0x7b7efa717050>, 'Conn"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 5.1
   },
   {
    "id": "dpdc-o",
@@ -65,31 +102,39 @@
    "ok": true,
    "slots_found": 0,
    "notices_found": 0,
-   "seconds": 1.5
+   "seconds": 1.1
   },
   {
    "id": "breb-n",
    "utility": "BREB",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='reb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='reb.gov.bd', port=443) at 0x7b7efa71ede0>, 'Co"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 3.3
   },
   {
    "id": "bpdb-n",
    "utility": "BPDB",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='bpdb.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='bpdb.gov.bd', port=443) at 0x7b7efa71f6e0>, '"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 2,
+   "seconds": 21.7
   },
   {
    "id": "nesco-n",
    "utility": "NESCO",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='nesco.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='nesco.gov.bd', port=443) at 0x7b7efa71ff80>,"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 1,
+   "seconds": 24.4
   },
   {
    "id": "wzpdcl-n",
    "utility": "WZPDCL",
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='wzpdcl.gov.bd', port=443): Max retries exceeded with url: /site/view/notices (Caused by ConnectTimeoutError(<HTTPSConnection(host='wzpdcl.gov.bd', port=443) at 0x7b7efa720980"
+   "ok": true,
+   "slots_found": 0,
+   "notices_found": 0,
+   "seconds": 3.3
   }
  ]
 }
